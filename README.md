@@ -45,4 +45,4 @@ Les questions Francaises proviennent de 22 thèmes différents listés ci-dessou
 * Sucre
 * Toy Story
 
-Je ne saurais pas dire de quelles catégories sont issues les questions Anglaises.
+Les questions Anglaises proviennent de certaines de ces catégories ainsi que d'autres dont je ne me souviens pas.
