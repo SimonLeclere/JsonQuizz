@@ -19,4 +19,30 @@ Chaque question est structurée de cette manière :
   }
 ```
 
-# Bisous
+# Thèmes des questions
+
+Les questions Francaises proviennent de 22 thèmes différents listés ci-dessous :
+* Animaux célèbres
+* Bob l'éponge
+* Boissons sans alcool
+* Cactus
+* Chats
+* Chocolat
+* Couleurs
+* Covid-19
+* Culture jeune
+* Fromages de France
+* Héros Marvel
+* Internet
+* Jeunesse et dessins animés
+* Le roi Lion
+* Mamans
+* Nintendo
+* Nombres
+* Patrick Sebastien
+* Princesses Disney
+* Santé & bien être
+* Sucre
+* Toy Story
+
+Je ne saurais pas dire de quelles catégories sont issues les questions Anglaises.
