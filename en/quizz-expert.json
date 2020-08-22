@@ -1,0 +1,1871 @@
+[
+  {
+    "question": "Appeared 450 million years ago, to which animal class does the scorpion belong ?",
+    "propositions": [
+      "Reptiles",
+      "Mammals",
+      "Insects",
+      "Arachnids"
+    ],
+    "réponse": "Arachnids",
+    "anecdote": "Scorpions are distinguished from spiders by a poisonous sting located at the end of their abdomen which can be fatal to humans."
+  },
+  {
+    "question": "What brother of an actress named Mary made the film 'Saturday night fever' ?",
+    "propositions": [
+      "John Remezick",
+      "John Badham",
+      "John Travolta",
+      "John Payne"
+    ],
+    "réponse": "John Badham",
+    "anecdote": "'Saturday Night Fever', produced by John Badham, was one of the main vectors for the dissemination of music and disco fashion."
+  },
+  {
+    "question": "In the Middle Ages, what was a fortified village called ?",
+    "propositions": [
+      "Bastide",
+      "Rampart",
+      "Tour",
+      "Fortified castle"
+    ],
+    "réponse": "Bastide",
+    "anecdote": "Nowadays, the most famous country houses are those of Monflanquin, Monpazier, Grenada or even Libourne."
+  },
+  {
+    "question": "Which town in Kent is famous for its miraculous spring ?",
+    "propositions": [
+      "Ramsgate",
+      "Gillingham",
+      "Tunbridge Wells",
+      "Dartford"
+    ],
+    "réponse": "Tunbridge Wells",
+    "anecdote": "Like Queen Victoria, many famous people came to Tunbridge Wells for a cure to take advantage of its miraculous source."
+  },
+  {
+    "question": "What wine-based appetizer is flavored with bitter and invigorating plants ?",
+    "propositions": [
+      "Kokebok",
+      "Piccolo",
+      "Vermouth",
+      "Gentian"
+    ],
+    "réponse": "Vermouth",
+    "anecdote": "In a classification from the driest to the mildest, we find dry vermouth, white, rose and red."
+  },
+  {
+    "question": "To which writer, member of the French Academy, do we owe the novel entitled 'Le sagouin' ?",
+    "propositions": [
+      "Barjavel",
+      "Mauriac",
+      "Giono",
+      "Camus"
+    ],
+    "réponse": "Mauriac",
+    "anecdote": "In the novel 'Le sagouin', written in four parts, we can assume that the action took place around 1920."
+  },
+  {
+    "question": "Which French president died in an unusual situation ?",
+    "propositions": [
+      "Félix Faure",
+      "René Coty",
+      "Georges Pompidou",
+      "Raymond Poincaré"
+    ],
+    "réponse": "Félix Faure",
+    "anecdote": "Following this unexpected death, it was often said of Félix Faure that he was a president more famous by his death than by his life."
+  },
+  {
+    "question": "What is the name of the mountain slope not located in the sun ?",
+    "propositions": [
+      "Being",
+      "Adret",
+      "Surf",
+      "Ubac"
+    ],
+    "réponse": "Ubac",
+    "anecdote": "In the northern hemisphere, the ubac is generally the north face of a mountain while the adret represents the south face."
+  },
+  {
+    "question": "What palmiped bird has the particularity of building a floating nest ?",
+    "propositions": [
+      "Grèle",
+      "Grène",
+      "Grebe",
+      "Grève"
+    ],
+    "réponse": "Grebe",
+    "anecdote": "The position of the legs, very short and very back in relation to the body, has earned the name the pretty name of feet behind."
+  },
+  {
+    "question": "A chuck, which owes its name to its resemblance to a duckbill, is a tool close to...",
+    "propositions": [
+      "Planer",
+      "Mallet",
+      "Wood chisel",
+      "Crankshaft"
+    ],
+    "réponse": "Wood chisel",
+    "anecdote": "The chisel is a tool still sometimes used today to make wooden parts turned between points."
+  },
+  {
+    "question": "In which country was the first face transplant performed in 2005 ?",
+    "propositions": [
+      "Spain",
+      "France",
+      "United States",
+      "China"
+    ],
+    "réponse": "France",
+    "anecdote": "The first partial facial transplant in the world was performed at the CHU de Lyon on a 38-year-old woman, Isabelle Dinoire."
+  },
+  {
+    "question": "How many variations of different colors can the human eye distinguish ?",
+    "propositions": [
+      "300,000",
+      "100,000",
+      "200,000",
+      "400,000"
+    ],
+    "réponse": "300,000",
+    "anecdote": "Each human eye is able to discern shades of green or red more easily than shades of blue."
+  },
+  {
+    "question": "Which synthetic opiate is used as a substitute for heroin ?",
+    "propositions": [
+      "Hemp",
+      "Ketamine",
+      "Paracetamol",
+      "Methadone"
+    ],
+    "réponse": "Methadone",
+    "anecdote": "As a narcotic pain reliever, methadone is also used to relieve severe pain."
+  },
+  {
+    "question": "Which excess hormone is mainly related to baldness ?",
+    "propositions": [
+      "Testosterone",
+      "Acetone",
+      "Progesterone",
+      "Cortisone"
+    ],
+    "réponse": "Testosterone",
+    "anecdote": "Testosterone is mainly secreted by the gonads, that is to say, the female testicles and the female ovaries."
+  },
+  {
+    "question": "What alternative medicine is based on the use of essential oils ?",
+    "propositions": [
+      "Aromatherapy",
+      "Reflexology",
+      "Homeopathy",
+      "Naturopathy"
+    ],
+    "réponse": "Aromatherapy",
+    "anecdote": "Aromatherapy is different from phytotherapy, which makes use of all of the elements of a plant."
+  },
+  {
+    "question": "Which hormone lowers the blood glucose level ?",
+    "propositions": [
+      "Testosterone",
+      "Methadone",
+      "Thyroid",
+      "Insulin"
+    ],
+    "réponse": "Insulin",
+    "anecdote": "The release of glucose from the liver into the blood is very severely limited by a high blood level of insulin."
+  },
+  {
+    "question": "From which tree does the molecule that makes aspirin come from ?",
+    "propositions": [
+      "Beech",
+      "Willow",
+      "Fir",
+      "Birch"
+    ],
+    "réponse": "Willow",
+    "anecdote": "We found the mention of decoctions of willow leaves in an Egyptian papyrus from 1550 BC. AD (Ebers papyrus)."
+  },
+  {
+    "question": "What substance does the albino organism lack ?",
+    "propositions": [
+      "Melanin",
+      "Dopamine",
+      "Quinine",
+      "Insulin"
+    ],
+    "réponse": "Melanin",
+    "anecdote": "In humans, the skin is waxy white or slightly pink, while the hair is white, like the hairs, eyebrows and eyelashes."
+  },
+  {
+    "question": "What was the first antibiotic discovered in 1928 by Alexander Fleming ?",
+    "propositions": [
+      "Acétarsol",
+      "Penicillin",
+      "Dopamine",
+      "Triclosan"
+    ],
+    "réponse": "Penicillin",
+    "anecdote": "Large-scale industrialization of the penicillin was carried out throughout the duration of the Second World War."
+  },
+  {
+    "question": "Which plant reputed for its digestive virtues is also a cinematic hero ?",
+    "propositions": [
+      "Angelic",
+      "Catwoman",
+      "Nebula",
+      "Mystic"
+    ],
+    "réponse": "Angelic",
+    "anecdote": "The genus Angelica (angelica) includes about 70 species of large perennial herbaceous plants of the Apiaceae family."
+  },
+  {
+    "question": "What is the title of the fifth album of the French rap band IAM released in 2007 ?",
+    "propositions": [
+      "Décoffrage",
+      "Pour rien au monde",
+      "Saison 5",
+      "Prière et dévotion"
+    ],
+    "réponse": "Saison 5",
+    "anecdote": "On the occasion of the group's 20th anniversary, IAM met for a concert at the foot of the Pyramids of Giza on 14th March 2008."
+  },
+  {
+    "question": "Who created the characters of 'Heads slaps' on the internet ?",
+    "propositions": [
+      "Michel Beaudry",
+      "Michel Beaulieu",
+      "Michel Beaupré",
+      "Michel Beaudet"
+    ],
+    "réponse": "Michel Beaudet",
+    "anecdote": "The site created by the ex-advertising Michel Beaudet knows, since its creation on August 16, 2006, a very big success."
+  },
+  {
+    "question": "What is the new name of the free instant messaging software 'Gaim' ?",
+    "propositions": [
+      "Connect",
+      "Komunnity",
+      "iShare",
+      "Pidgin"
+    ],
+    "réponse": "Pidgin",
+    "anecdote": "'Gaim' was renamed 'Pidgin' in 2007 because of complaints from AOL and its AIM brand."
+  },
+  {
+    "question": "What is the rarest and most expensive card in 'Magic the Gathering' ?",
+    "propositions": [
+      "Black Lotus",
+      "Bird of Paradise",
+      "Angel of Serra",
+      "Diamond Mox"
+    ],
+    "réponse": "Black Lotus",
+    "anecdote": "There are more than 20 000 different cards with which each player must build his game by following specific rules."
+  },
+  {
+    "question": "In which city were the sadly famous pacifists of the 1972 Bloody Sunday killed ?",
+    "propositions": [
+      "Belfast",
+      "Derry",
+      "Limerick",
+      "Dublin"
+    ],
+    "réponse": "Derry",
+    "anecdote": "Every year, on the last Sunday of January, a memorial march takes place in the Bogside District."
+  },
+  {
+    "question": "What wicker basket can throw the ball to the Basque pelota ?",
+    "propositions": [
+      "Makhila",
+      "Chistera",
+      "Talo",
+      "Bertsu"
+    ],
+    "réponse": "Chistera",
+    "anecdote": "Universal game, legacy of other civilizations, the Basque pelota gathers several traditional games from the game of palm."
+  },
+  {
+    "question": "In which city was founded the Oxbow clothing brand in 1985 ?",
+    "propositions": [
+      "Biarritz",
+      "Bordeaux",
+      "Pont-Audemer",
+      "Chambord"
+    ],
+    "réponse": "Pont-Audemer",
+    "anecdote": "The brand of clothing Oxbow, now « French Surf House », wants to pioneer a sport-fashion positioning."
+  },
+  {
+    "question": "How much was the famous ENIAC, a fully electronic computer ?",
+    "propositions": [
+      "1 ton",
+      "500 kilos",
+      "125 kilos",
+      "30 tons"
+    ],
+    "réponse": "30 tons",
+    "anecdote": "ENIAC could, in principle, solve all computational problems at the cost of high energy consumption."
+  },
+  {
+    "question": "Which African country is known as « Pays des Braves » ?",
+    "propositions": [
+      "Sudan",
+      "Tunisia",
+      "Somalia",
+      "Djibouti"
+    ],
+    "réponse": "Djibouti",
+    "anecdote": "Djibouti, located on the western coast of the southern Red Sea, is the name of both the country and its capital."
+  },
+  {
+    "question": "Who impressively embodied Commissioner Valencia on TV ?",
+    "propositions": [
+      "Frédéric Diefenthal",
+      "Richard Berry",
+      "Bernard Tapie",
+      "Jean Reno"
+    ],
+    "réponse": "Bernard Tapie",
+    "anecdote": "Bernard Tapie has mostly been talked about in a series of financial operations, with among others the Credit Lyonnais."
+  },
+  {
+    "question": "Which French actor was the companion of Halle Berry and Kylie Minogue ?",
+    "propositions": [
+      "Mathieu Kassovitz",
+      "Olivier Martinez",
+      "Mathieu Amalric",
+      "Bruno Putzulu"
+    ],
+    "réponse": "Olivier Martinez",
+    "anecdote": "Olivier Martinez held the role of Angelo Pardi alongside Juliette Binoche in Jean-Paul Rappeneau's Le Hussard on the Roof."
+  },
+  {
+    "question": "Who did Jennifer Flavin, with whom he had Sophia, Sistine and Scarlet ?",
+    "propositions": [
+      "Eric Roberts",
+      "Dolph Lundgren",
+      "Jason Statham",
+      "Sylvester Stallone"
+    ],
+    "réponse": "Sylvester Stallone",
+    "anecdote": "After Donald Trump's victory in 2016, he proposed Stallone as president of the National Endowment for the Arts."
+  },
+  {
+    "question": "From which outsider Claude Chabrol says he is the French Al Pacino ?",
+    "propositions": [
+      "Daniel Auteuil",
+      "Mathieu Amalric",
+      "Vincent Cassel",
+      "François Cluzet"
+    ],
+    "réponse": "François Cluzet",
+    "anecdote": "Since 2004, he is the sponsor of the association Defeat Cystic Fibrosis with Isabelle Carré et Gérard Lenorman."
+  },
+  {
+    "question": "What beautiful Irishman did Charlize Theron share in life from 2002 to 2010 ?",
+    "propositions": [
+      "Adrian Dunbar",
+      "Hugh Leonard",
+      "Jim Sheridan",
+      "Stuart Townsend"
+    ],
+    "réponse": "Stuart Townsend",
+    "anecdote": "Stuart Townsend first opted for a boxing career before starting in 1996 at the film in the film 'Trojan Eddie'."
+  },
+  {
+    "question": "From which magazine did the nude show Christophe Dechavanne obtain the withdrawal in 2006 ?",
+    "propositions": [
+      "Choc",
+      "Paris Match",
+      "VSD",
+      "Le Figaro"
+    ],
+    "réponse": "Choc",
+    "anecdote": "The photos were taken on January 2nd, at Huvafen Fushi, a luxury hotel in the Maldives Islands where the host was on vacation."
+  },
+  {
+    "question": "What very sexy British actor has been ambassador of the Lancôme perfume Hypnôse ?",
+    "propositions": [
+      "Clive Owen",
+      "Sean Connery",
+      "Michael York",
+      "Chris Hemsworth"
+    ],
+    "réponse": "Clive Owen",
+    "anecdote": "In France, Julien Kramer is the regular French voice of Clive Owen, although Bernard Gabay has also doubled it."
+  },
+  {
+    "question": "Which Good Charlotte singer is Nicole Richie's father ?",
+    "propositions": [
+      "Billy Martin",
+      "Joel Madden",
+      "Dean Butterworth",
+      "Paul Thomas"
+    ],
+    "réponse": "Joel Madden",
+    "anecdote": "During a concert of the Beastie Boys of the 1990s, it was the click for the twins who decided to devote themselves to music."
+  },
+  {
+    "question": "Who risked being arrested for kissing in India and in public actress Shilpa Shetty ?",
+    "propositions": [
+      "Richard Gere",
+      "Colin Farrell",
+      "Joaquin Phoenix",
+      "Johnny Depp"
+    ],
+    "réponse": "Richard Gere",
+    "anecdote": "Richard Gere is using his notoriety as an actor to promote his aid to the Tibetan people oppressed by the Chinese government."
+  },
+  {
+    "question": "Which football player was nicknamed Petit Bison by Emmanuel Petit ?",
+    "propositions": [
+      "Bixente Lizarazu",
+      "Christophe Dugarry",
+      "Laurent Blanc",
+      "Thierry Henry"
+    ],
+    "réponse": "Bixente Lizarazu",
+    "anecdote": "Formed in his native Basque Country, Bixente Lizarazu has joined the Girondins de Bordeaux where he started as a professional."
+  },
+  {
+    "question": "To which sex symbol of the 1970s is actress Kelly Preston married ?",
+    "propositions": [
+      "Ryan Gosling",
+      "John Travolta",
+      "Kevin Costner",
+      "Hugh Jackman"
+    ],
+    "réponse": "John Travolta",
+    "anecdote": "John Travolta, who lives in Ocala, Florida, is an active member of Scientology, as is his colleague Tom Cruise."
+  },
+  {
+    "question": "What makeup product has the effect of imitating a tan and giving a better glow ?",
+    "propositions": [
+      "English balm",
+      "Irish salt",
+      "Indian land",
+      "Italian water"
+    ],
+    "réponse": "Indian land",
+    "anecdote": "The most common mistake is to put the Indian soil all over the face, the ideal being to apply it on the places where the sun beats."
+  },
+  {
+    "question": "What was the first cosmetic online sales site in France in 2019 ?",
+    "propositions": [
+      "L'Oréal",
+      "Clinique",
+      "Yves Rocher",
+      "Clarins"
+    ],
+    "réponse": "Yves Rocher",
+    "anecdote": "Yves Rocher is a company owned by the Yves Rocher group and has 1,700 stores, including 650 in France."
+  },
+  {
+    "question": "In what year did James Bruce Mason patent the swivel lipstick ?",
+    "propositions": [
+      "1947",
+      "1952",
+      "1938",
+      "1923"
+    ],
+    "réponse": "1923",
+    "anecdote": "Before this date, in 1915, Maurice Lévy, an American inventor, registered the patent for the sliding system tube."
+  },
+  {
+    "question": "In ancient Egypt, what could green eyeshadows invoke ?",
+    "propositions": [
+      "Protection",
+      "Domination",
+      "Destruction",
+      "Meditation"
+    ],
+    "réponse": "Protection",
+    "anecdote": "The green eyeshadows (wadju) could invoke the protection of Hathor, the goddess of festivities and love."
+  },
+  {
+    "question": "Which brand developed the first long-lasting opaque colored nail polishes ?",
+    "propositions": [
+      "Kiko",
+      "Revlon",
+      "Maybelline",
+      "Benefit"
+    ],
+    "réponse": "Revlon",
+    "anecdote": "In 1950, the colors of the varnishes created in 1932 will this time be matched with the American fashion collections."
+  },
+  {
+    "question": "In Antiquity, what virtue was granted to black eyeshadow ?",
+    "propositions": [
+      "Sweating",
+      "Illumination",
+      "Disinfection",
+      "Eruption"
+    ],
+    "réponse": "Disinfection",
+    "anecdote": "Thanks to lead sulfide and the chlorine it contained, black eyeshadow, called mesdemet, also served as a disinfectant."
+  },
+  {
+    "question": "What false mole was once used to bring out the whiteness of the complexion ?",
+    "propositions": [
+      "Fly",
+      "Hornet",
+      "Wasp",
+      "Bee"
+    ],
+    "réponse": "Fly",
+    "anecdote": "The Romans and the Egyptians already used flies to camouflage small buttons."
+  },
+  {
+    "question": "What makeup on the top of the eye is intended to enlarge the look ?",
+    "propositions": [
+      "Lynx eye",
+      "Beef eye",
+      "Glass eye",
+      "Doe eye"
+    ],
+    "réponse": "Doe eye",
+    "anecdote": "Doe eye uses loose powder, eye pencil, eyeshadows, liner and mascara."
+  },
+  {
+    "question": "What brand wants to be the make-up for theater and for the city ?",
+    "propositions": [
+      "NYX",
+      "Estée Lauder",
+      "Revlon",
+      "Bourjois"
+    ],
+    "réponse": "Bourjois",
+    "anecdote": "A long-standing company of Chanel, the Bourjois brand markets perfumes, make-up and cosmetics."
+  },
+  {
+    "question": "The Maybelline brand results from the contraction of Maybel and from what word ?",
+    "propositions": [
+      "Grenadine",
+      "Dioxin",
+      "Vaseline",
+      "Fluorite"
+    ],
+    "réponse": "Vaseline",
+    "anecdote": "It is the chemist Tom Lyle Williams who will create the first modern mascara based on the formula of his sister, Mabel."
+  },
+  {
+    "question": "Which of these four dresses has large spots ?",
+    "propositions": [
+      "Pie",
+      "Bai",
+      "Isabelle",
+      "Pommelé"
+    ],
+    "réponse": "Pie",
+    "anecdote": "The term 'magpie', by analogy to the animal of the same name, is preferred to that of 'two-colored' to designate such dresses."
+  },
+  {
+    "question": "Approximately how many different breeds of horses do you currently have ?",
+    "propositions": [
+      "200",
+      "500",
+      "300",
+      "400"
+    ],
+    "réponse": "300",
+    "anecdote": "In 2008, according to data from the FAO, 58 million horses are reported worldwide on five continents."
+  },
+  {
+    "question": "At what average frequency does the heart of a horse beat at rest ?",
+    "propositions": [
+      "100 ppm",
+      "60 ppm",
+      "40 ppm",
+      "80 ppm"
+    ],
+    "réponse": "40 ppm",
+    "anecdote": "Cardiac, circulatory, nervous, and vicious curse diseases affect only domestic horses."
+  },
+  {
+    "question": "What name does the V-shaped protrusion stand under the horse's foot ?",
+    "propositions": [
+      "The punch",
+      "The bead",
+      "The fork",
+      "The corner"
+    ],
+    "réponse": "The fork",
+    "anecdote": "The horse's fork is a protruding V-shaped projection with a softer tubular horn."
+  },
+  {
+    "question": "How many times a day can a foal suckle his mother ?",
+    "propositions": [
+      "50 to 60 times",
+      "30 to 40 times",
+      "20 to 30 times",
+      "10 to 20 times"
+    ],
+    "réponse": "50 to 60 times",
+    "anecdote": "Foals suckle their mothers after birth to absorb colostrum that strengthens their immune defenses."
+  },
+  {
+    "question": "Which of these dress colors does not exist in horses ?",
+    "propositions": [
+      "Isabelle",
+      "Camouflage",
+      "Pie",
+      "Chestnut"
+    ],
+    "réponse": "Camouflage",
+    "anecdote": "A number of horse dresses consist of a mixture of white or black hairs on one of the three basic dresses."
+  },
+  {
+    "question": "What breed of horses always has a chestnut robe and a white tail ?",
+    "propositions": [
+      "Frisian",
+      "Haflinger",
+      "Fjord",
+      "Shetland"
+    ],
+    "réponse": "Haflinger",
+    "anecdote": "From his breeding for work in rough terrain, the Haflinger, native to Tyrol, inherited a great robustness."
+  },
+  {
+    "question": "How long does digestion last for a horse ?",
+    "propositions": [
+      "5 to 3 h",
+      "35 to 50 h",
+      "25 to 35 h",
+      "15 to 20 h"
+    ],
+    "réponse": "35 to 50 h",
+    "anecdote": "Horses have a single stomach, which can digest plant fiber from grass and hay."
+  },
+  {
+    "question": "From what distance can horses recognize odors ?",
+    "propositions": [
+      "150 m",
+      "450 m",
+      "600 m",
+      "300 m"
+    ],
+    "réponse": "600 m",
+    "anecdote": "The horse performs a flehmen, particular behavior of scent allowing inter alia to detect pheromones."
+  },
+  {
+    "question": "What does it take to massage a seemingly nervous horse ?",
+    "propositions": [
+      "The back",
+      "The tail",
+      "The ears",
+      "Belly"
+    ],
+    "réponse": "The ears",
+    "anecdote": "The touch contacts are few between horses, except for the mother with her foal."
+  },       {
+    "question": "In which commune of France is installed since 1962 the official secretariat of Santa Claus ?",
+    "propositions": [
+      "Pontoise",
+      "Rochefort",
+      "Libourne",
+      "Courbevoie"
+    ],
+    "réponse": "Libourne",
+    "anecdote": "About sixty postman leprechauns are at work to answer the letters and e-mails of children eager to write to him."
+  },
+  {
+    "question": "How much do we distinguish about fir species in the world ?",
+    "propositions": [
+      "4,600",
+      "46",
+      "6",
+      "460"
+    ],
+    "réponse": "46",
+    "anecdote": "The fir trees, close relatives of the cedars, belong to the family Pinaceae and the subfamily Abietoideae."
+  },
+  {
+    "question": "Which director should the hit movie 'Santa Claus be a junk' ?",
+    "propositions": [
+      "Patrice Ledoux",
+      "Claude Zidi",
+      "Jean-Marie Poiré",
+      "Alain Terzian"
+    ],
+    "réponse": "Jean-Marie Poiré",
+    "anecdote": "When it was released in cinemas, the film was boycotted by the RATP, which refused to rent billboards following the title deemed too provocative."
+  },
+  {
+    "question": "What was the color of Father Christmas before it became red ?",
+    "propositions": [
+      "Green",
+      "Gray",
+      "Orange",
+      "Yellow"
+    ],
+    "réponse": "Green",
+    "anecdote": "The French imagery shows it around 1870-1890 as an old man dressed in a mainly green and sometimes blue coat."
+  },
+  {
+    "question": "In which region of France do you eat the thirteen desserts of Christmas ?",
+    "propositions": [
+      "Brittany",
+      "Provence",
+      "Auvergne",
+      "Alsace"
+    ],
+    "réponse": "Provence",
+    "anecdote": "Desserts can be brewed with cooked wine or muscat wine, while in the end all the liqueurs appear."
+  },
+  {
+    "question": "In which year did Tino Rossi sing for the first time 'Little Papa Christmas' ?",
+    "propositions": [
+      "1950",
+      "1934",
+      "1946",
+      "1962"
+    ],
+    "réponse": "1946",
+    "anecdote": "Written by Raymond Vincy, this song was performed for the first time in 1946 in the film 'Destins'."
+  },
+  {
+    "question": "In Ireland, what is left on the table before leaving for Christmas Mass ?",
+    "propositions": [
+      "Whiskey and carrots",
+      "Bread and salt",
+      "Apples and lemons",
+      "Gin and oranges"
+    ],
+    "réponse": "Whiskey and carrots",
+    "anecdote": "The official symbol of Ireland is the Celtic harp, but the Irish clover is often used as another symbol (rugby)."
+  },
+  {
+    "question": "In which French city was the first Christmas tree decorated in 1521 ?",
+    "propositions": [
+      "Cernay",
+      "Sélatat",
+      "Colmar",
+      "Mulhouse"
+    ],
+    "réponse": "Sélatat",
+    "anecdote": "The garden of the Dahlia, which in winter becomes the Garden of the Fir, pays tribute to the flowery corso of the city."
+  },
+  {
+    "question": "Which pope would have instituted the festival of Nativity in Rome on December 25, 354 ?",
+    "propositions": [
+      "Marcellin",
+      "Liberty",
+      "Eusebius",
+      "Pontian"
+    ],
+    "réponse": "Liberty",
+    "anecdote": "Bishop of Rome succeeding Julius I, Pope Libero will be the first to designate Rome as the Apostolic See."
+  },
+  {
+    "question": "What is a printed book called in Europe before Christmas 1500 ?",
+    "propositions": [
+      "Intaglio",
+      "Print",
+      "Incunable",
+      "Etching"
+    ],
+    "réponse": "Incunable",
+    "anecdote": "The word 'incunable' comes from the Latin plural name 'incunabula', which literally means 'the nappies of a newborn baby'."
+  },
+  {
+    "question": "Which place gave birth to the expression « lying like a tooth-puller » ?",
+    "propositions": [
+      "Street",
+      "Museums",
+      "Fields",
+      "Hospitals"
+    ],
+    "réponse": "Street",
+    "anecdote": "In the nineteenth century, dentists exercised in the street and hired musicians not to deter possible new patients."
+  },
+  {
+    "question": "What is the purpose of the phrase « see noon at the door » ?",
+    "propositions": [
+      "Sundial",
+      "Seismograph",
+      "Weathervane",
+      "Calendar"
+    ],
+    "réponse": "Sundial",
+    "anecdote": "In the countryside, it was common for such a dial to be placed on the front of the house facing south, near the entrance."
+  },
+  {
+    "question": "From which world does the famous phrase « watch the grain » come from ?",
+    "propositions": [
+      "Business",
+      "Maritime",
+      "University",
+      "Agricultural"
+    ],
+    "réponse": "Maritime",
+    "anecdote": "The grain is at sea a sudden windy weather that sailors dread and therefore watch with great attention."
+  },
+  {
+    "question": "The expression « being a Turkish head » comes from which particular place ?",
+    "propositions": [
+      "Circus",
+      "Opéra",
+      "Fun fair",
+      "Theater"
+    ],
+    "réponse": "Fun fair",
+    "anecdote": "The part on which one struck to measure one's muscular force represented in the XIXe century a head of Turkish, particularly strong."
+  },
+  {
+    "question": "Who was the phrase « smell of singed » meant for ?",
+    "propositions": [
+      "Prophets",
+      "Priests",
+      "Heretics",
+      "Servants"
+    ],
+    "réponse": "Heretics",
+    "anecdote": "The term refers to heretics, potential victims of the Inquisition's thunderstorms and often condemned to end the beaker."
+  },
+  {
+    "question": "Which people are behind the sending of the « scapegoat » ?",
+    "propositions": [
+      "Etruscans",
+      "Phenicians",
+      "Celts",
+      "Hebrews"
+    ],
+    "réponse": "Hebrews",
+    "anecdote": "At the feast of atonement, the Great Preacher sent to the desert a poor goat with all the sin and malice of Israel."
+  },
+  {
+    "question": "What kind of game was once used to « spoil the gallery » ?",
+    "propositions": [
+      "Baseball",
+      "Polo",
+      "Rope shooting",
+      "Play of palm"
+    ],
+    "réponse": "Play of palm",
+    "anecdote": "The galleries are the covered spaces surrounding the game of palm where the spectators were held in which to arouse the admiration."
+  },
+  {
+    "question": "In what public place could we once hear a « butterfly minute » ?",
+    "propositions": [
+      "Museum",
+      "University",
+      "Theater",
+      "Coffeehouse"
+    ],
+    "réponse": "Coffeehouse",
+    "anecdote": "Papillon was the name of a café waiter at Le Cadran in Paris: the « Minute Papillonn » told him that he could take his time."
+  },
+  {
+    "question": "What lexical relationship is the origin of the expression 'be in cabbage' ?",
+    "propositions": [
+      "Anastrophe",
+      "Apocope",
+      "Paronymy",
+      "Paraphrase"
+    ],
+    "réponse": "Paronymy",
+    "anecdote": "It is the paronymy between cabbages and failure that is the very first meaning of this expression dating from the mid-nineteenth century."
+  },
+  {
+    "question": "In the language of what races did one come « fingers in the nose » ?",
+    "propositions": [
+      "Automobiles",
+      "Equine",
+      "Background",
+      "Cyclists"
+    ],
+    "réponse": "Equine",
+    "anecdote": "It's a funny picture that shows how easy it was for the jockey to win, with more fingers in his nose."
+  },
+  {
+    "question": "In 1753, which naturalist grouped the 22 known species of cactus ?",
+    "propositions": [
+      "Carl von Linné",
+      "Daniel Rolander",
+      "Olof Celsius",
+      "Erik Acharius"
+    ],
+    "réponse": "Carl von Linné",
+    "anecdote": "This Swedish naturalist, who devoted his life to living beings, laid the foundations of the modern system of binomial nomenclature."
+  },
+  {
+    "question": "How many cactus species today have medicinal and / or veterinary use ?",
+    "propositions": [
+      "4",
+      "64",
+      "94",
+      "34"
+    ],
+    "réponse": "64",
+    "anecdote": "64 % of threatened cacti are used by humans in one of these forms and 57 % (236 species) in horticulture."
+  },
+  {
+    "question": "In botany, what distinctive sign differentiates Cactaceae from other families ?",
+    "propositions": [
+      "Chalaze",
+      "Radicle",
+      "Lenticelle",
+      "Areola"
+    ],
+    "réponse": "Areola",
+    "anecdote": "Areolas are small growths of the plant from which thorns, hairs and flowers leave in a bundle."
+  },
+  {
+    "question": "What is the highest species of cactus known today ?",
+    "propositions": [
+      "Rhipsalis russellii",
+      "Pachycereus pringlei",
+      "Harrisia fragrans",
+      "Opuntia rufida"
+    ],
+    "réponse": "Pachycereus pringlei",
+    "anecdote": "With a trunk a meter in diameter, its funnel-shaped white flowers 8 cm long appear only in adults."
+  },
+  {
+    "question": "What is the name of an abnormal growth of the top of a cactus stem ?",
+    "propositions": [
+      "Ostiole",
+      "Resupination",
+      "Cristation",
+      "Serotiny"
+    ],
+    "réponse": "Cristation",
+    "anecdote": "Crucation is a form of plant tematology that consists of the abnormal growth of the top of a stem."
+  },
+  {
+    "question": "Which columnar cacti is known to contain mescaline ?",
+    "propositions": [
+      "Ferocactus",
+      "Parodia",
+      "Oroya",
+      "San Pedro"
+    ],
+    "réponse": "San Pedro",
+    "anecdote": "This fast-growing columnar cactus, native to the Peruvian Andes, grows between 2 000 and 3 000 m altitude."
+  },
+  {
+    "question": "Which valley is one of the richest cactus sites in the world ?",
+    "propositions": [
+      "Valley of Tehuacan",
+      "Valley of Usines",
+      "Valley of Joux",
+      "Valley of Baïgorry"
+    ],
+    "réponse": "Valley of Tehuacan",
+    "anecdote": "Other cacti (especially Opuntias) have become acclimatized on other continents after being introduced by humans."
+  },
+  {
+    "question": "Which cactus produces the pitaya, also called the dragon fruit ?",
+    "propositions": [
+      "Peyotl",
+      "San Pedro",
+      "Hylocereus",
+      "Cereus"
+    ],
+    "réponse": "Hylocereus",
+    "anecdote": "The flesh of the pitaya is edible and resembles by its texture and the presence of small black peepers to that of the kiwi, with a softer taste."
+  },
+  {
+    "question": "What is the smallest cactus species known to date ?",
+    "propositions": [
+      "Cereus jamacaru",
+      "Aztekium ritteri",
+      "Echinopsis oxygona",
+      "Blossfeldia liliputiana"
+    ],
+    "réponse": "Blossfeldia liliputiana",
+    "anecdote": "This species of cacti bears the name of the legendary country of Liliput, the name liliputana being sometimes used but not validated."
+  },
+  {
+    "question": "What series of humorous comics is drawn by Philippe Bercovici ?",
+    "propositions": [
+      "Red Cactus",
+      "Circus Cactus",
+      "Cactus Man",
+      "Cactus Club"
+    ],
+    "réponse": "Cactus Club",
+    "anecdote": "In a holiday club, the host Phil, G.O. Chief, is responsible for dealing with all the whims of his customers."
+  },
+  {
+    "question": "Who did the Campari brand choose as the brand for its 2014 calendar ?",
+    "propositions": [
+      "Nicole Kidman",
+      "Uma Thurman",
+      "Naomi Watts",
+      "Christina Ricci"
+    ],
+    "réponse": "Uma Thurman",
+    "anecdote": "In 2001, she appeared in the spot for the brand Schweppes, the production of which was entrusted to photographer David LaChapelle."
+  },
+  {
+    "question": "Which brilliant French film distributor left us in 2013 ?",
+    "propositions": [
+      "Fabienne Vonier",
+      "Alice Guy",
+      "Catherine Varlin",
+      "Margot Capelier"
+    ],
+    "réponse": "Fabienne Vonier",
+    "anecdote": "The 'Pyramide Distribution' company that she created has the Pyramids of Giza logo, complete with a signature in white letters."
+  },
+  {
+    "question": "With which photographer was Madonna involved in her Secret Project ?",
+    "propositions": [
+      "William Claxton",
+      "Steve Klein",
+      "Garry Gross",
+      "Tim Walker"
+    ],
+    "réponse": "Steve Klein",
+    "anecdote": "In this 17-minute film, the singer promotes freedom of expression and tolerance, dedicating her film to the persecuted."
+  },
+  {
+    "question": "Which English actress and singer is Laurence Fox married to ?",
+    "propositions": [
+      "Billie Piper",
+      "Katie Melua",
+      "Cathy Dennis",
+      "Melanie Brown"
+    ],
+    "réponse": "Billie Piper",
+    "anecdote": "Billie Piper is a successful singer and actress known for her roles in 'Doctor Who' and 'Diary of a call girl'."
+  },
+  {
+    "question": "Which interpreter of Rosie Camden appeared in lingerie for Maxim magazine ?",
+    "propositions": [
+      "Jessica Biel",
+      "Selena Gomez",
+      "Mackenzie Rosman",
+      "Hilary Duff"
+    ],
+    "réponse": "Mackenzie Rosman",
+    "anecdote": "In 2004, she was voted best young actress in a second role in a television series for the 'Seven at Home' series."
+  },
+  {
+    "question": "Which photographer brought Les Restos du coeur in 2013 ?",
+    "propositions": [
+      "Philippe Bazin",
+      "Gaston Bergeret",
+      "Christian Boyer",
+      "Guy Bourdin"
+    ],
+    "réponse": "Gaston Bergeret",
+    "anecdote": "Gaston Bergeret sued them for the copyright of the photo of Coluche taken thirty years ago for the poster."
+  },
+  {
+    "question": "With which 33-year-old advertiser did his youngest Richard Gere get married ?",
+    "propositions": [
+      "Karolina Kurkova",
+      "Cindy Gallop",
+      "Jana Irrova",
+      "Alejandra Silva"
+    ],
+    "réponse": "Alejandra Silva",
+    "anecdote": "It was through her interest in charitable works that publicist Alejandra Silva met actor Richard Gere in 2015."
+  },
+  {
+    "question": "Which grand dame was now 48 years old in April 2018 ?",
+    "propositions": [
+      "Melania Trump",
+      "Beatrix",
+      "Angela Merkel",
+      "Brigitte Macron"
+    ],
+    "réponse": "Melania Trump",
+    "anecdote": "Thanks to her legendary elegance and her keen sense of fashion, the beautiful Slovenian gives us lessons in style with each appearance."
+  },
+  {
+    "question": "What is the first name of Kate Middelton's third child ?",
+    "propositions": [
+      "Louis",
+      "Logan",
+      "Charles",
+      "Arthur"
+    ],
+    "réponse": "Louis",
+    "anecdote": "Long before the birth of the Royal Baby 3, the English bookies had bet on the first name of the newborn : Arthur."
+  },
+  {
+    "question": "What young Swedish DJ has disappeared, evoking by his gesture the ill-being that inhabited it ?",
+    "propositions": [
+      "Afrojack",
+      "Diplo",
+      "Avicii",
+      "Tiesto"
+    ],
+    "réponse": "Avicii",
+    "anecdote": "On April 26, 2018, the family evoked the thesis of a suicide and indicates that Avicii could not take it any longer and wanted peace."
+  },
+  {
+    "question": "What is the name of the imaginary line separating two countries ?",
+    "propositions": [
+      "Median",
+      "Border",
+      "Tangente",
+      "Section"
+    ],
+    "réponse": "Border",
+    "anecdote": "The meaning attributed to the word frontier has evolved throughout history, and it has not been the same from one era to the next."
+  },
+  {
+    "question": "What is the total number of points on a six-sided board game ?",
+    "propositions": [
+      "30",
+      "21",
+      "15",
+      "18"
+    ],
+    "réponse": "21",
+    "anecdote": "The most common dice are small cubes 1 to 2 cm in side (often 16 mm), thus having 6 faces numbered from 1 to 6."
+  },
+  {
+    "question": "What class of animals feed their young with their milk ?",
+    "propositions": [
+      "Mammals",
+      "Primates",
+      "Carnivores",
+      "Rodents"
+    ],
+    "réponse": "Mammals",
+    "anecdote": "Newborns systematically require parental care because of their immature digestive systems at birth."
+  },
+  {
+    "question": "In our gardens, what part of the plant sometimes sinks deep into the ground ?",
+    "propositions": [
+      "Petal",
+      "?pine",
+      "Rod",
+      "Root"
+    ],
+    "réponse": "Root",
+    "anecdote": "The root is a vital organ of the plant, which is formed very early during the development of the plant, from the beginning of germination."
+  },
+  {
+    "question": "What are the car tires made of ?",
+    "propositions": [
+      "Plastic",
+      "Carbon",
+      "Liège",
+      "Rubber"
+    ],
+    "réponse": "Rubber",
+    "anecdote": "A tire is designed to be mounted on the wheel rim and inflated with pressurized gas, usually air or nitrogen."
+  },
+  {
+    "question": "What is a wooden house called in the middle of the mountain ?",
+    "propositions": [
+      "Hostel",
+      "Caravan",
+      "Cottage",
+      "Chalet"
+    ],
+    "réponse": "Chalet",
+    "anecdote": "In French-speaking Switzerland, the term chalet also designates the building where cheese is made in summer in the high mountain pastures."
+  },
+  {
+    "question": "Which of these swims represents the fastest type of swimming ?",
+    "propositions": [
+      "Back",
+      "Butterfly",
+      "Low",
+      "Crawl"
+    ],
+    "réponse": "Crawl",
+    "anecdote": "In crawl, the position of the body is horizontal and is characterized by a beating of the legs and a rotation of the arms out of the water."
+  },
+  {
+    "question": "In competition, what do we put on the back of certain athletes to recognize them ?",
+    "propositions": [
+      "Handkerchief",
+      "Flag",
+      "Jersey",
+      "Bib"
+    ],
+    "réponse": "Bib",
+    "anecdote": "Apart from the sport of horsemanship, athletics and cycling were the first disciplines to adopt the bib system."
+  },
+  {
+    "question": "What source of energy is used to advance a windsurfing board ?",
+    "propositions": [
+      "Wind turbine",
+      "Navy",
+      "Solar",
+      "Hydraulic"
+    ],
+    "réponse": "Wind turbine",
+    "anecdote": "In 2015 wind power supplied 3.4 % of the world's electricity production. In 2017, this share was increased to 4 % with 539 GW."
+  },
+  {
+    "question": "Which cycling race in France is also called the Great Loop ?",
+    "propositions": [
+      "Criterium",
+      "Tour de France",
+      "Milan-San Remo",
+      "Paris-Nice"
+    ],
+    "réponse": "Tour de France",
+    "anecdote": "This cycling competition by male stages takes place mainly in France, while occasionally crossing neighboring countries."
+  },
+  {
+    "question": "Which Slovak model is currently in a relationship with Gaël Clichy ?",
+    "propositions": [
+      "Coral Simanovich",
+      "Ana Ivanovic",
+      "Margaret Natsuki",
+      "Charlene Suric"
+    ],
+    "réponse": "Charlene Suric",
+    "anecdote": "Of Martinique descent, the French international Gaël Clichy is in a relationship with this model coming straight from Slovakia."
+  },
+  {
+    "question": "Which Japanese model lives with the attacking midfielder Shinji Kagawa ?",
+    "propositions": [
+      "Kurara Chibana",
+      "Margaret Natsuki",
+      "Rosa Kato",
+      "Nicole Fujita"
+    ],
+    "réponse": "Margaret Natsuki",
+    "anecdote": "Shinji Kagawa made a second career in the Bundesliga with his dual nationality model : Japanese and Canadian."
+  },
+  {
+    "question": "Which German-Italian singer did Mesut Özil hang out with ?",
+    "propositions": [
+      "Madeline Juno",
+      "Mandy Capristo",
+      "Anna Fischer",
+      "Kim Petras"
+    ],
+    "réponse": "Mandy Capristo",
+    "anecdote": "The Gunner left the Venezuelan Aida Yespica for Mandy Capristo in a tumultuous relationship ended in October 2014."
+  },
+  {
+    "question": "Which Israeli model is Sergi Roberto's girlfriend ?",
+    "propositions": [
+      "Maria Domark",
+      "Vika Finkelstein",
+      "Coral Simanovich",
+      "Gal Gadot"
+    ],
+    "réponse": "Coral Simanovich",
+    "anecdote": "Sergi Roberto, very strong physically, has a great versatility which allowed him to play in seven different positions."
+  },
+  {
+    "question": "Which German designer lives alongside Mario Götze ?",
+    "propositions": [
+      "Anna Ewers",
+      "Barbara Meier",
+      "Gina Wild",
+      "Ann-Kathrin Vida"
+    ],
+    "réponse": "Ann-Kathrin Vida",
+    "anecdote": "In 2014, Mario Götze participated in the World Cup: entered the game in the 88th minute against Argentina, he will score the only goal of the game."
+  },
+  {
+    "question": "Which sublime model got married to Fabio Borini ?",
+    "propositions": [
+      "Victoria Lopyreva",
+      "Edurne Garcia",
+      "Erin O'Neill",
+      "Carol Cabrino"
+    ],
+    "réponse": "Erin O'Neill",
+    "anecdote": "The sublime model married Fabio Borini in Tuscany. Her concern, she must now live in the rain in Sunderland."
+  },
+  {
+    "question": "What wonderful Hungarian model lives with Graziano Pellè ?",
+    "propositions": [
+      "Montana Yorke",
+      "Chiara Picone",
+      "Viktoria Varga",
+      "Charlene Suric"
+    ],
+    "réponse": "Viktoria Varga",
+    "anecdote": "After two seasons in the Netherlands and a very prolific record of 55 goals scored for 66 games played, he signed for Southampton FC."
+  },
+  {
+    "question": "Which former model is sharing his life with Chris Smalling ?",
+    "propositions": [
+      "Carol Cabrino",
+      "Pilar Rubio",
+      "Sara Carbonero",
+      "Sam Crooke"
+    ],
+    "réponse": "Sam Crooke",
+    "anecdote": "Recently, this former model has converted and taken up photography to try to get to the other side of the lens."
+  },
+  {
+    "question": "Which famous Spanish pop star shares his life with David De Gea ?",
+    "propositions": [
+      "Edurne Garcia",
+      "Debi Nova",
+      "Soledad Bravo",
+      "Marcela Morelo"
+    ],
+    "réponse": "Edurne Garcia",
+    "anecdote": "The famous Spanish pop star is among those who want to see the Manchester United goalkeeper play in Spain."
+  },
+  {
+    "question": "Which Miss Russia 2003 was married to Fyodor Smolov ?",
+    "propositions": [
+      "Oxana Fedorova",
+      "Victoria Lopyreva",
+      "Sofia Rudieva",
+      "Anna Malova"
+    ],
+    "réponse": "Victoria Lopyreva",
+    "anecdote": "Victoria got to know the world of football in 2007 when she worked with Georgiy Cherdantsev on the television program 'Football Night'."
+  },
+  {
+    "question": "In how many districts is the city of Mouscron divided ?",
+    "propositions": [
+      "Six",
+      "Four",
+      "Five",
+      "Seven"
+    ],
+    "réponse": "Seven",
+    "anecdote": "The seven districts are the Center, the Station, the Mont-à-Leux, the Tuquet, the Risquons-Tout, the New World and the Coquini."
+  },
+  {
+    "question": "Etymologically, what would the word Mouscron mean ?",
+    "propositions": [
+      "White fabric",
+      "Large curve",
+      "Wet land",
+      "Green country"
+    ],
+    "réponse": "Wet land",
+    "anecdote": "Documents attest to Moscheron, from 1060, which means small wetland (Germanic muska or roman muscus)."
+  },
+  {
+    "question": "What current cinema was first called 'Le vieux Mouscron' ?",
+    "propositions": [
+      "Cinemascope",
+      "Forever",
+      "Imagix",
+      "Variety"
+    ],
+    "réponse": "Forever",
+    "anecdote": "The first cinema opened on rue de la Marlière on August 18, 1913. It would later become Studio 31 and closed in 2001."
+  },
+  {
+    "question": "In which college can you do your primary and secondary studies in Mouscron ?",
+    "propositions": [
+      "Sainte-Marie",
+      "Sainte-Agathe",
+      "Saint Lucia",
+      "Sainte-Cecile"
+    ],
+    "réponse": "Sainte-Marie",
+    "anecdote": "The College strives to offer high-quality general education, available in a wide choice of varied and balanced options."
+  },
+  {
+    "question": "Which castle is a jewel of the Mouscronnois civil heritage ?",
+    "propositions": [
+      "De la Royere",
+      "De Prelle",
+      "Counts",
+      "De La Berliere"
+    ],
+    "réponse": "Counts",
+    "anecdote": "At the time of its magnificence, the domain consisted of the castle (keep) and farm buildings of the farmyard."
+  },
+  {
+    "question": "In what year was the town hall of Mouscron inaugurated ?",
+    "propositions": [
+      "1910",
+      "1870",
+      "1890",
+      "1930"
+    ],
+    "réponse": "1890",
+    "anecdote": "The style presented by the Bruges architect René Aimé Buyck can be defined neo-Gothic of maritime Flanders."
+  },
+  {
+    "question": "What was the previous name for Place Emmanuel de Neckere in Mouscron ?",
+    "propositions": [
+      "Place Duponchelle",
+      "Place Royale",
+      "Place Verte",
+      "Place d'Argent"
+    ],
+    "réponse": "Place Verte",
+    "anecdote": "The paving of the square is particularly interesting : it represents the currency of the city to carry the bag."
+  },
+  {
+    "question": "Which mouscronnoise statue was made by the sculptor Osvaldo Parise ?",
+    "propositions": [
+      "The Jester",
+      "The Reader",
+      "The Thinker",
+      "The Rower"
+    ],
+    "réponse": "The Reader",
+    "anecdote": "At the beginning of the 1980s, a large enterprise revitalizing the urban center of the town of Mouscron was decreed."
+  },
+  {
+    "question": "Which Minister of Justice inaugurated the Parc de Mouscron in 1932 ?",
+    "propositions": [
+      "Fernand Cocq",
+      "Jean Gol",
+      "Jules Bara",
+      "Jules Renkin"
+    ],
+    "réponse": "Fernand Cocq",
+    "anecdote": "Fernand Cocq is the father of the painter Suzanne Cocq, born in Ixelles on June 12, 1894 and died in Etterbeek on July 12, 1979."
+  },
+  {
+    "question": "Which free radio station still remains in the Mouscron region ?",
+    "propositions": [
+      "Buzz Radio",
+      "Radio Qui Chifel",
+      "Equinox",
+      "Galaxy"
+    ],
+    "réponse": "Radio Qui Chifel",
+    "anecdote": "Radio Qui Chifel is a non-commercial and associative radio station which has existed since December 1979 thanks to a team of volunteers."
+  },
+  {
+    "question": "Under OpenBSD, what caging technique known to admins allows privilege management ?",
+    "propositions": [
+      "Bash",
+      "Grep",
+      "Rlogin",
+      "Chroot"
+    ],
+    "réponse": "Chroot",
+    "anecdote": "Privilege separation is a pioneering technique on OpenBSD, inspired by the principle of least privilege."
+  },
+  {
+    "question": "What own open source license is used by OpenBSD ?",
+    "propositions": [
+      "LPPL",
+      "CeCILL",
+      "ISC",
+      "SPDX"
+    ],
+    "réponse": "ISC",
+    "anecdote": "This own license led to a comprehensive audit of licenses and replacements, or even deletions of licensed codes."
+  },
+  {
+    "question": "What does the mascot regularly used by the OpenBSD project represent ?",
+    "propositions": [
+      "Sperm whale",
+      "Hat",
+      "Wildebeest",
+      "Diodon"
+    ],
+    "réponse": "Diodon",
+    "anecdote": "These species are often called hedgehog fish, porcupine fish or sea hedgehog."
+  },
+  {
+    "question": "With which company did Theo de Raadt release OpenBSD 2.3 ?",
+    "propositions": [
+      "Secure Networks inc.",
+      "Corail Systems",
+      "Cisco",
+      "Sysdream"
+    ],
+    "réponse": "Secure Networks inc.",
+    "anecdote": "SNI was a local security software company that developed a network security audit tool called Ballista."
+  },
+  {
+    "question": "Who discovered a flaw in the OpenSSH code in 2002 ?",
+    "propositions": [
+      "Mark Dow",
+      "Steven Mestdagh",
+      "Joel Knight",
+      "Chris Cappuccio"
+    ],
+    "réponse": "Mark Dow",
+    "anecdote": "It was the first vulnerability discovered in the default installation of OpenBSD allowing access to the superuser account."
+  },
+  {
+    "question": "Where in the OpenBSD code was discovered in 2007 ?",
+    "propositions": [
+      "Packet Filter",
+      "NFS",
+      "Fdisk",
+      "IPV6 battery"
+    ],
+    "réponse": "IPV6 battery",
+    "anecdote": "Internet Protocol version 6 is a connectionless network protocol of layer 3 of the OSI (Open Systems Interconnection) model."
+  },
+  {
+    "question": "What memory protection technique is implemented in the OpenBSD code ?",
+    "propositions": [
+      "ProPolice",
+      "LinShare",
+      "PhotoRec",
+      "ClamWin"
+    ],
+    "réponse": "ProPolice",
+    "anecdote": "The Stack-Smashing Protector protection was originally written, and is still maintained, by Hiroaki Etoh of the company IBM."
+  },
+  {
+    "question": "How many hardware platforms has OpenBSD run on ?",
+    "propositions": [
+      "12",
+      "22",
+      "32",
+      "42"
+    ],
+    "réponse": "32",
+    "anecdote": "OpenBSD can also run programs compiled for Linux (on i386 processors only)."
+  },
+  {
+    "question": "Which OpenBSD group project can replace sendmail ?",
+    "propositions": [
+      "OpenCVS",
+      "OpenNTPD",
+      "OpenSMTPD",
+      "OpenBGPD"
+    ],
+    "réponse": "OpenSMTPD",
+    "anecdote": "Development of OpenSMTPD began in late 2008. It first appeared in OpenBSD 4.6."
+  },
+  {
+    "question": "Which heavily modified version of Apache is integrated with OpenBSD ?",
+    "propositions": [
+      "4.3",
+      "3.3",
+      "1.3",
+      "2.3"
+    ],
+    "réponse": "1.3",
+    "anecdote": "Maintained within the Apache foundation, distributed under the Apache license, this HTTP server is the most popular on the web."
+  },
+  {
+    "question": "What personality said : « It's what comes out of your mouth that keeps you alive » ?",
+    "propositions": [
+      "Woody Allen",
+      "Bob Marley",
+      "Confucius",
+      "Emile Deschanel"
+    ],
+    "réponse": "Bob Marley",
+    "anecdote": "Bob Marley is the one who allowed Jamaican music and the Rastafarian movement to reach a global audience."
+  },
+  {
+    "question": "Who said : « The mask is so charming that I am afraid of the face » ?",
+    "propositions": [
+      "Andre Malraux",
+      "Stendhal",
+      "Alfred de Musset",
+      "Montesquieu"
+    ],
+    "réponse": "Alfred de Musset",
+    "anecdote": "Alfred de Musset's theater and lyric poetry show an extreme sensitivity and a questioning of purity and debauchery."
+  },
+  {
+    "question": "Who said : « Beauty is in the eyes of the beholder » ?",
+    "propositions": [
+      "Stendhal",
+      "Guy de Maupassant",
+      "Oscar Wilde",
+      "Confucius"
+    ],
+    "réponse": "Oscar Wilde",
+    "anecdote": "Oscar Wilde embodies a new sensibility that appears in reaction to positivism and naturalism."
+  },
+  {
+    "question": "Who said : « A legal kiss is never worth a stolen kiss » ?",
+    "propositions": [
+      "Alfred de Musset",
+      "Sacha Guitry",
+      "Guy de Maupassant",
+      "Andre Malraux"
+    ],
+    "réponse": "Guy de Maupassant",
+    "anecdote": "Recognized during his lifetime, he retains a prominent reputation, renewed by the many filmed adaptations of his works."
+  },
+  {
+    "question": "Who said : « We only die when we die » ?",
+    "propositions": [
+      "Gaston Mery",
+      "Hector Durville",
+      "Th?odore Garnier",
+      "Emile Deschanel"
+    ],
+    "réponse": "Emile Deschanel",
+    "anecdote": "The Deschanel family's personal papers are kept at the National Archives under the symbol 151AP."
+  },
+  {
+    "question": "Who said : « The more we generally like, the less we like deeply » ?",
+    "propositions": [
+      "Voltaire",
+      "Lamartine",
+      "Montesquieu",
+      "Stendhal"
+    ],
+    "réponse": "Stendhal",
+    "anecdote": "Stendhal would have liked to devote his life to daydreaming, to the pursuit of happiness and love; in spite of himself, he had an eventful life."
+  },
+  {
+    "question": "Who said : « Better to die misunderstood than to spend your life explaining yourself » ?",
+    "propositions": [
+      "Serge Gainsbourg",
+      "William Shakespeare",
+      "Eric Cantona",
+      "Oscar Wilde"
+    ],
+    "réponse": "William Shakespeare",
+    "anecdote": "He is renowned for his mastery of poetic and literary forms, as well as his ability to represent aspects of human nature."
+  },
+  {
+    "question": "Who Said : « The loss of an enemy does not compensate for that of a friend » ?",
+    "propositions": [
+      "Lamartine",
+      "Stendhal",
+      "Oscar Wilde",
+      "Abraham Lincoln"
+    ],
+    "réponse": "Abraham Lincoln",
+    "anecdote": "Sixteenth president of the United States, he was twice elected president of the country, in November 1860 and in November 1864."
+  },
+  {
+    "question": "Who said : « Luck is very often a chance that provokes » ?",
+    "propositions": [
+      "Oscar Wilde",
+      "Bob Marley",
+      "Confucius",
+      "Guy de Maupassant"
+    ],
+    "réponse": "Confucius",
+    "anecdote": "Historical figure having had the greatest impact on Chinese civilization, Confucius is considered to be the first educator in China."
+  },
+  {
+    "question": "Who Said : « Beauty is the only revenge for women » ?",
+    "propositions": [
+      "Woody Allen",
+      "Sacha Guitry",
+      "Coluche",
+      "Serge Gainsbourg"
+    ],
+    "réponse": "Serge Gainsbourg",
+    "anecdote": "Serge Gainsbourg will greatly influence French artists such as the group Taxi Girl, Renaud or even Etienne Daho."
+  },
+  {
+    "question": "From which artist did the Netherlands celebrate 350 years of death in 2019 ?",
+    "propositions": [
+      "Bosschaert",
+      "Van Dijck",
+      "Rembrandt",
+      "De Jongh"
+    ],
+    "réponse": "Rembrandt",
+    "anecdote": "Rembrandt is generally regarded as one of the greatest painters in the history of painting, especially baroque painting."
+  },
+  {
+    "question": "In 2019, against which disease did the vaccine become compulsory in Somalia ?",
+    "propositions": [
+      "Chickenpox",
+      "Rubella",
+      "Whooping",
+      "Measles"
+    ],
+    "réponse": "Measles",
+    "anecdote": "This vaccination follows an epidemic that killed 63 people, itself caused by low vaccination coverage in the Samoa Islands."
+  },
+  {
+    "question": "Which country took the rotating presidency of the European Union in January 2019 ?",
+    "propositions": [
+      "Croatia",
+      "Romania",
+      "Finland",
+      "Germany"
+    ],
+    "réponse": "Romania",
+    "anecdote": "The presidency of the Council is not held by a single president but is exercised by the government of the member state."
+  },
+  {
+    "question": "The rupture of which Brazilian dam had a significant impact on Amazonian biodiversity ?",
+    "propositions": [
+      "Sumare",
+      "Arapiraca",
+      "Camacari",
+      "Brumadinho"
+    ],
+    "réponse": "Brumadinho",
+    "anecdote": "The rupture of the Brumadinho dam in Minas Gerais killed at least 115 people and many disappeared, causing an ecological disaster."
+  },
+  {
+    "question": "What new, almost intact Mayan offering site was revealed to the general public in 2019 ?",
+    "propositions": [
+      "Chichen Itza",
+      "Culuba",
+      "Uxmal",
+      "Bonampak"
+    ],
+    "réponse": "Chichen Itza",
+    "anecdote": "Known by Mexican archaeologists and local Mayan populations for 50 years, the site was previously hidden in a walled cave."
+  },
+  {
+    "question": "Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?",
+    "propositions": [
+      "Bingiza",
+      "Gamede",
+      "Idai",
+      "Tracy"
+    ],
+    "réponse": "Idai",
+    "anecdote": "While the deaths are most likely in the thousands in Mozambique, Idai destroyed 90 % of Beira, the country's second city."
+  },
+  {
+    "question": "Which Italian MEP was elected President of the European Parliament in 2019 ?",
+    "propositions": [
+      "Mario Mauro",
+      "Paolo De Castro",
+      "Franco Bonanini",
+      "David Sassoli"
+    ],
+    "réponse": "David Sassoli",
+    "anecdote": "This Italian journalist and politician was also presenter of the 8 pm edition and vice-director of TG1 on Rai 1."
+  },
+  {
+    "question": "In Mexico, which family was massacred in the Sierra Madre in 2019 ?",
+    "propositions": [
+      "Michoacana",
+      "LeBaron",
+      "Sinaloa",
+      "Fernando"
+    ],
+    "réponse": "LeBaron",
+    "anecdote": "If the attackers of this group of women and children are drug traffickers, it would make it a massacre in the Drug War."
+  },
+  {
+    "question": "Which volcano erupted on December 9, 2019 in New Zealand ?",
+    "propositions": [
+      "Kambalny",
+      "Home Reef",
+      "Mount Carlisle",
+      "White Island"
+    ],
+    "réponse": "White Island",
+    "anecdote": "The island is made up of two nested andesitic volcanoes, one of which is a horseshoe-shaped crater open to the south-east."
+  },
+  {
+    "question": "Which city celebrated its 100th anniversary of radio station in 2019 ?",
+    "propositions": [
+      "Montreal",
+      "Berlin",
+      "London",
+      "Miami"
+    ],
+    "réponse": "Montreal",
+    "anecdote": "Montreal, a city in Canada, was in fact the first city in the world to have a real radio station in 1919."
+  },
+  {
+    "question": "Which Chinese city decreed the maximum health alert level on January 25, 2020 ?",
+    "propositions": [
+      "Hong Kong",
+      "Shanghai",
+      "Tianjin",
+      "Chongqing"
+    ],
+    "réponse": "Hong Kong",
+    "anecdote": "Hong Kong ranks among the major financial centers with New York and London (this trilogy being called Nylonkong)."
+  },
+  {
+    "question": "Which cruise ship was confined to the port of Yokohama for fourteen days ?",
+    "propositions": [
+      "Island Princess",
+      "Diamond Princess",
+      "Golden Princess",
+      "Emerald Princess"
+    ],
+    "réponse": "Diamond Princess",
+    "anecdote": "Two passengers who had been evacuated to a Japanese hospital on February 11 and 12, 2020 will be declared dead on February 20, 2020."
+  },
+  {
+    "question": "Which municipality in Lombardy was the main source of infection in Italy in February 2020 ?",
+    "propositions": [
+      "Maleo",
+      "Mulazzano",
+      "Codogno",
+      "Bertonico"
+    ],
+    "réponse": "Codogno",
+    "anecdote": "On February 23, 2020, Codogno and ten surrounding municipalities were placed in quarantine (with 52,000 people confined)."
+  },
+  {
+    "question": "Which coronavirus is causing the 2019-2020 coronavirus epidemic ?",
+    "propositions": [
+      "Zika",
+      "Dengue",
+      "SARS-CoV-2",
+      "Chikungunya"
+    ],
+    "réponse": "SARS-CoV-2",
+    "anecdote": "Severe acute respiratory syndrome coronavirus 2 is related to SARS coronavirus, belonging to the subgenus Sarbecovirus."
+  },
+  {
+    "question": "In which country were the first three European COVID-19 patients announced ?",
+    "propositions": [
+      "France",
+      "Belgium",
+      "Italy",
+      "Spain"
+    ],
+    "réponse": "France",
+    "anecdote": "Two people in Paris and another in Bordeaux were thus detected positive for the virus, the three patients having stayed in Wuhan."
+  },
+  {
+    "question": "What is the maximum incubation period for COVID-19 ?",
+    "propositions": [
+      "35 days",
+      "21 days",
+      "14 days",
+      "28 days"
+    ],
+    "réponse": "14 days",
+    "anecdote": "The incubation period seems to be most often between four and seven days and most certainly less than fourteen days."
+  },
+  {
+    "question": "In 2020, which city postponed the International Exhibition of Inventions following the Coronavirus ?",
+    "propositions": [
+      "Geneva",
+      "Berlin",
+      "Brussels",
+      "Madrid"
+    ],
+    "réponse": "Geneva",
+    "anecdote": "In 2009, the Salon obtained the patronage of the World Intellectual Property Organization (WIPO), in addition to the patronage of Switzerland."
+  },
+  {
+    "question": "What is the shelf life of COVID-19 outside the body in a humid environment ?",
+    "propositions": [
+      "Six o'clock",
+      "Six days",
+      "Three hours",
+      "Three days"
+    ],
+    "réponse": "Three days",
+    "anecdote": "This duration excludes the possibility of contamination by package, which in the quickest cases, covers the distance from China to the United States in 4 days."
+  },
+  {
+    "question": "What country was the theater of an epidemic focus centered on the Shincheonji sect ?",
+    "propositions": [
+      "South Korea",
+      "North Korea",
+      "Japan",
+      "China"
+    ],
+    "réponse": "South Korea",
+    "anecdote": "On January 31, South Korea decided to repatriate 367 of its nationals using a Korean Air Boeing 747."
+  },
+  {
+    "question": "Which doctor has declared that the world is not ready to face the coronavirus epidemic ?",
+    "propositions": [
+      "Hans Klug",
+      "Robert Wylie",
+      "Bruce Aylward",
+      "Michel Fernex"
+    ],
+    "réponse": "Bruce Aylward",
+    "anecdote": "Dr Bruce Aylward has been loaned by WHO to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)."
+  }
+]

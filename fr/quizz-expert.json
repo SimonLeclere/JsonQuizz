@@ -1,0 +1,3282 @@
+[
+  {
+    "question": "Dans la film d'animation 'Robin des Bois', quel animal est Robin des Bois ?",
+    "propositions": ["Un lion", "Un ours", "Un tigre", "Un renard"],
+    "réponse": "Un renard",
+    "anecdote": "La réalisation de 'Robin des Bois' sera marquée par la réutilisation d'éléments d'animation des précédentes productions Disney."
+  },
+  {
+    "question": "De quel animal prénommé Roger veut-on « la peau » dans un film d'animation ?",
+    "propositions": ["Un chien", "Un lapin", "Un kangourou", "Un renard"],
+    "réponse": "Un lapin",
+    "anecdote": "Zemeckis dira de Roger qu'il a « un corps de chez Disney, une tête de chez Warner et une attitude à la Tex Avery »."
+  },
+  {
+    "question": "Dans le roman de Cécile Aubry, quelle chienne Sébastien recueille-t-il dans son village ?",
+    "propositions": ["Aurore", "Daisy", "Belle", "Simba"],
+    "réponse": "Belle",
+    "anecdote": "'Belle et Sébastien' a fait l'objet d'une adaptation en feuilleton télévisé, d'une série d'animation japonaise et de deux films."
+  },
+  {
+    "question": "Quelle tortue sait « compter deux par deux et lacer ses chaussures » ?",
+    "propositions": ["Gamera", "Caroline", "Donatello", "Franklin"],
+    "réponse": "Franklin",
+    "anecdote": "Dans chaque épisode, Franklin a un dilemme qu'il résout toujours à la fin, permettant aux enfants de s'identifier au personnage."
+  },
+  {
+    "question": "Quel chien est devenu le rival du chat Socks en tant qu'animal de compagnie de la famille Clinton ?",
+    "propositions": ["Oscar", "Buddy", "Scooby", "Snoopy"],
+    "réponse": "Buddy",
+    "anecdote": "Les parents Clinton ont adopté un labrador nommé Buddy en hommage à l'oncle de Bill qui vient de décéder."
+  },
+  {
+    "question": "Dans 'Peter Pan', comment se nomme la chienne de Wendy, John et Michael ?",
+    "propositions": ["Jasmine", "Nana", "Dolly", "Belle"],
+    "réponse": "Nana",
+    "anecdote": "Peter Pan est un personnage créé par l'auteur écossais J. M. Barrie, apparu pour la première fois en 1902."
+  },
+  {
+    "question": "Quel célèbre chat a une langue qui pend en permanence suite à une malformation ?",
+    "propositions": ["Bébert", "Choupette", "Lil Bub", "Simon"],
+    "réponse": "Lil Bub",
+    "anecdote": "La célèbre chatte est apparue dans un spot de l'ONG Greenpeace à l'occasion de la Journée internationale des tigres."
+  },
+  {
+    "question": "Dans le dessin animé 'Dora l'exploratrice', comment s'appelle le renard voleur ?",
+    "propositions": ["Chipeur", "Silver", "Denver", "Sylvester"],
+    "réponse": "Chipeur",
+    "anecdote": "Par ce biais de ce méchant renard voleur, la série tente de faire distinguer aux enfants le bien du mal."
+  },
+  {
+    "question": "Quel cochon Martin Veyron et Jean-Marc Rochette ont-ils inventé pour une BD humoristique ?",
+    "propositions": ["Edmond", "Grégoire", "Babe", "Jonathan"],
+    "réponse": "Edmond",
+    "anecdote": "Le style de cette série à l'humour cru et hilarant se situe entre l'underground américain et la tradition animalière française."
+  },
+  {
+    "question": "Dans l'aquarium de quelle ville allemande Paul le poulpe a-t-il eu son heure de gloire ?",
+    "propositions": ["Mannheim", "Oberhausen", "Karlsruhe", "Brunswick"],
+    "réponse": "Oberhausen",
+    "anecdote": "Paul était renommé pour le spectacle de ses prédictions du résultat des matchs de léquipe d'Allemagne de football."
+  },
+  {
+    "question": "De quelle couleur est la coquille de Gary dans 'Bob l'éponge' ?",
+    "propositions": ["Blanche", "Rose", "Verte", "Jaune"],
+    "réponse": "Rose",
+    "anecdote": "Animal domestique de Bob l'éponge, Gary l'escargot émet une large bande de salive après son passage."
+  },
+  {
+    "question": "Qui a remporté la compétition « Bernard l'Hermite » en saison 1 de 'Bob l'éponge' ?",
+    "propositions": ["Gary", "Bob l'éponge", "Sandy", "Patrick"],
+    "réponse": "Bob l'éponge",
+    "anecdote": "Chaque épisode de 'Bob l'éponge' est constitué de 1 à 3 épisodes individuels (le plus généralement 2)."
+  },
+  {
+    "question": "De quelle couleur sont les chaussures du désormais célèbre Bob l'éponge ?",
+    "propositions": ["Rouges", "Noires", "Bleues", "Jaunes"],
+    "réponse": "Noires",
+    "anecdote": "La création du personnage de Bob l'éponge a été pensée par Hillenburg en 1984 lors d'une étude de la biologie marine."
+  },
+  {
+    "question": "Quel est la prénom de la fille de Mr. Krabs dans la saga 'Bob l'éponge' ?",
+    "propositions": ["Sharon", "Vanessa", "Sandy", "Pearl"],
+    "réponse": "Pearl",
+    "anecdote": "La raison pour laquelle la fille de Krabs est une baleine, de surcroît majorette adolescente, reste inconnue."
+  },
+  {
+    "question": "Qui est arrivé à Bikini Bottom durant la saison 9 de la série 'Bob l'éponge' ?",
+    "propositions": [
+      "Rodney le lapin",
+      "Sid le serpent",
+      "Dawson le chien",
+      "Kenny le chat"
+    ],
+    "réponse": "Kenny le chat",
+    "anecdote": "Bikini Bottom est une ville dans l'Océan Pacifique représentant la véritable vie marine de l'île d'Atoll de Bikini."
+  },
+  {
+    "question": "En quoi a été transformé le mari de Mme Puff dans la saga 'Bob l'éponge' ?",
+    "propositions": ["En lampe", "En chaise", "En vélo", "En tapis"],
+    "réponse": "En lampe",
+    "anecdote": "Transformé par les humains, la pauvre Madame Puff n'en parle jamais tant ça lui fait du chagrin de repenser à lui."
+  },
+  {
+    "question": "Quel nom Patchy le pirate a-t-il donné à son perroquet domestique plus agaçant ?",
+    "propositions": ["Potty", "Marbles", "Looney", "Nutty"],
+    "réponse": "Potty",
+    "anecdote": "Le pirate est là pour présenter, toujours de manière très drôle, les épisodes spéciaux de 'Bob l'éponge'."
+  },
+  {
+    "question": "En quoi se transforment ceux qui souffrent de la maladie de l'escargot fou dans 'Bob l'éponge' ?",
+    "propositions": ["En écureuils", "En vaches", "En zombies", "En chevaux"],
+    "réponse": "En zombies",
+    "anecdote": "Bob a la possibilité de prendre n'importe quelle forme, mais c'est surtout pour faire des gags."
+  },
+  {
+    "question": "Dans 'Bob l'éponge', quel prénom Sandy a-t-elle donné à sa chenille qui deviendra papillon ?",
+    "propositions": ["Wormy", "Geoff", "Catty", "Paul"],
+    "réponse": "Wormy",
+    "anecdote": "Une fois devenue papillon, Bob et Patrick n'ont jamais vu de telles créatures et ils sont effrayés, tout comme les habitants."
+  },
+  {
+    "question": "Quel personnage de la série 'Bob l'éponge' est l'heureux propriétaire d'un bateau invisible ?",
+    "propositions": ["Mindy", "L'Homme Sirène", "Patrick", "Plankton"],
+    "réponse": "L'Homme Sirène",
+    "anecdote": "L'Homme Sirène peut invoquer des créatures du fond des océans, lancer des boules d'eau ou faire des tourbillons."
+  },
+  {
+    "question": "Laquelle de ces propositions ne désigne pas une marque vendant du pastis sans alcool ?",
+    "propositions": ["Blancart", "Pastis 51", "Pastisade", "Girard"],
+    "réponse": "Pastis 51",
+    "anecdote": "Elle se boit avec de l'eau fraîche et éventuellement des glaçons dans la proportion de un volume de pastis pour cinq ou sept d'eau."
+  },
+  {
+    "question": "Quel ingrédient controversé se retrouve dans plusieurs boissons énergisantes de la marque Red Bull ?",
+    "propositions": ["La taurine", "La cocaïne", "Le glutamate", "La glycine"],
+    "réponse": "La taurine",
+    "anecdote": "La taurine est l'un des ingrédients retardant larrivée de la boisson dans certains pays, par application du principe de précaution."
+  },
+  {
+    "question": "Dans sa recette initiale, quel ingrédient le Coca-Cola contenait-il ?",
+    "propositions": [
+      "De la cocaïne",
+      "De la marijuana",
+      "De l'héroïne",
+      "Du LSD"
+    ],
+    "réponse": "De la cocaïne",
+    "anecdote": "La première recette ancêtre du Coca-Cola, le 'French Wine Coca', est inventée par John Pemberton en 1885."
+  },
+  {
+    "question": "Dans quel pays la boisson gazeuse nommée 'Applesin' remporte-t-elle un franc succès ?",
+    "propositions": ["Canada", "Argentine", "Islande", "Corée du Sud"],
+    "réponse": "Islande",
+    "anecdote": "Depuis 1955, la brasserie produit Eglsl Appelsín, véritable expérience islandaise du soda ou orangeade."
+  },
+  {
+    "question": "La recette de quelle marque de cola est disponibles pour tous et reproductible librement ?",
+    "propositions": ["Cola-Cola", "OpenCola", "FreeCola", "Coco-Lala"],
+    "réponse": "OpenCola",
+    "anecdote": "Quelques militants de léthique FLOSS ont commencé un projet OpenCola italien, mais sans but lucratif."
+  },
+  {
+    "question": "Laquelle de ces personnalités n'a jamais participé à une publicité pour la marque Pepsi ?",
+    "propositions": [
+      "Madonna",
+      "Michael Jackson",
+      "David Beckham",
+      "Zinédine Zidane"
+    ],
+    "réponse": "Zinédine Zidane",
+    "anecdote": "En 2010, les ventes de Pepsi Cola en France ont progressé de plus de 36 % sur les quatre premiers mois de lannée 200."
+  },
+  {
+    "question": "Quelle boisson sans alcool est dorée comme l'alcool et a un nom qui sonne comme l'alcool ?",
+    "propositions": ["Canada Dry", "Sprite", "Tropicana", "Pepsi"],
+    "réponse": "Canada Dry",
+    "anecdote": "En 1934, Canada Dry fut l'une des premières marques à proposer des comic books comme cadeau gratuit."
+  },
+  {
+    "question": "En quelle année la marque Pepsi a-t-elle été créée à New Bern, en Caroline du Nord ?",
+    "propositions": ["1938", "1898", "1918", "1958"],
+    "réponse": "1898",
+    "anecdote": "Caleb D. Bradham, pharmacien à New Bern, inventa une potion à base de noix de cola contre les troubles de la digestion."
+  },
+  {
+    "question": "Dans quelle ville américaine la marque Minute Maid a-t-elle été créée en 1945 ?",
+    "propositions": ["Chicago", "Boston", "New York", "Washington"],
+    "réponse": "Boston",
+    "anecdote": "Plutôt que d'offrir son jus d'orange sous forme de poudre, la firme décida de créer un produit concentré surgelé."
+  },
+  {
+    "question": "En quelle année la marque de boissons Schweppes a-t-elle été créée ?",
+    "propositions": ["1983", "1883", "1683", "1783"],
+    "réponse": "1783",
+    "anecdote": "À partir d'avril 2014, la nouvelle égérie de Schweppes devient Pénélope Cruzsur le thème de la sensualité."
+  },
+  {
+    "question": "Quel naturaliste a regroupé en 1753 les 22 espèces connues de cactus ?",
+    "propositions": [
+      "Erik Acharius",
+      "Olof Celsius",
+      "Carl von Linné",
+      "Daniel Rolander"
+    ],
+    "réponse": "Carl von Linné",
+    "anecdote": "Ce naturaliste suédois, qui a consacré sa vie aux êtres vivants, a fondé les bases du système moderne de la nomenclature binominale."
+  },
+  {
+    "question": "Combien d'espèces de cactus ont aujourd'hui un usage médicinal et/ou vétérinaire ?",
+    "propositions": ["64", "94", "34", "4"],
+    "réponse": "64",
+    "anecdote": "64 % des cactus menacés sont utilisés par l'homme sous l'une de ces formes et 57 % (236 espèces) en l'horticulture."
+  },
+  {
+    "question": "En botanique, quel signe distinctif différencie les Cactaceae des autres familles ?",
+    "propositions": ["Lenticelle", "Radicule", "Aréole", "Chalaze"],
+    "réponse": "Aréole",
+    "anecdote": "Les aréoles sont des petites excroissances de la plante à partir desquelles partent en faisceau les épines, les poils et les fleurs."
+  },
+  {
+    "question": "Quelle est la plus haute espèce de cactus connue à ce jour ?",
+    "propositions": [
+      "Rhipsalis russellii",
+      "Harrisia fragrans",
+      "Opuntia rufida",
+      "Pachycereus pringlei"
+    ],
+    "réponse": "Pachycereus pringlei",
+    "anecdote": "Avec un tronc d'un mètre de diamètre, ses fleurs blanches en forme d'entonnoir de 8 cm de long n'apparaissent que chez les adultes."
+  },
+  {
+    "question": "Comment appelle-t-on une croissance anormale du sommet d'une tige de cactus ?",
+    "propositions": ["Sérotinie", "Ostiole", "Résupination", "Cristation"],
+    "réponse": "Cristation",
+    "anecdote": "La cristation désigne une forme de tératologie végétale qui consiste en la croissance anormale du sommet d'une tige."
+  },
+  {
+    "question": "Quel cactus colonnaire est connu pour contenir de la mescaline ?",
+    "propositions": ["Parodia", "San Pedro", "Oroya", "Ferocactus"],
+    "réponse": "San Pedro",
+    "anecdote": "Ce cactus colonnaire à croissance rapide, originaire des Andes péruviennes, pousse entre 2 000 et 3 000 m d'altitude."
+  },
+  {
+    "question": "Quelle vallée est l'un des plus riches sites de cactus dans le monde ?",
+    "propositions": [
+      "Vallée des Usines",
+      "Vallée de Joux",
+      "Vallée de Baïgorry",
+      "Vallée de Tehuacan"
+    ],
+    "réponse": "Vallée de Tehuacan",
+    "anecdote": "D'autres cactus (notamment les Opuntias) se sont acclimatés sur les autres continents après avoir été introduits par l'homme."
+  },
+  {
+    "question": "Quel cactus produit le pitaya, également appelé le fruit du dragon ?",
+    "propositions": ["Cereus", "Peyotl", "Hylocereus", "San Pedro"],
+    "réponse": "Hylocereus",
+    "anecdote": "La chair du pitaya est comestible et ressemble par sa texture et la présence de petits pépins noirs à celle du kiwi, au goût plus doux."
+  },
+  {
+    "question": "Quelle est la plus petite espèce de cactus connue à ce jour ?",
+    "propositions": [
+      "Aztekium ritteri",
+      "Cereus jamacaru",
+      "Blossfeldia liliputiana",
+      "Echinopsis oxygona"
+    ],
+    "réponse": "Blossfeldia liliputiana",
+    "anecdote": "Cette espèce de cactus porte le nom du pays légendaire de Liliput, l'appellation liliputana étant parfois utilisée mais non validée."
+  },
+  {
+    "question": "Quelle série de BD humoristique est dessinée par Philippe Bercovici ?",
+    "propositions": [
+      "Cactus Club",
+      "Circus Cactus",
+      "Cactus Man",
+      "Red Cactus"
+    ],
+    "réponse": "Cactus Club",
+    "anecdote": "Dans un club de vacances, l'animateur Phil, G.O. en chef, est chargé de s'occuper de tous les caprices de ses clients."
+  },
+  {
+    "question": "Quel pourcentage les chats de race représentent-ils parmi la population totale ?",
+    "propositions": ["25 %", "15 %", "5 %", "35 %"],
+    "réponse": "5 %",
+    "anecdote": "Si votre animal est un chat de race, il doit posséder un pedigree ou avoir fait l'objet d'une demande spécifique."
+  },
+  {
+    "question": "Bastet, déesse de la joie du foyer aux traits félins est une déesse de quelle nationalité ?",
+    "propositions": ["Viking", "Égyptienne", "Romaine", "Grecque"],
+    "réponse": "Égyptienne",
+    "anecdote": "Bastet est l'une des déesses les plus discrètes du panthéon égyptien et n'est jamais représentée."
+  },
+  {
+    "question": "Le Manx est un chat très particulier car il ne possède pas...",
+    "propositions": ["De poils", "De queue", "De moustaches", "De nez"],
+    "réponse": "De queue",
+    "anecdote": "La mutation du gène s'est développée sur l'île de Man à cause de l'isolement des chats et de la trop forte consanguinité."
+  },
+  {
+    "question": "Où sont situées les glandes odoriférantes chez le chat ?",
+    "propositions": [
+      "Derrière les oreilles",
+      "Dans le ventre",
+      "Sur la langue",
+      "Sous les pattes"
+    ],
+    "réponse": "Dans le ventre",
+    "anecdote": "Les chats communiquent principalement entre eux par des phéromones ou des positions corporelles."
+  },
+  {
+    "question": "Selon Le langage courant, comment appelle-t-on un chat en argot ?",
+    "propositions": ["Un greffier", "Un grognant", "Un bourrin", "Un canasson"],
+    "réponse": "Un greffier",
+    "anecdote": "Deux explications s'opposent : le jeu de mot sur « griffe » ainsi que la fourrure de certains chats évoquant la robe des greffiers."
+  },
+  {
+    "question": "À quel gène responsable de l'absence de pigment dans le poil est lié la surdité des chats blancs ?",
+    "propositions": ["Gène Y", "Gène Z", "Gène W", "Gène X"],
+    "réponse": "Gène W",
+    "anecdote": "Il est en effet démontré que l'allèle W est directement responsable d'une dégénérescence de l'oreille interne, occasionnant la surdité."
+  },
+  {
+    "question": "À combien de degrés se monte le champ de vision total du chat, plus étendu que celui des humains ?",
+    "propositions": ["253 degrés", "175 degrés", "287 degrés", "206 degrés"],
+    "réponse": "287 degrés",
+    "anecdote": "L'angle de vision binoculaire est de 130°, pour un champ de vision total de 287°, contre seulement 180° chez l'homme."
+  },
+  {
+    "question": "Comment appelle-t-on un chat domestique qui retourne à l'état sauvage ?",
+    "propositions": ["Chartreux", "Sibérien", "Haret", "Ragdoll"],
+    "réponse": "Haret",
+    "anecdote": "Le chat haret, ou chat errant, peut avoir connu la vie auprès des êtres humains ou bien être né dans la nature."
+  },
+  {
+    "question": "Quel ecclésiastique et homme d'État possédait 14 chats à sa mort ?",
+    "propositions": ["Richelieu", "Colbert", "Louis XV", "Napoléon"],
+    "réponse": "Richelieu",
+    "anecdote": "Pour l'anecdote, le Cardinal de Richelieu a contribué à faire considérer les chats comme animaux de compagnie."
+  },
+  {
+    "question": "Comment s'appelle le chat du 'Chat qui parlait malgré lui' de Claude Roy ?",
+    "propositions": ["Gaspard", "Titus", "Thomas", "Chaminou"],
+    "réponse": "Gaspard",
+    "anecdote": "Claude Roy, né et mort à Paris, était un poète, journaliste et écrivain français."
+  },
+  {
+    "question": "Pour les préliminaires de quel événement les Mayas se servent-ils du chocolat ?",
+    "propositions": ["Sacrifice", "Mariage", "Décès", "Naissance"],
+    "réponse": "Mariage",
+    "anecdote": "Le cacao purifie aussi les enfants mayas lors de cérémonies ou accompagne le défunt pour son voyage vers l'au-delà."
+  },
+  {
+    "question": "Quelle civilisation précolombienne a la première cultivé le cacao ?",
+    "propositions": ["Africains", "Olmèques", "Berbères", "Aztèques"],
+    "réponse": "Olmèques",
+    "anecdote": "À ce jour, la culture olmèque demeure inconnue jusqu'à la deuxième moitié du XIXe siècle."
+  },
+  {
+    "question": "Dans quel pays d'Europe a-t-on commencé à consommer du chocolat ?",
+    "propositions": ["Belgique", "Italie", "France", "Espagne"],
+    "réponse": "Espagne",
+    "anecdote": "Ce n'est qu'à partir de la conquête des Aztèques par les Espagnols que le chocolat fut importé en Europe."
+  },
+  {
+    "question": "Combien de fleurs un cacaoyer peut-il produire annuellement ?",
+    "propositions": ["1 000", "10 000", "100", "100 000"],
+    "réponse": "100 000",
+    "anecdote": "Les fleurs apparaissent toute l'année sur des renflements du bois de l'arbre, appelés « coussinets floraux »."
+  },
+  {
+    "question": "Quel explorateur a rapporté le cacao en Europe en 1528 ?",
+    "propositions": ["Christophe Colomb", "Foucauld", "Cortés", "Charcot"],
+    "réponse": "Cortés",
+    "anecdote": "Hernan Cortés s'est emparé de l'Empire aztèque pour le compte de Charles Quint, roi de Castille et empereur romain germanique."
+  },
+  {
+    "question": "Quel chocolat noir est issu de cacao d'une seule plantation ?",
+    "propositions": ["Premier choix", "Origine", "Label rouge", "Grand cru"],
+    "réponse": "Grand cru",
+    "anecdote": "En France, c'est l'Institut national de l'origine et de la qualité qui classifie la qualité des chocolats."
+  },
+  {
+    "question": "Quelle substance est obtenue après broyage des fèves du cacaoyer ?",
+    "propositions": ["Tasse", "Crasse", "Masse", "Nasse"],
+    "réponse": "Masse",
+    "anecdote": "Les fèves de cacao contiennent environ 50% de matière grasse appelée « beurre de cacao »."
+  },
+  {
+    "question": "Une fois la masse de cacao pressée, quel produit est utilisé pour faire du cacao en poudre ?",
+    "propositions": ["Tourteau", "Homard", "Crevette", "Crabe"],
+    "réponse": "Tourteau",
+    "anecdote": "Deux procédés de trituration sont possibles : la pression discontinue à froid et la pression continue à chaud."
+  },
+  {
+    "question": "Laura Esquivel, écrivaine mexicaine contemporaine, a publié un livre intitulé...",
+    "propositions": [
+      "Chocolat noir",
+      "Chocolat au lait",
+      "Chocolat blanc",
+      "Chocolat amer"
+    ],
+    "réponse": "Chocolat amer",
+    "anecdote": "Laura Esquivel est un auteur qui cherche constamment de nouveaux et originaux chemins dans ses oeuvres."
+  },
+  {
+    "question": "Dans quel rayon BD peut-on trouver l'album 'Fraise et chocolat' ?",
+    "propositions": ["Jeunesse", "Érotique", "Humour", "Aventure"],
+    "réponse": "Érotique",
+    "anecdote": "Aurélia Aurita est une auteure de bande dessinée française d'origine chinoise et khmère."
+  },
+  {
+    "question": "Lequel de ces vins n'existe ni en rouge ni en blanc mais exclusivement en rosé ?",
+    "propositions": ["Tavel", "Merlot", "Chardonnay", "Gamay"],
+    "réponse": "Tavel",
+    "anecdote": "Le romancier Honoré de Balzac disait que c'est un des rares rosés que l'on puisse avantageusement laisser vieillir."
+  },
+  {
+    "question": "Qui a écrit 'Le mystère de la chambre jaune', la première aventure de Joseph Rouletabille ?",
+    "propositions": [
+      "Léon Barry",
+      "Marc Bernard",
+      "Pierre Boulle",
+      "Gaston Leroux"
+    ],
+    "réponse": "Gaston Leroux",
+    "anecdote": "L'uvre a été publiée pour la première fois en douze livraisons dans le supplément littéraire de 'L'Illustration' en septembre 1907."
+  },
+  {
+    "question": "Quelle est la couleur du corbeau dans une chanson de Johnny Hallyday ?",
+    "propositions": ["Blanc", "Bleu", "Noir", "Gris"],
+    "réponse": "Noir",
+    "anecdote": "Né de père belge et de mère française, Johnny Hallyday opta pour la nationalité française, le 15 juin 1961, à l'âge de 18 ans."
+  },
+  {
+    "question": "Qu'est-ce qui est rouge dans un film de Gérard Krawczyk ?",
+    "propositions": ["La Vie", "L'Auberge", "Le Taxi", "La Tulipe"],
+    "réponse": "L'Auberge",
+    "anecdote": "Le film est un remake du film 'L'Auberge rouge' de Claude Autant-Lara, sorti en 1951 et inspiré des crimes de l'auberge de Peyrebeille."
+  },
+  {
+    "question": "Qu'est ce qui porte la couleur noire dans le titre d'un film de Richard Berry ?",
+    "propositions": ["Un parapluie", "Une porte", "Une boîte", "Un chapeau"],
+    "réponse": "Une boîte",
+    "anecdote": "Des scènes du film ont été tournées à Cherbourg, précisément dans le sous-marin Le Redoutable en cale sèche à la Cité de la mer."
+  },
+  {
+    "question": "À quelle couleur associez-vous l'ictère correspondant à la coloration de la peau et des muqueuses ?",
+    "propositions": ["Jaune", "Gris", "Bleu", "Vert"],
+    "réponse": "Jaune",
+    "anecdote": "L'ictère peut être plus ou moins intense, mais lorsqu'il débute il est uniquement visible au niveau des conjonctives de l'il."
+  },
+  {
+    "question": "De quelle couleur est l'aiguille située au sommet du Massif de la Vanoise ?",
+    "propositions": ["Rose", "Rouge", "Jaune", "Verte"],
+    "réponse": "Rouge",
+    "anecdote": "L'aiguille Rouge est le point culminant de la station des Arcs. Son accès est possible par le téléphérique qui monte jusqu'au sommet."
+  },
+  {
+    "question": "Quelle est la couleur du poney de John Steinbeck dans son roman court pour la jeunesse ?",
+    "propositions": ["Orange", "Rouge", "Jaune", "Rose"],
+    "réponse": "Rouge",
+    "anecdote": "Le roman a été traduit en français par Marcel Duhamel et Max Morise en 1946 dans le recueil 'La Grande Vallée'."
+  },
+  {
+    "question": "Quelle massif des Alpes se situe entre la Suisse et l'Italie ?",
+    "propositions": [
+      "Le mont Rose",
+      "Le mont jaune",
+      " Le mont gris",
+      "Le Mont-Blanc"
+    ],
+    "réponse": "Le mont Rose",
+    "anecdote": "Situé à la frontière entre la Suisse et l'Italie, le mont Rose est le deuxième plus haut massif des Alpes après celui du Mont-Blanc."
+  },
+  {
+    "question": "En aviation, quelle est la couleur de la boîte noire enregistrant des informations liées au vol ?",
+    "propositions": ["Verte", "Noire", "Orange", "Blanche"],
+    "réponse": "Orange",
+    "anecdote": "Dans la pratique, les boîtes noires sont de couleur orange ou rouge avec des bandes blanches réfléchissantes."
+  },
+  {
+    "question": "Quelle ville chinoise a décrété le niveau d'alerte sanitaire maximal le 25 janvier 2020 ?",
+    "propositions": ["Tianjin", "Shanghai", "Chongqing", "Hong Kong"],
+    "réponse": "Hong Kong",
+    "anecdote": "Hong Kong se place dans le rang des grands centres financiers avec New York et Londres (cette trilogie étant appelée Nylonkong)."
+  },
+  {
+    "question": "Quel navire de croisière fut confiné dans le port de Yokohama durant quatorze jours ?",
+    "propositions": [
+      "Diamond Princess",
+      "Emerald Princess",
+      "Golden Princess",
+      "Island Princess"
+    ],
+    "réponse": "Diamond Princess",
+    "anecdote": "Deux passagers qui avaient été évacués dans un hôpital japonais les 11 et 12 février 2020 seront déclarés morts le 20 février 2020."
+  },
+  {
+    "question": "Quelle commune de Lombardie constituait en février 2020 le principal foyer d'infection en Italie ?",
+    "propositions": ["Mulazzano", "Maleo", "Codogno", "Bertonico"],
+    "réponse": "Codogno",
+    "anecdote": "Le 23 février 2020, Codogno et dix communes alentours furent placées en quarantaine (avec 52 000 personnes confinées)."
+  },
+  {
+    "question": "Quel coronavirus est à l'origine de l'épidémie qui a débuté fin 2019 dans le monde ?",
+    "propositions": ["Zika", "Dengue", "Chikungunya", "SARS-CoV-2"],
+    "réponse": "SARS-CoV-2",
+    "anecdote": "Le coronavirus du syndrome respiratoire aigu sévère 2 est apparenté au coronavirus du SRAS, appartenant au sous-genre Sarbecovirus."
+  },
+  {
+    "question": "Dans quel pays les trois premiers malades européens du COVID-19 furent-ils annoncés ?",
+    "propositions": ["France", "Belgique", "Espagne", "Italie"],
+    "réponse": "France",
+    "anecdote": "Deux personnes à Paris et une autre à Bordeaux furent ainsi détectées positives au virus, les trois patients ayant séjourné à Wuhan."
+  },
+  {
+    "question": "Quelle était la période d'incubation maximale fixée en février 2020 à l'égard du COVID-19 ?",
+    "propositions": ["21 jours", "35 jours", "14 jours", "28 jours"],
+    "réponse": "14 jours",
+    "anecdote": "La période d'incubation semble être le plus souvent comprise entre quatre et sept jours et très certainement inférieure à quatorze jours."
+  },
+  {
+    "question": "En 2020, quelle ville a reporté le Salon international des inventions suite au coronavirus ?",
+    "propositions": ["Bruxelles", "Genève", "Berlin", "Madrid"],
+    "réponse": "Genève",
+    "anecdote": "En 2009, le Salon a obtenu le patronage de l'Organisation mondiale de la propriété intellectuelle (OMPI), en plus du patronage de la Suisse."
+  },
+  {
+    "question": "Quelle est la durée de vie en milieu humide du COVID-19 hors organisme ?",
+    "propositions": ["Trois jours", "Six jours", "Six heures", "Trois heures"],
+    "réponse": "Trois jours",
+    "anecdote": "Cette durée exclue la possibilité de contamination par colis, qui dans les cas les plus rapides, parcourent la distance ChineÉtats-Unis en 4 jours."
+  },
+  {
+    "question": "Quel pays fut le théâtre d'un foyer épidémique centré sur la secte Shincheonji ?",
+    "propositions": ["Corée du Nord", "Japon", "Chine", "Corée du Sud"],
+    "réponse": "Corée du Sud",
+    "anecdote": "Le 31 janvier, la Corée du Sud a décidé de rapatrier 367 de ses ressortissants à l'aide d'un Boeing 747 de Korean Air."
+  },
+  {
+    "question": "Quel médecin a déclaré que le monde n'était pas prêt à faire face à l'épidémie de coronavirus ?",
+    "propositions": [
+      "Michel Fernex",
+      "Robert Wylie",
+      "Bruce Aylward",
+      "Hans Klug"
+    ],
+    "réponse": "Bruce Aylward",
+    "anecdote": "Le Docteur Bruce Aylward a été prêté par l'OMS au Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA)."
+  },
+  {
+    "question": "Comment appelle-t-on la ligne imaginaire qui sépare deux pays ?",
+    "propositions": ["Frontière", "Tangente", "Section", "Médiane"],
+    "réponse": "Frontière",
+    "anecdote": "Le sens attribué au mot frontière a évolué tout au long de l'histoire, et il n'a pas été le même d'une époque à l'autre."
+  },
+  {
+    "question": "Quel est le nombre total de points sur un dé à six faces de jeu de société ?",
+    "propositions": ["21", "18", "15", "30"],
+    "réponse": "21",
+    "anecdote": "Les dés les plus courants sont des petits cubes de 1 à 2 cm de côté (souvent 16 mm), possédant donc 6 faces numérotées de 1 à 6."
+  },
+  {
+    "question": "Quelle catégorie d'animaux nourrissent leurs petits avec leur lait ?",
+    "propositions": ["Carnivores", "Primates", "Rongeurs", "Mammifères"],
+    "réponse": "Mammifères",
+    "anecdote": "Les nouveau-nés nécessitent systématiquement des soins parentaux du fait de leur appareil digestif immature à la naissance."
+  },
+  {
+    "question": "Dans nos jardins, quelle partie de la plante s'enfonce parfois profondément dans la terre ?",
+    "propositions": ["Tige", "Épine", "Pétale", "Racine"],
+    "réponse": "Racine",
+    "anecdote": "La racine est un organe vital de la plante, qui se forme très tôt lors du développement de la plante, dès le début de la germination."
+  },
+  {
+    "question": "En quelle matière sont fabriqués les pneus des voitures ?",
+    "propositions": ["Plastique", "Carbone", "Caoutchouc", "Liège"],
+    "réponse": "Caoutchouc",
+    "anecdote": "Un pneu est conçu pour être monté sur la jante d'une roue et gonflé avec un gaz sous pression, habituellement de l'air ou de l'azote."
+  },
+  {
+    "question": "Comment appelle-t-on une maison construite en bois en pleine montagne ?",
+    "propositions": ["Chalet", "Gîte", "Auberge", "Caravane"],
+    "réponse": "Chalet",
+    "anecdote": "En Suisse romande, le terme chalet désigne également l'édifice où l'on fait le fromage en été dans les hauts alpages."
+  },
+  {
+    "question": "Laquelle de ces nages représente le type de nage le plus rapide ?",
+    "propositions": ["Crawl", "Basse", "Papillon", "Dos"],
+    "réponse": "Crawl",
+    "anecdote": "En crawl, la position du corps est horizontale et se caractérise par un battement des jambes et d'une rotation des bras en dehors de l'eau."
+  },
+  {
+    "question": "En compétition, que met-on sur le dos de certains sportifs pour les reconnaître ?",
+    "propositions": ["Mouchoir", "Maillot", "Dossard", "Drapeau"],
+    "réponse": "Dossard",
+    "anecdote": "En dehors du sport hippique, l'athlétisme et le cyclisme furent les premières disciplines à adopter le système de dossard."
+  },
+  {
+    "question": "Quelle source d'énergie permet de faire avancer une planche à voile ?",
+    "propositions": ["Éolienne", "Marine", "Solaire", "Hydraulique"],
+    "réponse": "Éolienne",
+    "anecdote": "En 2015 l'éolien fournissait 3,4 % de la production mondiale d'électricité. En 2017, cette part a été portée à 4 % avec 539 GW."
+  },
+  {
+    "question": "Quelle course cycliste de France est aussi appelée la Grande Boucle ?",
+    "propositions": [
+      "Milan-San Remo",
+      "Tour de France",
+      "Paris-Nice",
+      "Critérium"
+    ],
+    "réponse": "Tour de France",
+    "anecdote": "Cette compétition cycliste par étapes masculine a lieu principalement en France, tout en traversant occasionnellement les pays voisins."
+  },
+  {
+    "question": "Quel fromage français est moulé en forme de meule à talon légèrement concave ?",
+    "propositions": ["Beaufort", "Reblochon", "Livernon", "Cantal"],
+    "réponse": "Beaufort",
+    "anecdote": "Autrefois, le beaufort représentait une production importante, mais il a payé un lourd tribut à l'exode rural et à son coût de production."
+  },
+  {
+    "question": "Quel fromage triple-crème est produit dans les régions de Normandie et de Bourgogne ?",
+    "propositions": ["Mélusine", "Gaperon", "Brillat-savarin", "Pélardon"],
+    "réponse": "Brillat-savarin",
+    "anecdote": "Le brillat-savarin est un fromage triple-crème, doux au palais, qui se mange jeune et bien frais."
+  },
+  {
+    "question": "Quel fromage français actuel est parfois aussi appelé « brie petit moule » ?",
+    "propositions": [
+      "Le coulommiers",
+      "Le charolais",
+      "Le chevrotin",
+      "Le civray"
+    ],
+    "réponse": "Le coulommiers",
+    "anecdote": "En gastronomie, le coulommiers est utilisé pour la préparation de la « crème de Coulommiers »."
+  },
+  {
+    "question": "Quel fromage est cerclé de trois à cinq bandelettes séchées et découpées ?",
+    "propositions": ["Le livarot", "Le fédou", "Le livernon", "Le montbriac"],
+    "réponse": "Le livarot",
+    "anecdote": "Ces bandes, qui servaient à la bonne tenue du fromage lors de l'affinage, sont à l'origine du surnom de « colonel » du fromage."
+  },
+  {
+    "question": "Quel fromage français possède une fine couche de cendre à la saveur douce et fruitée ?",
+    "propositions": [
+      "Le trou du Cru",
+      "Le vachard",
+      "Le morbier",
+      "Le savaron"
+    ],
+    "réponse": "Le morbier",
+    "anecdote": "Morbier est une appellation d'origine désignant un fromage de lait cru de vache, fabriqué dans le massif du Jura en France."
+  },
+  {
+    "question": "Quel fromage français utilise le taureau comme logotype ?",
+    "propositions": ["Le laguiole", "Le fédou", "Le barousse", "Le livarot"],
+    "réponse": "Le laguiole",
+    "anecdote": "Le laguiole a failli disparaître au milieu du XXe siècle, du fait des prix de revient élevés de ses méthodes de fabrication."
+  },
+  {
+    "question": "Combien de litres de lait sont nécessaires pour confectionner une meule de cantal ?",
+    "propositions": ["200", "100", "400", "300"],
+    "réponse": "400",
+    "anecdote": "Le cantal est protégé par une appellation d'origine contrôlée en France et par une AOP au niveau européen."
+  },
+  {
+    "question": "Quel fromage de lait de vache se nomme « géromé » en Lorraine ?",
+    "propositions": [
+      "Le munster",
+      "Le savaron",
+      "Le trou du Cru",
+      "Le morbier"
+    ],
+    "réponse": "Le munster",
+    "anecdote": "La recette du munster a été laissée aux Vosgiens au IXe siècle par un moine irlandais de passage."
+  },
+  {
+    "question": "Quel fromage présente une ligne orange en-dessous de sa pâte de couleur ivoire ?",
+    "propositions": [
+      "Le barousse",
+      "Le munster",
+      "Le Curé nantais",
+      "Le mouflon"
+    ],
+    "réponse": "Le barousse",
+    "anecdote": "Le barousse est une pâte à trous qui pendant les deux premières semaines est lavé, essuyé et retourné tous les jours."
+  },
+  {
+    "question": "Quel fromage a une pâte qui révèle une saveur de lard fumé et un final épicé ?",
+    "propositions": [
+      "Le Curé nantais",
+      "Le charolais",
+      "La figuette",
+      "Le boursin"
+    ],
+    "réponse": "Le Curé nantais",
+    "anecdote": "Sa recette aurait été transmise au XIXe siècle à Saint-Julien-de-Concelles dans le vignoble nantais par un curé de passage."
+  },
+  {
+    "question": "Quelle super-héroïne issue d'une tribu d'amazones possède un lasso magique ?",
+    "propositions": ["Catwoman", "Bullseye", "Ultron", "Wonder Woman"],
+    "réponse": "Wonder Woman",
+    "anecdote": "Dans la plupart des adaptations, Wonder Woman est représentée étant la princesse Diana issue d'une tribu d'amazones."
+  },
+  {
+    "question": "Quel super-héros créé par Marvel Comics est aveugle de naissance ?",
+    "propositions": ["Flash", "Thor", "Cyclope", "Stick"],
+    "réponse": "Stick",
+    "anecdote": "Stick peut se déplacer en silence de telle sorte que même le radar et l'ouïe renforcée de Daredevil ne peuvent le détecter."
+  },
+  {
+    "question": "Combien compte-t-on environ de héros dans les Comics de Marvel ?",
+    "propositions": ["4 000", "3 000", "2 000", "5 000"],
+    "réponse": "5 000",
+    "anecdote": "Martin Goodman est le fondateur de Timely Comics qui est à l'origine de Marvel Comics."
+  },
+  {
+    "question": "Quelle héroïne de Daredevil est une tueuse professionnelle ?",
+    "propositions": ["Ultron", "Catwoman", "Elektra", "Wonder Woman"],
+    "réponse": "Elektra",
+    "anecdote": "Elektra sait maîtriser de nombreuses armes, notamment orientales, telles que les sais qu'elle utilise au combat, et les armes à feu."
+  },
+  {
+    "question": "Quel est le surnom de Joseph Green, super-héros créé par Marvel Comics ?",
+    "propositions": ["Hulk", "Thor", "Gauntlet", "Flash"],
+    "réponse": "Gauntlet",
+    "anecdote": "Gauntlet possède un gant métallique gigantesque (d'où son nom) qu'il porte à la main droite."
+  },
+  {
+    "question": "Quel super-héros possède les mêmes pouvoirs que Spider-Man ?",
+    "propositions": ["Venom", "Green Arrow", "Blade", "Bizarro"],
+    "réponse": "Venom",
+    "anecdote": "Venom reste l'un des personnages les plus endurants et les plus populaires de la saga Spider-Man."
+  },
+  {
+    "question": "Quel super-héros est physiquement le plus fort du groupe des Teen Titans ?",
+    "propositions": ["Red Robin", "Cyborg", "Beast Boy", "Raven"],
+    "réponse": "Cyborg",
+    "anecdote": "Cyborg est capable de s'auto-réparer ou de faire agir ses membres même s'ils sont détachés du reste de son corps."
+  },
+  {
+    "question": "Lequel de ces super-héros est probablement le plus rapide du monde ?",
+    "propositions": ["Beast Boy", "Raven", "Cyborg", "Flash"],
+    "réponse": "Flash",
+    "anecdote": "En France tout comme en Europe, Flash a connu plusieurs revues, le plus souvent en petit format."
+  },
+  {
+    "question": "Quelle super-héroïne proche du Docteur Strange a été créée en 1964 ?",
+    "propositions": ["Félina", "Cléa", "Monica", "Elsa"],
+    "réponse": "Cléa",
+    "anecdote": "Assidûment entraînée par le Docteur Strange, Cléa est une sorcière de bon niveau."
+  },
+  {
+    "question": "Quelle super-héroïne Marvel fut créée par Roger Stern et John Romita Jr. ?",
+    "propositions": ["Monica Rambeau", "Elsa Bloodstone", "Clea", "Félina"],
+    "réponse": "Monica Rambeau",
+    "anecdote": "Cette super-héroïne, plus connue sous le nom de Captain Marvel, a également été surnommée Photon et Pulsar."
+  },
+  {
+    "question": "Grâce à quoi tous les ordinateurs sur Internet sont-ils plus ou moins facilement repérables ?",
+    "propositions": ["Adresse IP", "Antivirus", "Écran", "Bornage"],
+    "réponse": "Adresse IP",
+    "anecdote": "L'adresse IP est à la base du système d'acheminement (le routage) des messages sur Internet."
+  },
+  {
+    "question": "Quelle extension ajoutée à votre navigateur Internet préféré accentue ses possibilités ?",
+    "propositions": ["Backup", "Plug-in", "Spool", "Byte"],
+    "réponse": "Plug-in",
+    "anecdote": "Certains plug-ins peuvent aussi être utilisés comme logiciel à part entière, on dit alors qu'ils sont « standalone »."
+  },
+  {
+    "question": "Comment appelle-t-on les canulars transmis par messagerie électronique ou via Internet ?",
+    "propositions": ["Bug", "Virus", "Hoax", "Cookie"],
+    "réponse": "Hoax",
+    "anecdote": "Conçus pour apparaître crédibles et véritables, ces canulars peuvent parfois avoir un but malveillant."
+  },
+  {
+    "question": "De plus en plus de sites enregistrent sur votre ordinateur un témoin de passage appelé...",
+    "propositions": ["Cupcake", "Spam", "Modem", "Cookie"],
+    "réponse": "Cookie",
+    "anecdote": "Existant depuis plus de 20 ans, les cookies permettent aux développeurs de sites internet de conserver des données utilisateur."
+  },
+  {
+    "question": "En quelle année a été envoyé le tout premier courriel ou courrier électronique ?",
+    "propositions": ["1991", "1981", "1971", "1961"],
+    "réponse": "1971",
+    "anecdote": "Il faut disposer d'une adresse électronique et d'un client de messagerie permettant l'accès aux messages via un navigateur."
+  },
+  {
+    "question": "Quelle opération informatique illicite consiste à copier l'intégralité d'un site Internet sur son ordinateur ?",
+    "propositions": ["Gravure", "Sauvegarde", "Aspiration", "Copie"],
+    "réponse": "Aspiration",
+    "anecdote": "Un site web est un ensemble de pages qui peuvent être consultées en suivant des hyperliens à l'intérieur du site lui-même."
+  },
+  {
+    "question": "Quelle abréviation est utilisée pour désigner une adresse de site Internet ?",
+    "propositions": ["KBD", "TCP", "URL", "MP3"],
+    "réponse": "URL",
+    "anecdote": "En France, d'après le Journal officiel du 16 mars 1999, « URL » peut être traduit par adresse réticulaire ou adresse universelle."
+  },
+  {
+    "question": "Quel anniversaire le World Wide Web a-t-il fêté en 2014 ?",
+    "propositions": ["Ses 45 ans", "Ses 35 ans", "Ses 25 ans", "Ses 15 ans"],
+    "réponse": "Ses 25 ans",
+    "anecdote": "En septembre 2014, Internet dépassait un milliard de sites en ligne pour près de trois milliards d'internautes."
+  },
+  {
+    "question": "Quel protocole est dédié à la transmission de fichiers sur Internet ?",
+    "propositions": ["HTTP", "IPX/SPX", "FTP", "TCP/IP"],
+    "réponse": "FTP",
+    "anecdote": "Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé chez un tiers."
+  },
+  {
+    "question": "Quel terme désigne le code de bonne conduite sur Internet ?",
+    "propositions": ["Reboot", "Nétiquette", "Phishing", "Hameçonnage "],
+    "réponse": "Nétiquette",
+    "anecdote": "La « nétiquette » rassemble des tentatives de formalisation d'un certain contrat social pour l'Internet."
+  },
+  {
+    "question": "Quelle est la chaîne jeunesse dont le slogan a été 'La télé qui remue toute la famille' ?",
+    "propositions": ["Gulli", "Cstar", "W9", "HD1"],
+    "réponse": "Gulli",
+    "anecdote": "Lors du lancement de la TNT en France, en 2005, le groupe Lagardère et France Televisions se sont associés."
+  },
+  {
+    "question": "Quels personnages sautillent en s'engouffrant dans leur poche ?",
+    "propositions": ["Bisounours", "Entrechats", "Tifins", "Popples"],
+    "réponse": "Popples",
+    "anecdote": "Ces boules de poils adorent s'amuser et possèdent une poche dans le dos qui leur permet de faire sortir des objets insolites."
+  },
+  {
+    "question": "De quelle série télévisée d'animation le jeune Yugo est-il le héros ?",
+    "propositions": ["Code Lyoko", "Wakfu", "Molusco", "Star Butterfly"],
+    "réponse": "Wakfu",
+    "anecdote": "Accompagné de ses cinq amis, l'enfant va tenter d'arrêter les ambitions du Nox volant l'énergie créatrice du monde."
+  },
+  {
+    "question": "Qui est probablement le plus célèbre shérif de l'espace ?",
+    "propositions": ["Ulysse", "Bioman", "X-Or", "Jiban"],
+    "réponse": "X-Or",
+    "anecdote": "Cette série japonaise diffusée en 1983 a pour héros Gordan qui se transforme en X-Or en demandant sa transmutation."
+  },
+  {
+    "question": "Comment se nomme le renard et ennemi d'Aglaé et Sidonie ?",
+    "propositions": ["Agénor", "Hugo", "Croquetou", "Saturnin"],
+    "réponse": "Croquetou",
+    "anecdote": "Dans la ferme, la truie Aglaé et l'oie Sidonie sont aidées par le coq Agénor pour démasquer Craquetou en moins de cinq minutes."
+  },
+  {
+    "question": "Quel animal était Monsieur Ed dans la série éponyme américaine destinée aux enfants ?",
+    "propositions": ["Cheval", "Ane", "Lion", "Hibou"],
+    "réponse": "Cheval",
+    "anecdote": "Monsieur Ed, le cheval parlant qui appartient à l'architecte Wilbur Post, utilise ce don à foison en disant tout ce qu'il pense."
+  },
+  {
+    "question": "Quel est le métier de Picolo, personnage créé pour Radio-Canada ?",
+    "propositions": ["Peintre", "Banquier", "Plombier", "Boulanger"],
+    "réponse": "Peintre",
+    "anecdote": "Créé par jean Image en 1963, Picolo parcourt les rues de Paris en compagnie de Picolette, son amoureuse."
+  },
+  {
+    "question": "Combien sont les héros des Petites Canailles apparues en 1962 ?",
+    "propositions": ["Cinq", "Huit", "Sept", "Six"],
+    "réponse": "Cinq",
+    "anecdote": "Ces sacrés garnements à la personnalité bien différente ont pour nom Alfafa, Buck, Darla, Porky et Spanky."
+  },
+  {
+    "question": "Lequel de ces dessins animés n'a pas été produit par Hanna-Barbera ?",
+    "propositions": [
+      "Les Pierrafeu",
+      "Capitaine Caverne",
+      "Calimero",
+      "Scoubidou"
+    ],
+    "réponse": "Calimero",
+    "anecdote": "La carrière de William Hanna et Joseph Barbera a démarré avec Tom et Jerry pour le cinéma et la MGM en 1940."
+  },
+  {
+    "question": "Quel petit animal est Hamtaro dans le manga créé par Ritsuko Kawai ?",
+    "propositions": ["Raton laveur", "Cheval", "Caneton", "Hamster"],
+    "réponse": "Hamster",
+    "anecdote": "Le dessin animé est signé Ritsuko Kawai et est apparu sur les écrans de 'Midi les zouzous' de France 5 en 2003."
+  },
+  {
+    "question": "Lequel de ces noms n'est pas celui d'une hyène dans 'Le Roi Lion' ?",
+    "propositions": ["Shenzi", "Ed", "Banzaï", "Korea"],
+    "réponse": "Korea",
+    "anecdote": "Ed, le second mâle du trio, ne parle pas et se contente d'approuver les initiatives des deux autres en riant de manière hystérique."
+  },
+  {
+    "question": "Qui traite Zazu de « bec-de-banane » dans le film 'Le Roi Lion' ?",
+    "propositions": ["Les Hyènes", "Simba", "Nala", "Scar"],
+    "réponse": "Simba",
+    "anecdote": "Heureux d'exercer son rôle auprès de Mufasa, Zazu est un calao à bec rouge occupant le poste de majordome royal."
+  },
+  {
+    "question": "Dans la savane profonde, où habite Rafiki dans le film 'Le Roi Lion' ?",
+    "propositions": [
+      "On ne le sait pas",
+      "Dans les rochers",
+      "Dans un baobab",
+      "Chez sa mère"
+    ],
+    "réponse": "Dans un baobab",
+    "anecdote": "Ce mandrill intervient ponctuellement pour informer un personnage ou l'amener à se poser « les bonnes questions »."
+  },
+  {
+    "question": "Qui conserve sa voix originale dans toutes les versions étrangères du 'Roi Lion' ?",
+    "propositions": ["Nala", "Ed", "Scar", "Zazu"],
+    "réponse": "Ed",
+    "anecdote": "Ses ricanements frénétiques et sa langue pendante donnent à Ed un air assez attardé sur le plan mental."
+  },
+  {
+    "question": "Quelle race simiesque caractérise le sage Rafiki, sorcier du film 'Le Roi Lion' ?",
+    "propositions": ["Babouin", "Mandrill", "Gorille", "Macaque"],
+    "réponse": "Mandrill",
+    "anecdote": "Ce primate de la famille des cercopithécidés, apparenté au babouin, est très proche du drill."
+  },
+  {
+    "question": "Qui prête sa voix au personnage de Mufasa dans la version française du 'Roi Lion' ?",
+    "propositions": [
+      "Jean Reno",
+      "Gérard Darmon",
+      "Sébastien Cauet",
+      "Elie Semoun"
+    ],
+    "réponse": "Jean Reno",
+    "anecdote": "Jean Reno, pseudonyme de Juan Moreno y Herrera-Jiménez, est né à Casablanca de parents espagnols."
+  },
+  {
+    "question": "Qui a réalisé le film 'Le Roi Lion', sorti en France et en Belgique en novembre 1994 ?",
+    "propositions": [
+      "Mecchi & Roberts",
+      "Roberts & Allers",
+      "Minkoff & Mecchi",
+      "Allers & Minkoff"
+    ],
+    "réponse": "Allers & Minkoff",
+    "anecdote": "'Le Roi lion' est l'un des deux seuls « Classiques » Disney (avec 'Dinosaure') dans lequel il n'est fait aucune référence aux humains."
+  },
+  {
+    "question": "Quel animal est Zazu dans le film 'Le Roi Lion' réalisé par Roger Allers et Rob Minkoff ?",
+    "propositions": ["Un toucan", "Une perruche", "Un perroquet", "Un calao"],
+    "réponse": "Un calao",
+    "anecdote": "Zazu conserve ses fonctions lorsque Scar devient roi, mais celui-ci le confine alors dans un rôle subalterne."
+  },
+  {
+    "question": "Qui occupe le poste de « majordome royal » dans le film 'Le Roi Lion' ?",
+    "propositions": ["Ed", "Zazu", "Scar", "Nala"],
+    "réponse": "Zazu",
+    "anecdote": "Qualifié de « bec-de-banane » ou de « loufiat du Grand Manitou », Zazu reste fier et essaye d'être à la hauteur de ses fonctions."
+  },
+  {
+    "question": "Quel est le titre laotien du film 'Le Roi Lion', distribué par Gaumont Buena Vista International ?",
+    "propositions": ["Leona Rego", "Re Leone", "Krol Lew", "Rex Leo"],
+    "réponse": "Rex Leo",
+    "anecdote": "Dans toutes les versions étrangères du 'Roi lion' sorties dans le monde, le seul personnage à conserver sa voix originale est Ed."
+  },
+  {
+    "question": "À quel âge Mère Teresa, de son vrai nom Agnès Gonxha Bojaxhiu, est-elle décédée en 1997 ?",
+    "propositions": ["77 ans", "87 ans", "97 ans", "107 ans"],
+    "réponse": "87 ans",
+    "anecdote": "Mère Teresa a été béatifiée le 19 octobre 2003, à Rome, par le pape Jean-Paul II."
+  },
+  {
+    "question": "Dans 'Breaking Bad', quel est le prénom de la mère de la famille White ?",
+    "propositions": ["Rhona", "Angela", "Skyler", "Jayne"],
+    "réponse": "Skyler",
+    "anecdote": "Skyler est très amoureuse de Walter, au point de prendre toutes les décisions importantes dans sa vie."
+  },
+  {
+    "question": "Lequel de ces groupes de musique a dans son acronyme le mot « mère » ?",
+    "propositions": ["IAM", "CMC", "NTM", "MIG"],
+    "réponse": "NTM",
+    "anecdote": "Malgré sa popularité en France, le groupe NTM a été très critiqué pour la virulence de ses paroles."
+  },
+  {
+    "question": "Dans 'Game of Thrones', qui est la mère d'Arya, Bran, Rickon, Sansa et Robb Stark ?",
+    "propositions": ["Mélissandre", "Daenerys", "Brienne", "Catelyn"],
+    "réponse": "Catelyn",
+    "anecdote": "Catelyn était initialement promise au jeune Brandon Stark, héritier de Winterfell et frère d'Eddard."
+  },
+  {
+    "question": "Qui a peint le tableau 'La Madone à la prairie' représentant Jésus et sa mère, Marie ?",
+    "propositions": ["Auguste Renoir", "Michel-Ange", "Rembrandt", "Raphaël"],
+    "réponse": "Raphaël",
+    "anecdote": "Le tableau est l'une des uvres qui ouvrent la série des Madones de l'artiste lors de son séjour florentin."
+  },
+  {
+    "question": "Dans la mythologie grecque, qui est la mère d'Héraclès, un des fils de Zeus ?",
+    "propositions": ["Alcmène", "Léto", "Dioné", "Déméter"],
+    "réponse": "Alcmène",
+    "anecdote": "Alcmène fut séduite en l'absence de son mari, par Zeus qui avait pris son apparence."
+  },
+  {
+    "question": "Quelle célèbre photographie en noir et blanc a été prise en 1936 par Dorothée Lange ?",
+    "propositions": [
+      "Douleur de mère",
+      "Mère migrante",
+      "Mère maternelle",
+      "Mère et enfants"
+    ],
+    "réponse": "Mère migrante",
+    "anecdote": "Cette célèbre photographie est devenue le symbole de la Grande Dépression aux États-Unis."
+  },
+  {
+    "question": "Quelle ville russe accueille la statue de la Mère-Patrie qui fut l'enjeu de combats acharnés ?",
+    "propositions": ["Samara", "Perm", "Volgograd", "Kazan"],
+    "réponse": "Volgograd",
+    "anecdote": "Avec son épée pointant vers le ciel, la statue défie tous ceux qui oseraient s'attaquer à ses enfants."
+  },
+  {
+    "question": "En quelle année Marcel Pagnol a-t-il publié 'Le Château de ma mère' ?",
+    "propositions": ["1977", "1917", "1937", "1957"],
+    "réponse": "1957",
+    "anecdote": "'Le Château de ma mère' est précédé par 'La Gloire de mon père' et suivi par 'Le Temps des secrets'."
+  },
+  {
+    "question": "Quel rappeur français au succès grandissant chante le tube 'maman jai mal' ?",
+    "propositions": ["Kaaris", "Nekfeu", "Booba", "MHD"],
+    "réponse": "MHD",
+    "anecdote": "MHD est le précurseur de l'« afro trap », un mélange de musiques aux sonorités africaines et de trap."
+  },
+  {
+    "question": "Quel petit astronaute est un personnage imaginaire et emblématique de Nintendo ?",
+    "propositions": ["Louie", "Pikmin", "Olimar", "Kirby"],
+    "réponse": "Olimar",
+    "anecdote": "Olimar est équipé d'un scaphandre qu'il met toujours sur la Planète Lointaine car, pour lui, l'oxygène est toxique."
+  },
+  {
+    "question": "Quel était le tout premier métier de Mario avant de devenir plombier dans 'Mario Bros.' ?",
+    "propositions": ["Charpentier", "Boulanger", "Pizzaïolo", "Magicien"],
+    "réponse": "Charpentier",
+    "anecdote": "Le nom de Mario aurait été choisi en l'honneur du propriétaire des locaux de la société Nintendo of America de l'époque, Mario Segali."
+  },
+  {
+    "question": "Quel était le nom de prototype de la  console de jeux vidéo de salon GameCube ?",
+    "propositions": ["Revolution", "Dolphin", "Game 128", "Famicom"],
+    "réponse": "Dolphin",
+    "anecdote": "C'est le 24 août 2000 que la machine est officiellement présentée avec son nouveau nom, la GameCube."
+  },
+  {
+    "question": "Dans 'Super Mario Kart', chaque coupe est composée de 5 courses comptant chacune combien de tours ?",
+    "propositions": ["3", "5", "2", "4"],
+    "réponse": "5",
+    "anecdote": "Dans 'Super Mario Kart', le joueur contrôle l'un des huit personnages issus de l'univers 'Super Mario'."
+  },
+  {
+    "question": "Dans quelle ville se trouve le siège de la société Nintendo fondée en 1889 par Fusajiro Yamauchi ?",
+    "propositions": ["Kyoto", "Tokyo", "Shanghai", "Pékin"],
+    "réponse": "Kyoto",
+    "anecdote": "Nintendo est l'une des rares entreprises de jeu vidéo à avoir su faire rentrer certaines de ses licences, en particulier 'Mario' ou 'Pokémon'."
+  },
+  {
+    "question": "Quelle déesse a créé la vie dans le jeu vidéo phare 'Zelda : Ocarina of time' ?",
+    "propositions": ["Eikichi", "Din", "Nayru", "Farore"],
+    "réponse": "Farore",
+    "anecdote": "Les trois Déesses d'Hyrule sont Din, déesse de la Force, Nayru, déesse de la Sagesse et du Temps et Farore, déesse du Courage."
+  },
+  {
+    "question": "Que faisait la société Nintendo avant de produire des jeux vidéo ?",
+    "propositions": [
+      "Des dés à jouer",
+      "Des montres",
+      "Des livres",
+      "Des cartes à jouer"
+    ],
+    "réponse": "Des cartes à jouer",
+    "anecdote": "Cest à partir des années 1970 que la société Nintendo a diversifié ses activités en produisant des jouets et des bornes darcade."
+  },
+  {
+    "question": "Quelle est le nom de la deuxième génération de console Nintendo DS ?",
+    "propositions": ["DS3D", "DSi", "Advance", "DS Lite"],
+    "réponse": "DS Lite",
+    "anecdote": " La Nintendo DS Lite, avec ses 93 millions de ventes, est aujourd'hui la console portable la mieux vendue de tous les temps."
+  },
+  {
+    "question": "En quelle année la société Nintendo est-elle entrée en bourse ?",
+    "propositions": ["1972", "1982", "1962", "1992"],
+    "réponse": "1962",
+    "anecdote": "Cest grâce à un contrat signé avec Disney en 1959 que la société prend une envergure internationale et entre en bourse en 1962."
+  },
+  {
+    "question": "Comment se prénommait la petite amie de Jumpman dans 'Donkey Kong' ?",
+    "propositions": ["Zelda", "Daisy", "Pauline", "Lady"],
+    "réponse": "Lady",
+    "anecdote": "Maltraité par le charpentier, Donkey Kong s'échappe et kidnappe la petite amie de Jumpman, connue sous le nom de Lady."
+  },
+  {
+    "question": "Combien d'épisodes de la série télévisée 'Friends' ont été tournés au total ?",
+    "propositions": ["256", "186", "236", "216"],
+    "réponse": "236",
+    "anecdote": "La popularité de 'Friends' a attiré vers cette sitcom un nombre important d'apparitions d'acteurs de premier plan."
+  },
+  {
+    "question": "Combien de romans ont pour protagoniste Fantômas, héros à la silhouette encagoulée ?",
+    "propositions": ["42", "32", "22", "12"],
+    "réponse": "32",
+    "anecdote": "'Fantômas' demeure un des feuilletons les plus marquants de la littérature populaire en France."
+  },
+  {
+    "question": "Durant combien d'années John Fitzgerald Kennedy a-t-il été Président des États-Unis ?",
+    "propositions": ["3", "5", "2", "4"],
+    "réponse": "2",
+    "anecdote": "John Fitzgerald Kennedy reste à ce jour le seul président américain de confession catholique."
+  },
+  {
+    "question": "Combien de pays sont frontaliers avec la République populaire de Chine ?",
+    "propositions": ["10", "14", "12", "16"],
+    "réponse": "14",
+    "anecdote": "Ce nombre en fait, à égalité avec la Russie, l'État avec le plus de voisins au monde."
+  },
+  {
+    "question": "De combien d 'épisodes est composée la série télévisée à succès 'Breaking Bad' ?",
+    "propositions": ["62", "42", "52", "32"],
+    "réponse": "62",
+    "anecdote": "La série se concentre sur Walter « Walt » White, un professeur de chimie sur-qualifié et père de famille."
+  },
+  {
+    "question": "Combien de fois le pilote Ayrton Senna a-t-il été champion du monde de Formule 1 ?",
+    "propositions": ["2", "5", "3", "4"],
+    "réponse": "3",
+    "anecdote": "Ayrton Senna reste une véritable idole au Brésil où son statut a dépassé celui de simple champion sportif."
+  },
+  {
+    "question": "Véritable icône culturelle, en quelle année le boxeur Mohamed Ali est-il décédé ?",
+    "propositions": ["2016", "2010", "2012", "2014"],
+    "réponse": "2016",
+    "anecdote": "Mohamed Ali a été décoré en 2005 de la Médaille présidentielle de la Liberté."
+  },
+  {
+    "question": "Combien de secondes après son décollage la navette spatiale Challenger explosa-t-elle en vol en 1986 ?",
+    "propositions": ["53", "113", "73", "93"],
+    "réponse": "73",
+    "anecdote": "La navette porte le nom du bateau qui mesura le fond marin le plus profond du globe."
+  },
+  {
+    "question": "Combien duvres le corpus 'La Comédie humaine' d'Honoré de Balzac comporte-t-il ?",
+    "propositions": ["73", "63", "83", "93"],
+    "réponse": "93",
+    "anecdote": "Doué du génie de l'observation, Balzac a créé des types humains saisissants de vérité."
+  },
+  {
+    "question": "Combien de sélections Zinédine Zidane a-t-il reçu en équipe de France de football ?",
+    "propositions": ["108", "98", "118", "128"],
+    "réponse": "108",
+    "anecdote": "Célèbre numéro 10 des « Bleus », Zidane met un terme à sa carrière à la suite de la Coupe du monde 2006."
+  },
+  {
+    "question": "Quel nom de scène a pris le deuxième fils de Patrick Sébastien ?",
+    "propositions": [
+      "Marc Regal",
+      "Patrick Orchez",
+      "Francis Laporte",
+      "Olivier Villa"
+    ],
+    "réponse": "Olivier Villa",
+    "anecdote": "Olivier Villa a dit oui à la jolie Melissa Grégoire, le samedi 13 septembre 2014, où les serviettes ont forcément dû tourner."
+  },
+  {
+    "question": "Dans quelles îles est née la petite Lilly, adoptée par Patrick Sébastien en 2007 ?",
+    "propositions": [
+      "La Micronésie",
+      "La Mélanésie",
+      "La Polynésie",
+      "Les Maldives"
+    ],
+    "réponse": "La Polynésie",
+    "anecdote": "C'est en 2007 que Patrick Sébastien et sa femme Nathalie ont adopté une petite fille prénommée Lilly, polynésienne."
+  },
+  {
+    "question": "Avec quelle chanteuse Patrick Sébastien a-t-il été en ménage à une époque ?",
+    "propositions": [
+      "Maire-Paule Belle",
+      "Marie Myriam",
+      "Véronique Sanson",
+      "Sabine Paturel"
+    ],
+    "réponse": "Marie Myriam",
+    "anecdote": "À l'époque, il écumait les cabarets pour des cachets très bas, travaillant un temps aux Halles de Paris pour gagner sa vie."
+  },
+  {
+    "question": "Quel rôle Patrick Sébastien a-t-il joué dans le film 'Quatre garçons pleins d'avenir' ?",
+    "propositions": [
+      "Un gardien",
+      "Un scientifique",
+      "Un animateur",
+      "Un pianiste"
+    ],
+    "réponse": "Un gardien",
+    "anecdote": "Patrick Sébastien interprète le rôle de Georges dans ce film français réalisé par Jean-Paul Lilienfeld, sorti en 1997."
+  },
+  {
+    "question": "De quel chanteur Patrick Sébastien a-t-il fait la première partie en 1976 à l'Olympia ?",
+    "propositions": [
+      "Johnny Hallyday",
+      "Eddy Mitchell",
+      "Claude Nougarro",
+      "Michel Sardou"
+    ],
+    "réponse": "Michel Sardou",
+    "anecdote": "Il sera invité la même année dans l'émission 'Numéro un' des Carpentier et 'Le Rendez-vous du Dimanche' de Michel Drucker."
+  },
+  {
+    "question": "Pour qui Patrick Sébastien a-t-il lancé en 1995 une candidature-canular à l'élection présidentielle ?",
+    "propositions": [
+      "Marlène Mourreau",
+      "Laurence Ferrari",
+      "Mireille Dumas",
+      "Soizic Corne"
+    ],
+    "réponse": "Marlène Mourreau",
+    "anecdote": "Fille du chauffeur de Marlène Dietrich, Marlène est élue Miss Franche-Comté 1985, puis première dauphine de Miss France 1986."
+  },
+  {
+    "question": "Qui Patrick Sébastien a-t-il produit pour un one-man-show en 1990 ?",
+    "propositions": [
+      "Laurent Baffie",
+      "Albert Dupontel",
+      "Franck Dubosc",
+      "Laurent Gerra"
+    ],
+    "réponse": "Albert Dupontel",
+    "anecdote": "Patrick Sébastien a également produit Dany Boon en 1993, Nicolas Canteloup en 2001 ainsi que Shirley & Dino."
+  },
+  {
+    "question": "Quel rôle Patrick Sébastien a-t-il joué dans le film 'Le téléphone sonne toujours deux fois' ?",
+    "propositions": ["Un terroriste", "Un fou", "Un savant", "Un aveugle"],
+    "réponse": "Un aveugle",
+    "anecdote": "D'après certains critiques, ce film, à l'humour au second degré, aurait inspiré les Nuls pour 'La Cité de la peur'."
+  },
+  {
+    "question": "Quel spectacle Patrick Sébastien a-t-il donné à l'Olympia en 1997 ?",
+    "propositions": ["Adieu Paulo", "Tralala", "Sans Interdit", "C'est Show"],
+    "réponse": "Sans Interdit",
+    "anecdote": "Les nombreux spectacles proposés par Patrick Sébastien sont aujourd'hui disponibles en cassettes VHS et au format DVD."
+  },
+  {
+    "question": "Quel acteur et réalisateur très populaire Patrick Sébastien a-t-il produit à ses débuts ?",
+    "propositions": [
+      "Philippe Khorsand",
+      "Francis Huster",
+      "Guy Bedos",
+      "Dany Boon"
+    ],
+    "réponse": "Dany Boon",
+    "anecdote": "Les sketches de Dany Boon s'inspirent souvent de situations quotidiennes qui interpellent le vécu des spectateurs."
+  },
+  {
+    "question": "Quelle princesse Disney est savamment entraînée aux arts martiaux ?",
+    "propositions": ["Tiana", "Ariel", "Mulan", "Merida"],
+    "réponse": "Mulan",
+    "anecdote": "Le courage, la détermination et l'ingéniosité de Mulan l'aideront dans ses aventures à gagner le respect des autres."
+  },
+  {
+    "question": "Que recherchent les sept nains de Blanche-Neige dans leur mine ?",
+    "propositions": ["Du schiste", "Des diamants", "Du pétrole", "Du charbon"],
+    "réponse": "Des diamants",
+    "anecdote": "Dans le parc d'attractions Efteling, les nains vivent dans le Bois des contes, jouxtant le château de sa belle-mère."
+  },
+  {
+    "question": "En 2037, quel âge aura le célèbre dessin animé 'Blanche-Neige' des studios Disney ?",
+    "propositions": ["50 ans", "75 ans", "100 ans", "125 ans"],
+    "réponse": "100 ans",
+    "anecdote": "Le budget de production, 1.48 million de dollars, marque un record historique pour l'époque."
+  },
+  {
+    "question": "Quel est le prénom du chat de la belle-mère de Cendrillon ?",
+    "propositions": ["Diabolo", "Satan", "Lucifer", "Belzébuth"],
+    "réponse": "Lucifer",
+    "anecdote": "Lucifer est le chat de Lady Trémaine : fourbe et paresseux, il représente une menace pour Jack."
+  },
+  {
+    "question": "Dans 'Mulan', quel est le nom du dragon, le gardien de la famille ?",
+    "propositions": ["General Li", "Mushu", "Shang", "Yao"],
+    "réponse": "Mushu",
+    "anecdote": "C'est Eddie Murphy qui campe la voix originale de Mushu, tandis que la voix française est assurée par José Garcia."
+  },
+  {
+    "question": "Pour Disney, qui est Rajah, animal de compagnie de la princesse Jasmine ?",
+    "propositions": ["Un sanglier", "Un raton-laveur", "Un oiseau", "Un tigre"],
+    "réponse": "Un tigre",
+    "anecdote": "Jasmine et Aladdin sont apparus en 2002 dans une bande-annonce du film 'Lilo & Stitch'."
+  },
+  {
+    "question": "Dans 'Cendrillon', quels animaux sont soudainement transformés en chevaux de trait ?",
+    "propositions": ["Des oies", "Des lapins", "Des moutons", "Des souris"],
+    "réponse": "Des souris",
+    "anecdote": "La composition des pantoufles de Cendrillon fait l'objet d'un débat récurrent en Europe."
+  },
+  {
+    "question": "La plastique de quelle mannequin a servi à créer les principaux traits de Pocahontas ?",
+    "propositions": [
+      "Naomi Campbell",
+      "Katie Price",
+      "Kelly Brook",
+      "Sienna Miller"
+    ],
+    "réponse": "Naomi Campbell",
+    "anecdote": "Le personnage de Pocahontas s'inspire librement du personnage historique Matoaka (« Petite plume de neige »)."
+  },
+  {
+    "question": "Quelle princesse Disney communique librement avec la nature et les animaux ?",
+    "propositions": ["Merida", "Tiana", "Mulan", "Pocahontas"],
+    "réponse": "Pocahontas",
+    "anecdote": "Les scénaristes du film ont inventé une Pocahontas écologiste, volontaire et physiquement attirante."
+  },
+  {
+    "question": "Laquelle de ces princesses est très souvent représentée dans sa robe de bal jaune or ?",
+    "propositions": ["Merida", "Tiana", "Mulan", "Belle"],
+    "réponse": "Belle",
+    "anecdote": "Depuis 2011, Belle est l'un des personnages principaux de la série télévisée 'Once Upon a Time'."
+  },
+  {
+    "question": "Dans quel pays a été pratiquée en 2005 la première greffe du visage ?",
+    "propositions": ["Espagne", "Chine", "États-Unis", "France"],
+    "réponse": "France",
+    "anecdote": "La première greffe partielle du visage au monde fut pratiquée au CHU de Lyon sur une femme de 38 ans, Isabelle Dinoire."
+  },
+  {
+    "question": "Combien de déclinaisons de couleurs différentes l'oeil humain est-il capable de distinguer ?",
+    "propositions": ["400 000", "200 000", "300 000", "100 000"],
+    "réponse": "300 000",
+    "anecdote": "Chaque oeil humain est capable de discerner plus facilement les nuances de verts ou de rouges que les nuances de bleus."
+  },
+  {
+    "question": "Quel opiacé de synthèse est utilisé comme substitut à l'héroïne ?",
+    "propositions": ["Paracétamol", "Chanvre", "Kétamine", "Méthadone"],
+    "réponse": "Méthadone",
+    "anecdote": "En tant qu'analgésique narcotique, la méthadone est également utilisée pour soulager des douleurs sévères."
+  },
+  {
+    "question": "Quelle hormone prise en excès est principalement liée à la calvitie ?",
+    "propositions": ["Progestérone", "Cortisone", "Acétone", "Testostérone"],
+    "réponse": "Testostérone",
+    "anecdote": "La testostérone est sécrétée essentiellement par les gonades, c'est-à-dire les testicules des mâles et les ovaires des femelles."
+  },
+  {
+    "question": "Quelle médecine douce est fondée sur l'utilisation des huiles essentielles ?",
+    "propositions": [
+      "Réflexologie",
+      "Aromathérapie",
+      "Naturopathie",
+      "Homéopathie"
+    ],
+    "réponse": "Aromathérapie",
+    "anecdote": "L'aromathérapie est à différencier de la phytothérapie qui fait quant à elle usage de l'ensemble des éléments d'une plante."
+  },
+  {
+    "question": "Quelle hormone fait baisser le taux de glucose dans le sang ?",
+    "propositions": ["Testostérone", "Insuline", "Thyroïde", "Méthadone"],
+    "réponse": "Insuline",
+    "anecdote": "La libération de glucose par le foie dans le sang est très fortement limitée par un taux sanguin élevé en insuline."
+  },
+  {
+    "question": "De quel arbre provient la molécule qui permet la fabrication de l'aspirine ?",
+    "propositions": ["Bouleau", "Sapin", "Hêtre", "Saule"],
+    "réponse": "Saule",
+    "anecdote": "On a retrouvé la mention de décoctions de feuilles de saule dans un papyrus égyptien dès 1550 av. J.-C. (papyrus Ebers)."
+  },
+  {
+    "question": "De quelle substance l'organisme des albinos est-il dépourvu ?",
+    "propositions": ["Dopamine", "Mélanine", "Insuline", "Quinine"],
+    "réponse": "Mélanine",
+    "anecdote": "Chez l'homme, la peau est blanc cireux ou légèrement rosée, alors que les cheveux sont blancs, comme les poils, sourcils et cils."
+  },
+  {
+    "question": "Quel fut le premier antibiotique découvert en 1928 par Alexander Fleming ?",
+    "propositions": ["Triclosan", "Acétarsol", "Pénicilline", "Dopamine"],
+    "réponse": "Pénicilline",
+    "anecdote": "L'industrialisation à grande échelle de la pénicilline a été menée à bien durant toute la durée de la Seconde Guerre mondiale."
+  },
+  {
+    "question": "Quelle plante réputée pour ses vertus digestives est aussi une héroïne de cinéma ?",
+    "propositions": ["Mystique", "Nebula", "Catwoman", "Angélique"],
+    "réponse": "Angélique",
+    "anecdote": "Le genre Angelica (les angéliques) comprend environ 70 espèces de grandes plantes herbacées vivaces de la famille des Apiaceae."
+  },
+  {
+    "question": "Combien de calories vous apporte un morceau de sucre de six grammes ?",
+    "propositions": ["24 kcal", "37 kcal", "42 kcal", "54 kcal"],
+    "réponse": "24 kcal",
+    "anecdote": "Le sucre en morceaux est classé par calibre : 'domino numéro 4' indiquera que la boîte (1 kg) comporte 4 rangées."
+  },
+  {
+    "question": "Quel dirigeant a permis le développement du sucre de betterave en France ?",
+    "propositions": ["Philippe II", "Charles VI", "Louis XIV", "Napoléon"],
+    "réponse": "Napoléon",
+    "anecdote": "Premier empereur des Français, Napoléon réorganisa et réforma durablement l'État et la société."
+  },
+  {
+    "question": "Combien de pays produisent du sucre dans le monde ?",
+    "propositions": ["99", "119", "59", "79"],
+    "réponse": "119",
+    "anecdote": "Sur 119 pays producteurs, 40 cultivent la betterave sucrière, et fournissaient environ 20 % de la production en 2011."
+  },
+  {
+    "question": "Quelle saveur primaire vient compléter le sucré, le salé et l'acide ?",
+    "propositions": ["Le piquant", "Le pimenté", "L'amer", "Le gras"],
+    "réponse": "L'amer",
+    "anecdote": "L'amertume est une caractéristique importante de la bière, au même titre que la teneur en alcool par exemple."
+  },
+  {
+    "question": "En quelle année est né le sucre en morceaux, réalisé grâce à un procédé artisanal ?",
+    "propositions": ["1644", "1841", "1742", "1949"],
+    "réponse": "1841",
+    "anecdote": "Le sucre en morceaux est obtenu en liant des cristaux de sucre avec du sirop de sucre."
+  },
+  {
+    "question": "Par quelle peuplade la canne à sucre a-t-elle été introduite en Europe ?",
+    "propositions": ["Grecs", "Francs", "Arabes", "Perses"],
+    "réponse": "Perses",
+    "anecdote": "La canne à sucre est une grande graminée tropicale herbacée à port de roseau, d'une hauteur allant de deux à six mètres."
+  },
+  {
+    "question": "Le mot « sucre », désignant les glucides ayant un pouvoir sucrant, provient de quel mot sanscrit ?",
+    "propositions": ["Sinakra", "Soukra", "Sarkara", "Sucara"],
+    "réponse": "Sarkara",
+    "anecdote": "Le terme « sucre » provient du terme italien « zucchero », lui-même emprunté à l'arabe « sukkar »."
+  },
+  {
+    "question": "Qui a réussi le premier l'extraction du sucre de betterave en grande quantité ?",
+    "propositions": ["Th. Jauge", "B. Delessert", "S. Bernard", "D. Bouton"],
+    "réponse": "B. Delessert",
+    "anecdote": "Benjamin Delessert est également le fondateur des Caisses d'épargne en France en 1818."
+  },
+  {
+    "question": "Combien de kilos de sucre donne en moyenne une tonne de betteraves ?",
+    "propositions": ["200 kg", "110 kg", "140 kg", "170 kg"],
+    "réponse": "140 kg",
+    "anecdote": "Depuis quelques années, le jus de la betterave à sucre est utilisé comme fondant routier en Amérique du Nord."
+  },
+  {
+    "question": "Que rajoute-t-on dans le sucre glace pour éviter qu'il ne s'agglomère ?",
+    "propositions": ["Jus de citron", "Huile", "Amidon", "Lécithine"],
+    "réponse": "Amidon",
+    "anecdote": "Le sucre glace est principalement utilisé pour la décoration des pâtisseries ou pour sucrer les blancs en neige."
+  },
+  {
+    "question": "Dans 'Toy Story 2', à qui appartenait Jessie avant d'être abandonnée ?",
+    "propositions": ["Molly", "Emily", "Mary", "Suzy"],
+    "réponse": "Emily",
+    "anecdote": "Toujours surexcitée et débordante dénergie, elle est heureuse de voir Woody à ses côtés."
+  },
+  {
+    "question": "Qui se trouve être l'empereur Zurg, dans une référence à Luke Skywalker et Dark Vador ?",
+    "propositions": [
+      "Le frère de Buzz",
+      "L'oncle de Buzz",
+      "Le père de Buzz",
+      "Le fils de Buzz"
+    ],
+    "réponse": "Le père de Buzz",
+    "anecdote": "Dans 'Toy Story 3', Zurg fait une apparition dans un carton de jouets donné à la garderie Sunnyside."
+  },
+  {
+    "question": "Dans 'Toy Story', qui est l'ennemi juré de Buzz, le cosmonaute ?",
+    "propositions": ["Zurg", "Spock", "Vador", "Scud"],
+    "réponse": "Zurg",
+    "anecdote": "Menaçant l'alliance galactique défendue par Buzz, il apparaît à deux reprises dans le film 'Toy Story 2'."
+  },
+  {
+    "question": "Quelle est la couleur de la salopette de Papi Pépite dans 'Toy Story 2' ?",
+    "propositions": ["Rouge", "Jaune", "Bleue", "Verte"],
+    "réponse": "Bleue",
+    "anecdote": "Papi Pépite n'a jamais été ouvert et figure toujours dans sa boîte, ce qui lui donne une grande valeur aux yeux des collectionneurs."
+  },
+  {
+    "question": "Dans 'Toy Story 3', où les jouets d'Andy sont-ils fait prisonniers par l'horrible Lotso ?",
+    "propositions": [
+      "Au parc",
+      "Chez Bonnie",
+      "À Sunnyside",
+      "Dans le grenier"
+    ],
+    "réponse": "À Sunnyside",
+    "anecdote": "Devienu chef de Sunnyside et régnant à la manière dun tyran, Lotso présente toutefois une image joviale."
+  },
+  {
+    "question": "Avec quel jeu Zig-Zag veut-il passer du temps avec Woody au début du film 'Toy Story' ?",
+    "propositions": [
+      "Aux dames",
+      "Au jeu de l'oie",
+      "Aux échecs",
+      "Aux cartes"
+    ],
+    "réponse": "Aux échecs",
+    "anecdote": "Surnommé Ziggy par Woody, Zig-Zag est un teckel en plastique avec un long ressort en guise de corps."
+  },
+  {
+    "question": "Buzz lÉclair est probablement le meilleur agent de quelle base de l'espace ?",
+    "propositions": ["StarCommand", "MoonLight", "AstralCorp", "SideralStar"],
+    "réponse": "StarCommand",
+    "anecdote": "Le prénom de Buzz l'Éclair, le ranger de l'espace, est inspiré de l'astronaute d'Apollo, Buzz Aldrin."
+  },
+  {
+    "question": "Dans quelle salle se retrouvent Buzz et ses autres amis dans 'Toy Story 3' ?",
+    "propositions": [
+      "Salle des limaces",
+      "Salle des papillons",
+      "Salle des chenilles",
+      "Salle des fourmis"
+    ],
+    "réponse": "Salle des chenilles",
+    "anecdote": "La salle de Lotso et des autres, qui accueille des enfants beaucoup moins perturbés, est celle des papillons."
+  },
+  {
+    "question": "Quel nouvel accessoire possède le Buzz du magasin de jouets dans 'Toy Story 2' ?",
+    "propositions": ["Un pistolet", "Des gants", "Des bottes", "Une ceinture"],
+    "réponse": "Une ceinture",
+    "anecdote": "Buzz est en vente chez 'Al La ferme aux jouets' et a pour accessoire une ceinture anti-gravitationnelle lui permettant de flotter."
+  },
+  {
+    "question": "Dans 'Toy Story', quel jouet Molly frappe-t-elle régulièrement sur les barreaux de son parc ?",
+    "propositions": ["Rex", "Woody", "Monsieur Patate", "Buzz"],
+    "réponse": "Monsieur Patate",
+    "anecdote": "Monsieur Patate peut facilement perdre les accessoires qui s'accrochent à son socle et qui lui servent de visage."
+  },
+  {
+    "question": "Apparu il y a 450 millions d'années, à quelle classe animale le scorpion appartient-il ?",
+    "propositions": [
+      "Arachnides",
+      "Reptiles",
+      "Mammifères",
+      "Insectes"
+    ],
+    "réponse": "Arachnides",
+    "anecdote": "Les scorpions se distinguent des araignées par un aiguillon venimeux situé au bout de leur abdomen pouvant être mortel pour l'homme."
+  },
+  {
+    "question": "Quel frère d'une actrice prénommée Mary a réalisé le film 'La fièvre du samedi soir' ?",
+    "propositions": [
+      "John Remezick",
+      "John Badham",
+      "John Travolta",
+      "John Payne"
+    ],
+    "réponse": "John Badham",
+    "anecdote": "'La fièvre du samedi soir', réalisé par John Badham, fut un des principaux vecteurs de diffusion de la musique et de la mode disco."
+  },
+  {
+    "question": "Au Moyen Âge, comment appelait-on un village fortifié ?",
+    "propositions": [
+      "Rempart",
+      "Château fort",
+      "Tour",
+      "Bastide"
+    ],
+    "réponse": "Bastide",
+    "anecdote": "De nos jours, les bastides les plus connues sont celles de Monflanquin, Monpazier, Grenade ou bien encore Libourne."
+  },
+  {
+    "question": "Quelle ville du Kent est célèbre pour sa source miraculeuse ?",
+    "propositions": [
+      "Tunbridge Wells",
+      "Dartford",
+      "Gillingham",
+      "Ramsgate"
+    ],
+    "réponse": "Tunbridge Wells",
+    "anecdote": "Comme la reine Victoria, de nombreuses personnes célèbres sont venues en cure à Tunbridge Wells profiter de sa source miraculeuse."
+  },
+  {
+    "question": "Quel apéritif à base de vin est aromatisé avec des plantes amères et toniques ?",
+    "propositions": [
+      "Kokebok",
+      "Gentiane",
+      "Vermouth",
+      "Piccolo"
+    ],
+    "réponse": "Vermouth",
+    "anecdote": "Dans une classification du plus sec au plus doux, on trouve le vermouth sec, le blanc, le rosé et le rouge."
+  },
+  {
+    "question": "À quel écrivain, membre de l'Académie française, doit-on le roman intitulé 'Le sagouin' ?",
+    "propositions": [
+      "Giono",
+      "Camus",
+      "Barjavel",
+      "Mauriac"
+    ],
+    "réponse": "Mauriac",
+    "anecdote": "Dans le roman 'Le sagouin', écrit en quatre parties, on peut supposer que l'action se passe vers 1920."
+  },
+  {
+    "question": "Quel président Français trouva la mort dans une situation inhabituelle ?",
+    "propositions": [
+      "Georges Pompidou",
+      "René Coty",
+      "Raymond Poincaré",
+      "Félix Faure"
+    ],
+    "réponse": "Félix Faure",
+    "anecdote": "Suite à ce décès inopiné, on a souvent dit de Félix Faure qu'il était un président plus célèbre par sa mort que par sa vie."
+  },
+  {
+    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
+    "propositions": [
+      "Adret",
+      "Ressac",
+      "Étant",
+      "Ubac"
+    ],
+    "réponse": "Ubac",
+    "anecdote": "Dans l'hémisphère Nord, l'ubac est généralement la face Nord d'une montagne alors que l'adret en représente la face Sud."
+  },
+  {
+    "question": "Quel oiseau palmipède a pour particularité de construire un nid flottant ?",
+    "propositions": [
+      "Grève",
+      "Grèle",
+      "Grèbe",
+      "Grène"
+    ],
+    "réponse": "Grèbe",
+    "anecdote": "La position des pattes, très courtes et très en arrière par rapport au corps, a valu au grèbe le joli nom de pieds au derrière."
+  },
+  {
+    "question": "Un bédane, qui doit son nom à sa ressemblance avec un bec de canard, est un outil proche du...",
+    "propositions": [
+      "Maillet",
+      "Vilebrequin",
+      "Ciseau à bois",
+      "Rabot"
+    ],
+    "réponse": "Ciseau à bois",
+    "anecdote": "Le bédane est un outil encore parfois utilisé aujourd'hui pour réaliser des pièces en bois tournées entre pointes."
+  },
+  {
+    "question": "Dans quel pays a été pratiquée en 2005 la première greffe du visage ?",
+    "propositions": [
+      "Espagne",
+      "Chine",
+      "États-Unis",
+      "France"
+    ],
+    "réponse": "France",
+    "anecdote": "La première greffe partielle du visage au monde fut pratiquée au CHU de Lyon sur une femme de 38 ans, Isabelle Dinoire."
+  },
+  {
+    "question": "Combien de déclinaisons de couleurs différentes l'oeil humain est-il capable de distinguer ?",
+    "propositions": [
+      "400 000",
+      "200 000",
+      "300 000",
+      "100 000"
+    ],
+    "réponse": "300 000",
+    "anecdote": "Chaque oeil humain est capable de discerner plus facilement les nuances de verts ou de rouges que les nuances de bleus."
+  },
+  {
+    "question": "Quel opiacé de synthèse est utilisé comme substitut à l'héroïne ?",
+    "propositions": [
+      "Paracétamol",
+      "Chanvre",
+      "Kétamine",
+      "Méthadone"
+    ],
+    "réponse": "Méthadone",
+    "anecdote": "En tant qu'analgésique narcotique, la méthadone est également utilisée pour soulager des douleurs sévères."
+  },
+  {
+    "question": "Quelle hormone prise en excès est principalement liée à la calvitie ?",
+    "propositions": [
+      "Progestérone",
+      "Cortisone",
+      "Acétone",
+      "Testostérone"
+    ],
+    "réponse": "Testostérone",
+    "anecdote": "La testostérone est sécrétée essentiellement par les gonades, c'est-à-dire les testicules des mâles et les ovaires des femelles."
+  },
+  {
+    "question": "Quelle médecine douce est fondée sur l'utilisation des huiles essentielles ?",
+    "propositions": [
+      "Réflexologie",
+      "Aromathérapie",
+      "Naturopathie",
+      "Homéopathie"
+    ],
+    "réponse": "Aromathérapie",
+    "anecdote": "L'aromathérapie est à différencier de la phytothérapie qui fait quant à elle usage de l'ensemble des éléments d'une plante."
+  },
+  {
+    "question": "Quelle hormone fait baisser le taux de glucose dans le sang ?",
+    "propositions": [
+      "Testostérone",
+      "Insuline",
+      "Thyroïde",
+      "Méthadone"
+    ],
+    "réponse": "Insuline",
+    "anecdote": "La libération de glucose par le foie dans le sang est très fortement limitée par un taux sanguin élevé en insuline."
+  },
+  {
+    "question": "De quel arbre provient la molécule qui permet la fabrication de l'aspirine ?",
+    "propositions": [
+      "Bouleau",
+      "Sapin",
+      "Hêtre",
+      "Saule"
+    ],
+    "réponse": "Saule",
+    "anecdote": "On a retrouvé la mention de décoctions de feuilles de saule dans un papyrus égyptien dès 1550 av. J.-C. (papyrus Ebers)."
+  },
+  {
+    "question": "De quelle substance l'organisme des albinos est-il dépourvu ?",
+    "propositions": [
+      "Dopamine",
+      "Mélanine",
+      "Insuline",
+      "Quinine"
+    ],
+    "réponse": "Mélanine",
+    "anecdote": "Chez l'homme, la peau est blanc cireux ou légèrement rosée, alors que les cheveux sont blancs, comme les poils, sourcils et cils."
+  },
+  {
+    "question": "Quel fut le premier antibiotique découvert en 1928 par Alexander Fleming ?",
+    "propositions": [
+      "Triclosan",
+      "Acétarsol",
+      "Pénicilline",
+      "Dopamine"
+    ],
+    "réponse": "Pénicilline",
+    "anecdote": "L'industrialisation à grande échelle de la pénicilline a été menée à bien durant toute la durée de la Seconde Guerre mondiale."
+  },
+  {
+    "question": "Quelle plante réputée pour ses vertus digestives est aussi une héroïne de cinéma ?",
+    "propositions": [
+      "Mystique",
+      "Nebula",
+      "Catwoman",
+      "Angélique"
+    ],
+    "réponse": "Angélique",
+    "anecdote": "Le genre Angelica (les angéliques) comprend environ 70 espèces de grandes plantes herbacées vivaces de la famille des Apiaceae."
+  },
+  {
+    "question": "Quel est le titre du cinquième opus du groupe de rap français IAM sorti en 2007 ?",
+    "propositions": [
+      "Prière et dévotion",
+      "Pour rien au monde",
+      "Décoffrage",
+      "Saison 5"
+    ],
+    "réponse": "Saison 5",
+    "anecdote": "À l'occasion des vingt ans du groupe, IAM s'est réunit pour un concert au pied des Pyramides de Gizeh le 14 mars 2008."
+  },
+  {
+    "question": "Qui a créé les désormais célèbres personnages des 'Têtes à claques' sur internet ?",
+    "propositions": [
+      "Michel Beaupré",
+      "Michel Beaulieu",
+      "Michel Beaudry",
+      "Michel Beaudet"
+    ],
+    "réponse": "Michel Beaudet",
+    "anecdote": "Le site créé par l'ex-publicitaire Michel Beaudet connaît, depuis sa création le 16 août 2006, un très grand succès."
+  },
+  {
+    "question": "Quel est le nouveau nom du logiciel gratuit de messagerie instantanée 'Gaim' ?",
+    "propositions": [
+      "Komunity",
+      "Pidgin",
+      "Connect",
+      "iShare"
+    ],
+    "réponse": "Pidgin",
+    "anecdote": "'Gaim' a été renommé en 'Pidgin' en 2007 en raison de plaintes de la société AOL et de sa marque AIM."
+  },
+  {
+    "question": "Quelle carte légendaire est la plus rare et la plus chère du jeu à collectionner 'Magic the Gathering' ?",
+    "propositions": [
+      "Ange de Serra",
+      "Oiseau de paradis",
+      "Mox de diamant",
+      "Lotus noir"
+    ],
+    "réponse": "Lotus noir",
+    "anecdote": "Il existe plus de 20 000 cartes différentes avec lesquelles chaque joueur doit construire son jeu en suivant des règles précises."
+  },
+  {
+    "question": "Dans quelle ville furent tués les tristement célèbres pacifistes du Bloody Sunday de 1972 ?",
+    "propositions": [
+      "Limerick",
+      "Derry",
+      "Dublin",
+      "Belfast"
+    ],
+    "réponse": "Derry",
+    "anecdote": "Tous les ans, le dernier dimanche de janvier, une marche commémorative a lieu dans le quartier républicain du Bogside."
+  },
+  {
+    "question": "Quelle corbeille en osier permet de lancer la balle à la pelote basque ?",
+    "propositions": [
+      "Bertsu",
+      "Talo",
+      "Chistera",
+      "Makhila"
+    ],
+    "réponse": "Chistera",
+    "anecdote": "Jeu universel, legs d'autres civilisations, la pelote basque regroupe plusieurs jeux traditionnels issus du jeu de paume."
+  },
+  {
+    "question": "Dans quelle ville fut fondée la marque de vêtements Oxbow en 1985 ?",
+    "propositions": [
+      "Biarritz",
+      "Pont-Audemer",
+      "Bordeaux",
+      "Chambord"
+    ],
+    "réponse": "Pont-Audemer",
+    "anecdote": "La marque de vêtements Oxbow, aujourd'hui Maison de surf française, se veut pionnière d'un positionnement sport-mode."
+  },
+  {
+    "question": "Combien pesait le fameux ENIAC, ordinateur devenu entièrement électronique ?",
+    "propositions": [
+      "1 tonne",
+      "125 kilos",
+      "500 kilos",
+      "30 tonnes"
+    ],
+    "réponse": "30 tonnes",
+    "anecdote": "L'ENIAC pouvait, en principe, résoudre tous les problèmes calculatoires au prix d'une forte consommation énergétique."
+  },
+  {
+    "question": "Quel pays africain est également connu sous le nom de Pays des Braves ?",
+    "propositions": [
+      "Djibouti",
+      "Tunisie",
+      "Somalie",
+      "Soudan"
+    ],
+    "réponse": "Djibouti",
+    "anecdote": "Djibouti, situé sur la côte ouest du débouché méridional de la mer Rouge, désigne à la fois le pays et sa capitale."
+  },
+  {
+    "question": "Qui a incarné avec talent et panache le commissaire Valence à la télévision ?",
+    "propositions": [
+      "Jean Reno",
+      "Bernard Tapie",
+      "Frédéric Diefenthal",
+      "Richard Berry"
+    ],
+    "réponse": "Bernard Tapie",
+    "anecdote": "Bernard Tapie a surtout fait parler de lui dans une série d'opérations financières, avec entre autres le Crédit lyonnais."
+  },
+  {
+    "question": "Quel acteur français fut le compagnon de Halle Berry et de Kylie Minogue ?",
+    "propositions": [
+      "Bruno Putzulu",
+      "Mathieu Amalric",
+      "Olivier Martinez",
+      "Mathieu Kassovitz"
+    ],
+    "réponse": "Olivier Martinez",
+    "anecdote": "Olivier Martinez a tenu le rôle d'Angelo Pardi aux côtés de Juliette Binoche dans 'Le Hussard sur le toit' de Jean-Paul Rappeneau."
+  },
+  {
+    "question": "Qui a épousé Jennifer Flavin, avec qui il a eu trois filles : Sophia, Sistine et Scarlet ?",
+    "propositions": [
+      "Sylvester Stallone",
+      "Jason Statham",
+      "Dolph Lundgren",
+      "Eric Roberts"
+    ],
+    "réponse": "Sylvester Stallone",
+    "anecdote": "Après la victoire de Donald Trump en 2016, ce dernier proposa à Sylvester Stallone la présidence du National Endowment for the Arts."
+  },
+  {
+    "question": "De quel acteur césarisé Claude Chabrol dit-il qu'il est le Al Pacino français ?",
+    "propositions": [
+      "François Cluzet",
+      "Daniel Auteuil",
+      "Mathieu Amalric",
+      "Vincent Cassel"
+    ],
+    "réponse": "François Cluzet",
+    "anecdote": "Depuis 2004, François Cluzet est parrain de l'association Vaincre la mucoviscidose en compagnie d'Isabelle Carré et Gérard Lenorman."
+  },
+  {
+    "question": "De quel bel Irlandais Charlize Theron a-t-elle partagé sa vie de 2002 à 2010 ?",
+    "propositions": [
+      "Hugh Leonard",
+      "Stuart Townsend",
+      "Adrian Dunbar",
+      "Jim Sheridan"
+    ],
+    "réponse": "Stuart Townsend",
+    "anecdote": "Stuart Townsend a d'abord opté pour une carrière de boxeur avant de débuter en 1996 au cinéma dans le film 'Trojan Eddie'."
+  },
+  {
+    "question": "De quel magazine le montrant nu Christophe Dechavanne a-t-il obtenu un retrait en 2006 ?",
+    "propositions": [
+      "VSD",
+      "Le Figaro",
+      "Choc",
+      "Paris Match"
+    ],
+    "réponse": "Choc",
+    "anecdote": "Les photos auraient été prises le 2 janvier, au Huvafen Fushi, un luxueux hôtel des îles Maldives où l'animateur était en vacances."
+  },
+  {
+    "question": "Quel acteur britannique très sexy a été ambassadeur du parfum 'Hypnôse' de Lancôme ?",
+    "propositions": [
+      "Clive Owen",
+      "Sean Connery",
+      "Michael York",
+      "Chris Hemsworth"
+    ],
+    "réponse": "Clive Owen",
+    "anecdote": "En France, Julien Kramer est la voix française régulière de Clive Owen, bien que Bernard Gabay l'ait également doublé."
+  },
+  {
+    "question": "Quel chanteur du groupe Good Charlotte est le père des enfants de Nicole Richie ?",
+    "propositions": [
+      "Paul Thomas",
+      "Joel Madden",
+      "Dean Butterworth",
+      "Billy Martin"
+    ],
+    "réponse": "Joel Madden",
+    "anecdote": "Lors d'un concert des Beastie Boys dans les années 1990, ce fut le déclic pour les jumeaux qui décidèrent de se consacrer à la musique."
+  },
+  {
+    "question": "Qui a risqué d'être arrêté pour avoir embrassé en Inde et en public l'actrice Shilpa Shetty ?",
+    "propositions": [
+      "Joaquin Phoenix",
+      "Colin Farrell",
+      "Richard Gere",
+      "Johnny Depp"
+    ],
+    "réponse": "Richard Gere",
+    "anecdote": "Richard Gere se sert de sa notoriété d'acteur pour promouvoir son aide au peuple tibétain opprimé par le gouvernement chinois."
+  },
+  {
+    "question": "Quel joueur de foot a été surnommé Petit Bison par Emmanuel Petit ?",
+    "propositions": [
+      "Bixente Lizarazu",
+      "Laurent Blanc",
+      "Thierry Henry",
+      "Christophe Dugarry"
+    ],
+    "réponse": "Bixente Lizarazu",
+    "anecdote": "Formé dans son Pays basque natal, Bixente Lizarazu a intégré les Girondins de Bordeaux où il a débuté comme professionnel."
+  },
+  {
+    "question": "À quel sex-symbol des années 1970 l'actrice Kelly Preston est-elle mariée ?",
+    "propositions": [
+      "John Travolta",
+      "Ryan Gosling",
+      "Hugh Jackman",
+      "Kevin Costner"
+    ],
+    "réponse": "John Travolta",
+    "anecdote": "John Travolta, qui vit à Ocala en Floride, est un membre actif de la scientologie, tout comme son collègue de cinéma Tom Cruise."
+  },
+  {
+    "question": "Quel produit de maquillage a pour effet d'imiter le bronzage et de donner meilleure mine ?",
+    "propositions": [
+      "Eau italienne",
+      "Sel irlandais",
+      "Baume anglais",
+      "Terre indienne"
+    ],
+    "réponse": "Terre indienne",
+    "anecdote": "L'erreur la plus courante est de mettre la terre indienne sur tout le visage, l'idéal étant d'en appliquer sur les endroits où le soleil tape."
+  },
+  {
+    "question": "Quel était en 2019 le premier site de vente en ligne cosmétique en France ?",
+    "propositions": [
+      "L'Oréal",
+      "Clarins",
+      "Clinique",
+      "Yves Rocher"
+    ],
+    "réponse": "Yves Rocher",
+    "anecdote": "Yves Rocher est une entreprise propriété du groupe Yves Rocher et compte 1 700 boutiques dont 650 en France."
+  },
+  {
+    "question": "En quelle année James Bruce Mason a-t-il fait breveter le rouge à lèvres pivotant ?",
+    "propositions": [
+      "1947",
+      "1952",
+      "1938",
+      "1923"
+    ],
+    "réponse": "1923",
+    "anecdote": "Avant cette date, en 1915, Maurice Lévy, un inventeur américain, a déposé le brevet du tube à système coulissant."
+  },
+  {
+    "question": "Dans l'Égypte ancienne, que pouvaient invoquer les fards à paupières de couleur verte ?",
+    "propositions": [
+      "Destruction",
+      "Domination",
+      "Protection",
+      "Méditation"
+    ],
+    "réponse": "Protection",
+    "anecdote": "Les fards à paupières verts (wadju) pouvaient invoquer la protection d'Hathor, la déesse des festivités et de l'amour."
+  },
+  {
+    "question": "Quelle marque a développé les premiers vernis à ongles colorés opaques longue tenue ?",
+    "propositions": [
+      "Kiko",
+      "Revlon",
+      "Maybelline",
+      "Benefit"
+    ],
+    "réponse": "Revlon",
+    "anecdote": "En 1950, les couleurs des vernis créés en 1932 seront cette fois assorties aux collections de mode américaines."
+  },
+  {
+    "question": "Dans l'Antiquité, quelle vertu accordait-on au fard à paupières noir ?",
+    "propositions": [
+      "Transpiration",
+      "Illumination",
+      "Éruption",
+      "Désinfection"
+    ],
+    "réponse": "Désinfection",
+    "anecdote": "Grâce au sulfure de plomb et au chlore qu'il contenait, le fard à paupières noir, appelé mesdemet, servait aussi de désinfectant."
+  },
+  {
+    "question": "Quel faux grain de beauté était autrefois employé pour faire ressortir la blancheur du teint ?",
+    "propositions": [
+      "Mouche",
+      "Guêpe",
+      "Abeille",
+      "Frelon"
+    ],
+    "réponse": "Mouche",
+    "anecdote": "Les romains et les égyptiens utilisaient déjà de leurs temps les mouches pour camoufler de petits boutons."
+  },
+  {
+    "question": "Quel maquillage du dessus de l'oeil a pour but d'agrandir le regard ?",
+    "propositions": [
+      "il de boeuf",
+      "il de verre",
+      "il de biche",
+      "il de lynx"
+    ],
+    "réponse": "il de biche",
+    "anecdote": "L'oeil de biche utilise la poudre libre, le crayon pour les yeux, les fards à paupières, le ligneur et le mascara."
+  },
+  {
+    "question": "Quelle marque se veut être la fabrique de fards pour théâtre et pour la ville ?",
+    "propositions": [
+      "NYX",
+      "Bourjois",
+      "Estée Lauder",
+      "Revlon"
+    ],
+    "réponse": "Bourjois",
+    "anecdote": "Longtemps société soeur de Chanel, la marque Bourjois commercialise parfums, maquillage et cosmétiques."
+  },
+  {
+    "question": "La marque Maybelline résulte de la contraction de Maybel et de quel mot ?",
+    "propositions": [
+      "Vaseline",
+      "Dioxine",
+      "Fluorine",
+      "Grenadine"
+    ],
+    "réponse": "Vaseline",
+    "anecdote": "C'est le chimiste Tom Lyle Williams qui créera le premier mascara moderne sur base de la formule de sa soeur, Mabel."
+  },
+  {
+    "question": "Laquelle de ces quatre robes est distinctive de par ses grandes taches ?",
+    "propositions": [
+      "Pommelée",
+      "Pie",
+      "Bai",
+      "Isabelle"
+    ],
+    "réponse": "Pie",
+    "anecdote": "Le terme pie, par analogie à l'animal du même nom, est préféré à celui de bicolore pour désigner de telles robes."
+  },
+  {
+    "question": "Environ combien de races de chevaux différentes existe-t-il encore à ce jour ?",
+    "propositions": [
+      "400",
+      "500",
+      "300",
+      "200"
+    ],
+    "réponse": "300",
+    "anecdote": "En 2008, d'après les données de la FAO, 58 millions de chevaux étaient répertoriés dans le monde sur les cinq continents de la planète."
+  },
+  {
+    "question": "À quelle fréquence moyenne le coeur d'un cheval bat-il au repos ?",
+    "propositions": [
+      "100 ppm",
+      "80 ppm",
+      "60 ppm",
+      "40 ppm"
+    ],
+    "réponse": "40 ppm",
+    "anecdote": "Les maladies cardiaques, circulatoires, nerveuses et les vices d'écurie n'affectent que les chevaux domestiques."
+  },
+  {
+    "question": "Quel nom porte la saillie en forme de V située sous le pied du cheval ?",
+    "propositions": [
+      "Fourchette",
+      "Poinçon",
+      "Coin",
+      "Bourrelet"
+    ],
+    "réponse": "Fourchette",
+    "anecdote": "La fourchette du cheval est une saillie en forme de V à pointe antérieure, composée d'une corne tubulaire plus molle."
+  },
+  {
+    "question": "Combien de fois par jour un poulain peut-il téter sa mère ?",
+    "propositions": [
+      "50 à 60 fois",
+      "20 à 30 fois",
+      "30 à 40 fois",
+      "10 à 20 fois"
+    ],
+    "réponse": "50 à 60 fois",
+    "anecdote": "Les poulains tètent leur mère après la naissance pour absorber le colostrum qui renforce leurs défenses immunitaires."
+  },
+  {
+    "question": "Laquelle de ces couleurs de robe n'existe pas chez les chevaux ?",
+    "propositions": [
+      "Isabelle",
+      "Alezan",
+      "Camouflage",
+      "Pie"
+    ],
+    "réponse": "Camouflage",
+    "anecdote": "Un certain nombre de robes du cheval consistent en un mélange de poils blancs ou noirs sur l'une des trois robes de base."
+  },
+  {
+    "question": "Quelle race de chevaux est caractérisée par une robe alezane et une queue blanche ?",
+    "propositions": [
+      "Fjord",
+      "Shetland",
+      "Haflinger",
+      "Frison"
+    ],
+    "réponse": "Haflinger",
+    "anecdote": "De son élevage pour le travail en terrain accidenté, le Haflinger, originaire du Tyrol, a hérité d'une grande robustesse."
+  },
+  {
+    "question": "Combien de temps la digestion dure-t-elle chez un cheval adulte en bonne santé ?",
+    "propositions": [
+      "5 à 15 h",
+      "35 à 50 h",
+      "25 à 35 h",
+      "15 à 20 h"
+    ],
+    "réponse": "35 à 50 h",
+    "anecdote": "Les chevaux disposent d'un seul estomac, capable de digérer les fibres végétales qui proviennent de l'herbe et du foin."
+  },
+  {
+    "question": "À partir de quelle distance les chevaux peuvent-ils reconnaître les odeurs ?",
+    "propositions": [
+      "300 m",
+      "150 m",
+      "450 m",
+      "600 m"
+    ],
+    "réponse": "600 m",
+    "anecdote": "Le cheval effectue un flehmen, comportement particulier de flairage, permettant entre autres de détecter les phéromones."
+  },
+  {
+    "question": "Que faut-il masser pour calmer un cheval apparemment nerveux ?",
+    "propositions": [
+      "Queue",
+      "Dos",
+      "Ventre",
+      "Oreilles"
+    ],
+    "réponse": "Oreilles",
+    "anecdote": "Les contacts tactiles sont peu nombreux entre chevaux, à l'exception de la mère avec son poulain."
+  },
+  {
+    "question": "Dans quelle commune de France est installé depuis 1962 le secrétariat officiel du père Noël ?",
+    "propositions": [
+      "Rochefort",
+      "Libourne",
+      "Pontoise",
+      "Courbevoie"
+    ],
+    "réponse": "Libourne",
+    "anecdote": "Une soixantaine de lutins postiers sont à l'uvre pour répondre aux lettres et e-mails des enfants désireux de lui écrire."
+  },
+  {
+    "question": "Combien distingue-t-on environ d'espèces de sapin dans le monde ?",
+    "propositions": [
+      "6",
+      "46",
+      "4 600",
+      "460"
+    ],
+    "réponse": "46",
+    "anecdote": "Les sapins, proches parents des cèdres, font partie de la famille des Pinaceae et de la sous-famille des Abietoideae."
+  },
+  {
+    "question": "À quel réalisateur français doit-on le film à succès 'Le père Noël est une ordure' ?",
+    "propositions": [
+      "Patrice Ledoux",
+      "Alain Terzian",
+      "Claude Zidi",
+      "Jean-Marie Poiré"
+    ],
+    "réponse": "Jean-Marie Poiré",
+    "anecdote": "À sa sortie en salles, le film fut boycotté par la RATP qui refusa de louer des panneaux publicitaires suite au titre jugé trop provocant."
+  },
+  {
+    "question": "Quelle était la couleur du costume du père Noël avant qu'il ne devienne rouge ?",
+    "propositions": [
+      "Jaune",
+      "Verte",
+      "Orange",
+      "Grise"
+    ],
+    "réponse": "Verte",
+    "anecdote": "L'imagerie française le montre vers 1870-1890 en vieil homme habillé d'un manteau principalement vert et parfois bleu."
+  },
+  {
+    "question": "Dans quelle région de France mange-t-on encore aujourd'hui les treize desserts de Noël ?",
+    "propositions": [
+      "Provence",
+      "Bretagne",
+      "Alsace",
+      "Auvergne"
+    ],
+    "réponse": "Provence",
+    "anecdote": "Les desserts peuvent être bus avec du vin cuit ou du vin muscat, tandis qu'à la fin apparaissent toutes les liqueurs maisons."
+  },
+  {
+    "question": "En quelle année Tino Rossi a-t-il chanté pour la première fois 'Petit papa Noël' ?",
+    "propositions": [
+      "1950",
+      "1962",
+      "1946",
+      "1934"
+    ],
+    "réponse": "1946",
+    "anecdote": "Écrite par Raymond Vincy, cette chanson a été interprétée pour la première fois en 1946 dans le film 'Destins'."
+  },
+  {
+    "question": "En Irlande, que laisse-t-on sur la table avant de partir pour la messe de Noël ?",
+    "propositions": [
+      "Gin et oranges",
+      "Pain et sel",
+      "Whisky et carottes",
+      "Pommes et citrons"
+    ],
+    "réponse": "Whisky et carottes",
+    "anecdote": "Le symbole officiel de l'Irlande est la harpe celtique, mais le trèfle irlandais est souvent utilisé comme autre symbole (rugby)."
+  },
+  {
+    "question": "Dans quelle ville française le premier arbre de Noël a-t-il été décoré en 1521 ?",
+    "propositions": [
+      "Colmar",
+      "Mulhouse",
+      "Cernay",
+      "Sélestat"
+    ],
+    "réponse": "Sélestat",
+    "anecdote": "Le jardin du Dahlia, qui devient en hiver le jardin du Sapin, rend ainsi hommage au corso fleuri de la ville."
+  },
+  {
+    "question": "Quel pape aurait institué la fête de la Nativité à Rome le 25 décembre 354 ?",
+    "propositions": [
+      "Eusèbe",
+      "Libère",
+      "Pontien",
+      "Marcellin"
+    ],
+    "réponse": "Libère",
+    "anecdote": "Évêque de Rome succédant à Jules 1er, le pape Libère sera le premier à désigner Rome comme le siège apostolique."
+  },
+  {
+    "question": "Comment appelle-t-on un livre imprimé en Europe avant Noël 1500 ?",
+    "propositions": [
+      "Eau-forte",
+      "Taille-douce",
+      "Incunable",
+      "Estampe"
+    ],
+    "réponse": "Incunable",
+    "anecdote": "Le mot 'incunable' provient du nom pluriel latin 'incunabula', qui signifie littéralement les langes d'un nouveau-né."
+  },
+  {
+    "question": "Quel lieu a engendré l'expression « mentir comme un arracheur de dents » ?",
+    "propositions": [
+      "Champs",
+      "Musées",
+      "Hôpitaux",
+      "Rue"
+    ],
+    "réponse": "Rue",
+    "anecdote": "Au XIXe siècle, les dentistes exerçaient dans la rue et engageaient des musiciens pour ne pas dissuader d'éventuels nouveaux patients."
+  },
+  {
+    "question": "Quel objet est à l'origine de l'expression « voir midi à sa porte » ?",
+    "propositions": [
+      "Girouette",
+      "Calendrier",
+      "Sismographe",
+      "Cadran solaire"
+    ],
+    "réponse": "Cadran solaire",
+    "anecdote": "Dans les campagnes, il était fréquent que soit installé un tel cadran sur la façade de la maison orientée au sud, à proximité de l'entrée."
+  },
+  {
+    "question": "De quelle monde provient la célèbre expression « veiller au grain » ?",
+    "propositions": [
+      "Maritime",
+      "Universitaire",
+      "Des affaires",
+      "Agricole"
+    ],
+    "réponse": "Maritime",
+    "anecdote": "Le grain est en mer une tempête de vent soudaine que les marins redoutent et surveillent donc avec beaucoup d'attention."
+  },
+  {
+    "question": "L'expression « être une tête de turc » provient de quel endroit particulier ?",
+    "propositions": [
+      "Fête foraine",
+      "Cirque",
+      "Théâtre",
+      "Opéra"
+    ],
+    "réponse": "Fête foraine",
+    "anecdote": "La partie sur laquelle on frappait pour mesurer sa force musculaire représentait au XIXe siècle une tête de Turc, particulièrement fort."
+  },
+  {
+    "question": "À qui était directement destinée l'expression « sentir le roussi » ?",
+    "propositions": [
+      "Hérétiques",
+      "Fidèles",
+      "Prophètes",
+      "Prêtres"
+    ],
+    "réponse": "Hérétiques",
+    "anecdote": "L'expression fait référence aux hérétiques, victimes potentielles des foudres de l'Inquisition et souvent condamnées à finir au bûcher."
+  },
+  {
+    "question": "Quelle peuplade est à l'origine de l'envoi du « bouc émissaire » ?",
+    "propositions": [
+      "Celtes",
+      "Étrusques",
+      "Hébreux",
+      "Phéniciens"
+    ],
+    "réponse": "Hébreux",
+    "anecdote": "À la fête des expiations, le Grand Prêtre envoyait vers le désert un pauvre bouc chargé de tous les péchés et malédictions d'Israël."
+  },
+  {
+    "question": "Autour de quel jeu pouvait-on autrefois « épater la galerie » ?",
+    "propositions": [
+      "Polo",
+      "Tir à la corde",
+      "Jeu de paume",
+      "Baseball"
+    ],
+    "réponse": "Jeu de paume",
+    "anecdote": "Les galeries sont les espaces couverts ceinturant le jeu de paume où se tenaient les spectateurs chez qui susciter l'admiration."
+  },
+  {
+    "question": "Dans quel lieu public pouvait-on jadis entendre un « minute papillon » ?",
+    "propositions": [
+      "Café",
+      "Théâtre",
+      "Musée",
+      "Université"
+    ],
+    "réponse": "Café",
+    "anecdote": "Papillon était le patronyme d'un serveur du café du Cadran à Paris : le « Minute Papillon » lui indiquait qu'il pouvait prendre son temps."
+  },
+  {
+    "question": "Quel rapport lexical est à l'origine de l'expression 'être dans les choux' ?",
+    "propositions": [
+      "Paronymie",
+      "Apocope",
+      "Paraphrase",
+      "Anastrophe"
+    ],
+    "réponse": "Paronymie",
+    "anecdote": "C'est la paronymie entre les choux et échouer qui est le tout premier sens de cette expression datant du milieu du XIXe siècle."
+  },
+  {
+    "question": "Dans le langage de quelles courses arrivait-on « les doigts dans le nez » ?",
+    "propositions": [
+      "Automobiles",
+      "De fond",
+      "Cyclistes",
+      "Hippiques"
+    ],
+    "réponse": "Hippiques",
+    "anecdote": "C'est une image amusante qui montre la facilité qu'a eu le jockey à gagner, avec en plus les doigts dans le nez."
+  },
+  {
+    "question": "Qui la marque Campari a-t-elle choisie comme égérie pour son calendrier 2014 ?",
+    "propositions": [
+      "Naomi Watts",
+      "Uma Thurman",
+      "Christina Ricci",
+      "Nicole Kidman"
+    ],
+    "réponse": "Uma Thurman",
+    "anecdote": "En 2001, elle était apparue dans le spot de la marque Schweppes dont la réalisation fut confiée au photographe David LaChapelle."
+  },
+  {
+    "question": "Quelle brillante distributrice de film française nous a quitté en 2013 ?",
+    "propositions": [
+      "Fabienne Vonier",
+      "Margot Capelier",
+      "Catherine Varlin",
+      "Alice Guy"
+    ],
+    "réponse": "Fabienne Vonier",
+    "anecdote": "La société 'Pyramide Distribution' qu'elle a créé a pour logo les Pyramides de Gizeh, complétées d'une signature en lettres blanches."
+  },
+  {
+    "question": "Avec quel photographe Madonna fut-elle engagée dans son Secret Project ?",
+    "propositions": [
+      "Steve Klein",
+      "William Claxton",
+      "Garry Gross",
+      "Tim Walker"
+    ],
+    "réponse": "Steve Klein",
+    "anecdote": "Dans ce film de 17 minutes, la chanteuse promeut la liberté d'expression et la tolérance, dédiant son film aux persécutés."
+  },
+  {
+    "question": "Avec quelle actrice et chanteuse anglaise Laurence Fox est-il marié ?",
+    "propositions": [
+      "Katie Melua",
+      "Billie Piper",
+      "Cathy Dennis",
+      "Melanie Brown"
+    ],
+    "réponse": "Billie Piper",
+    "anecdote": "Billie Piper est une chanteuse à succès et une actrice connue pour ses rôles dans 'Doctor Who' et 'Journal intime d'une call girl'."
+  },
+  {
+    "question": "Quelle interprète de Rosie Camden est apparue en lingerie pour le magazine Maxim ?",
+    "propositions": [
+      "Jessica Biel",
+      "Mackenzie Rosman",
+      "Selena Gomez",
+      "Hilary Duff"
+    ],
+    "réponse": "Mackenzie Rosman",
+    "anecdote": "En 2004, elle fut élue meilleure jeune actrice dans un second rôle dans une série télévisée pour la série 'Sept à la maison'."
+  },
+  {
+    "question": "Quel photographe a assigné en justice Les Restos du cur en 2013 ?",
+    "propositions": [
+      "Gaston Bergeret",
+      "Philippe Bazin",
+      "Christian Boyer",
+      "Guy Bourdin"
+    ],
+    "réponse": "Gaston Bergeret",
+    "anecdote": "Gaston Bergeret les a assigné en justice pour les droits d'auteur de la photo de Coluche prise il y a trente ans pour l'affiche."
+  },
+  {
+    "question": "Avec quelle publicitaire de 33 ans sa cadette Richard Gere s'est-il marié ?",
+    "propositions": [
+      "Karolina Kurkova",
+      "Alejandra Silva",
+      "Cindy Gallop",
+      "Jana Irrova"
+    ],
+    "réponse": "Alejandra Silva",
+    "anecdote": "C'est à travers son intérêt pour les uvres charitables que la publicitaire Alejandra Silva a rencontré en 2015 l'acteur Richard Gere."
+  },
+  {
+    "question": "Quelle désormais grande dame a fêté ses 48 ans en avril 2018 ?",
+    "propositions": [
+      "Angela Merkel",
+      "Beatrix",
+      "Melania Trump",
+      "Brigitte Macron"
+    ],
+    "réponse": "Melania Trump",
+    "anecdote": "Grâce à son élégance légendaire et son sens pointu de la mode, la belle slovène nous donne des leçons de style à chaque apparition."
+  },
+  {
+    "question": "Quel est le premier prénom du troisième enfant de Kate Middelton ?",
+    "propositions": [
+      "Logan",
+      "Louis",
+      "Charles",
+      "Arthur"
+    ],
+    "réponse": "Louis",
+    "anecdote": "Bien avant la naissance du Royal Baby 3, les bookmakers anglais avaient parié sur le prénom du nouveau-né : Arthur."
+  },
+  {
+    "question": "Quel jeune DJ suédois a disparu, évoquant par son geste le mal-être qui l'habitait ?",
+    "propositions": [
+      "Tiesto",
+      "Diplo",
+      "Avicii",
+      "Afrojack"
+    ],
+    "réponse": "Avicii",
+    "anecdote": "Le 26 avril 2018, la famille évoquait la thèse d'un suicide et indique qu'Avicii n'en pouvait plus et voulait la paix."
+  },
+  {
+    "question": "Comment appelle-t-on la ligne imaginaire qui sépare deux pays ?",
+    "propositions": [
+      "Frontière",
+      "Tangente",
+      "Section",
+      "Médiane"
+    ],
+    "réponse": "Frontière",
+    "anecdote": "Le sens attribué au mot frontière a évolué tout au long de l'histoire, et il n'a pas été le même d'une époque à l'autre."
+  },
+  {
+    "question": "Quel est le nombre total de points sur un dé à six faces de jeu de société ?",
+    "propositions": [
+      "21",
+      "18",
+      "15",
+      "30"
+    ],
+    "réponse": "21",
+    "anecdote": "Les dés les plus courants sont des petits cubes de 1 à 2 cm de côté (souvent 16 mm), possédant donc 6 faces numérotées de 1 à 6."
+  },
+  {
+    "question": "Quelle catégorie d'animaux nourrissent leurs petits avec leur lait ?",
+    "propositions": [
+      "Carnivores",
+      "Primates",
+      "Rongeurs",
+      "Mammifères"
+    ],
+    "réponse": "Mammifères",
+    "anecdote": "Les nouveau-nés nécessitent systématiquement des soins parentaux du fait de leur appareil digestif immature à la naissance."
+  },
+  {
+    "question": "Dans nos jardins, quelle partie de la plante s'enfonce parfois profondément dans la terre ?",
+    "propositions": [
+      "Tige",
+      "Épine",
+      "Pétale",
+      "Racine"
+    ],
+    "réponse": "Racine",
+    "anecdote": "La racine est un organe vital de la plante, qui se forme très tôt lors du développement de la plante, dès le début de la germination."
+  },
+  {
+    "question": "En quelle matière sont fabriqués les pneus des voitures ?",
+    "propositions": [
+      "Plastique",
+      "Carbone",
+      "Caoutchouc",
+      "Liège"
+    ],
+    "réponse": "Caoutchouc",
+    "anecdote": "Un pneu est conçu pour être monté sur la jante d'une roue et gonflé avec un gaz sous pression, habituellement de l'air ou de l'azote."
+  },
+  {
+    "question": "Comment appelle-t-on une maison construite en bois en pleine montagne ?",
+    "propositions": [
+      "Chalet",
+      "Gîte",
+      "Auberge",
+      "Caravane"
+    ],
+    "réponse": "Chalet",
+    "anecdote": "En Suisse romande, le terme chalet désigne également l'édifice où l'on fait le fromage en été dans les hauts alpages."
+  },
+  {
+    "question": "Laquelle de ces nages représente le type de nage le plus rapide ?",
+    "propositions": [
+      "Crawl",
+      "Basse",
+      "Papillon",
+      "Dos"
+    ],
+    "réponse": "Crawl",
+    "anecdote": "En crawl, la position du corps est horizontale et se caractérise par un battement des jambes et d'une rotation des bras en dehors de l'eau."
+  },
+  {
+    "question": "En compétition, que met-on sur le dos de certains sportifs pour les reconnaître ?",
+    "propositions": [
+      "Mouchoir",
+      "Maillot",
+      "Dossard",
+      "Drapeau"
+    ],
+    "réponse": "Dossard",
+    "anecdote": "En dehors du sport hippique, l'athlétisme et le cyclisme furent les premières disciplines à adopter le système de dossard."
+  },
+  {
+    "question": "Quelle source d'énergie permet de faire avancer une planche à voile ?",
+    "propositions": [
+      "Éolienne",
+      "Marine",
+      "Solaire",
+      "Hydraulique"
+    ],
+    "réponse": "Éolienne",
+    "anecdote": "En 2015 l'éolien fournissait 3,4 % de la production mondiale d'électricité. En 2017, cette part a été portée à 4 % avec 539 GW."
+  },
+  {
+    "question": "Quelle course cycliste de France est aussi appelée la Grande Boucle ?",
+    "propositions": [
+      "Milan-San Remo",
+      "Tour de France",
+      "Paris-Nice",
+      "Critérium"
+    ],
+    "réponse": "Tour de France",
+    "anecdote": "Cette compétition cycliste par étapes masculine a lieu principalement en France, tout en traversant occasionnellement les pays voisins."
+  },
+  {
+    "question": "Quelle mannequin slovaque est actuellement en couple avec Gaël Clichy ?",
+    "propositions": [
+      "Margaret Natsuki",
+      "Ana Ivanovic",
+      "Charlene Suric",
+      "Coral Simanovich"
+    ],
+    "réponse": "Charlene Suric",
+    "anecdote": "D'ascendance martiniquaise, l'international français Gaël Clichy est en couple avec cette mannequin venue tout droit de Slovaquie."
+  },
+  {
+    "question": "Quelle mannequin japonais vit avec le milieu offensif Shinji Kagawa ?",
+    "propositions": [
+      "Kurara Chibana",
+      "Margaret Natsuki",
+      "Nicole Fujita",
+      "Rosa Kato"
+    ],
+    "réponse": "Margaret Natsuki",
+    "anecdote": "Shinji Kagawa s'est refait une deuxième carrière en Bundesliga avec son mannequin à la double nationalité : japonaise et canadienne."
+  },
+  {
+    "question": "Avec quelle chanteuse germano-italienne Mesut Özil est-il sorti ?",
+    "propositions": [
+      "Madeline Juno",
+      "Anna Fischer",
+      "Mandy Capristo",
+      "Kim Petras"
+    ],
+    "réponse": "Mandy Capristo",
+    "anecdote": "Le Gunner a quitté la Vénézuélienne Aida Yespica pour Mandy Capristo dans une relation tumultueuse terminée en octobre 2014."
+  },
+  {
+    "question": "Quelle mannequin israélienne est la petite amie de Sergi Roberto ?",
+    "propositions": [
+      "Maria Domark",
+      "Coral Simanovich",
+      "Gal Gadot",
+      "Vika Finkelstein"
+    ],
+    "réponse": "Coral Simanovich",
+    "anecdote": "Sergi Roberto, très fort physiquement, possède une grande polyvalence qui lui a permis de jouer à sept postes différents."
+  },
+  {
+    "question": "Quelle designer allemande vit aux côtés de Mario Götze ?",
+    "propositions": [
+      "Barbara Meier",
+      "Ann-Kathrin Vida",
+      "Gina Wild",
+      "Anna Ewers"
+    ],
+    "réponse": "Ann-Kathrin Vida",
+    "anecdote": "En 2014, Mario Götze participa à la Coupe du monde : entré en jeu à la 88e minute contre l'Argentine, il marquera le seul but de la partie."
+  },
+  {
+    "question": "Quelle sublime mannequin s'est mariée avec Fabio Borini ?",
+    "propositions": [
+      "Victoria Lopyreva",
+      "Edurne Garcia",
+      "Erin O'Neill",
+      "Carol Cabrino"
+    ],
+    "réponse": "Erin O'Neill",
+    "anecdote": "La sublime mannequin s'est mariée avec Fabio Borini en Toscane. Son soucis, elle doit maintenant vivre sous la pluie à Sunderland."
+  },
+  {
+    "question": "Quelle magnifique mannequin hongroise vit avec Graziano Pellè ?",
+    "propositions": [
+      "Viktoria Varga",
+      "Charlene Suric",
+      "Montana Yorke",
+      "Chiara Picone"
+    ],
+    "réponse": "Viktoria Varga",
+    "anecdote": "Après deux saisons aux Pays-Bas et un bilan très prolifique de 55 buts inscrits pour 66 matchs joués, il a signé au Southampton FC."
+  },
+  {
+    "question": "Quelle ancien mannequin partage sa vie avec Chris Smalling ?",
+    "propositions": [
+      "Sara Carbonero",
+      "Carol Cabrino",
+      "Pilar Rubio",
+      "Sam Crooke"
+    ],
+    "réponse": "Sam Crooke",
+    "anecdote": "Depuis peu, cette ancien mannequin s'est reconvertie et mise à la photographie pour tenter de passer de l'autre côté de l'objectif."
+  },
+  {
+    "question": "Quelle célèbre pop star espagnole partage sa vie avec David De Gea ?",
+    "propositions": [
+      "Edurne Garcia",
+      "Marcela Morelo",
+      "Debi Nova",
+      "Soledad Bravo"
+    ],
+    "réponse": "Edurne Garcia",
+    "anecdote": "La célèbre pop star espagnole fait partie de ceux qui souhaitent voir le gardien de but de Manchester United évoluer en Espagne."
+  },
+  {
+    "question": "Quelle Miss Russie 2003 a été mariée à Fyodor Smolov ?",
+    "propositions": [
+      "Victoria Lopyreva",
+      "Oxana Fedorova",
+      "Anna Malova",
+      "Sofia Rudieva"
+    ],
+    "réponse": "Victoria Lopyreva",
+    "anecdote": "Victoria a connu le milieu du football en 2007 quand elle a travaillé avec Georgiy Cherdantsev dans l'émission télévisée 'Football Night'."
+  },
+  {
+    "question": "En combien de quartiers la ville de Mouscron est-elle divisée ?",
+    "propositions": [
+      "Quatre",
+      "Six",
+      "Cinq",
+      "Sept"
+    ],
+    "réponse": "Sept",
+    "anecdote": "Les sept quartiers sont le Centre, la Gare, le Mont-à-Leux, le Tuquet, le Risquons-Tout, le Nouveau-Monde et la Coquini."
+  },
+  {
+    "question": "Étymologiquement, que signifierait le mot Mouscron ?",
+    "propositions": [
+      "Pays vert",
+      "Tissu blanc",
+      "Grande courbe",
+      "Terre humide"
+    ],
+    "réponse": "Terre humide",
+    "anecdote": "Des documents attestent de Moscheron, dès 1060, ce qui signifie petite terre humide (germanique muska ou roman muscus)."
+  },
+  {
+    "question": "Quel cinéma actuel s'est d'abord appelé 'Le vieux Mouscron' ?",
+    "propositions": [
+      "Variété",
+      "Forever",
+      "Imagix",
+      "Cinémascope"
+    ],
+    "réponse": "Forever",
+    "anecdote": "Le premier cinéma a ouvert ses portes rue de la Marlière le 18 août 1913. Il deviendra par la suite le Studio 31 et fermera en 2001."
+  },
+  {
+    "question": "Dans quel collège peut-on faire ses études primaires et secondaires à Mouscron ?",
+    "propositions": [
+      "Sainte-Agathe",
+      "Sainte-Cécile",
+      "Sainte-Marie",
+      "Sainte-Lucie"
+    ],
+    "réponse": "Sainte-Marie",
+    "anecdote": "Le Collège s'efforce de proposer un enseignement général de qualité, décliné en un large choix d'options variées et équilibrées."
+  },
+  {
+    "question": "Quel château est un fleuron du patrimoine civil mouscronnois ?",
+    "propositions": [
+      "De La Berlière",
+      "Des Comtes",
+      "De Prelle",
+      "De la Royère"
+    ],
+    "réponse": "Des Comtes",
+    "anecdote": "Au temps de sa magnificence, le domaine se composait du château (donjon) et des bâtiments de ferme de la basse cour."
+  },
+  {
+    "question": "En quelle année fut inauguré l'hôtel de ville de Mouscron ?",
+    "propositions": [
+      "1930",
+      "1910",
+      "1870",
+      "1890"
+    ],
+    "réponse": "1890",
+    "anecdote": "Le style présenté par l'architecte brugeois René Aimé Buyck peut être défini néo-gothique de la Flandre maritime."
+  },
+  {
+    "question": "Quel était le précédent nom de la place Emmanuel de Neckere à Mouscron ?",
+    "propositions": [
+      "Place Verte",
+      "Place Duponchelle",
+      "Place Royale",
+      "Place d'Argent"
+    ],
+    "réponse": "Place Verte",
+    "anecdote": "Le dallage de la place est particulièrement intéressant : il représente la devise de la ville jusqu'à porter la besace."
+  },
+  {
+    "question": "Quelle statue mouscronnoise fut réalisée par le sculpteur Osvaldo Parise ?",
+    "propositions": [
+      "Le Farceur",
+      "Le Lecteur",
+      "Le Rameur",
+      "Le Penseur"
+    ],
+    "réponse": "Le Lecteur",
+    "anecdote": "Au début des années 1980, une grande entreprise de revitalisation du centre urbain de la ville de Mouscron fut décrétée."
+  },
+  {
+    "question": "Quel ministre de la Justice inaugura le parc de Mouscron en 1932 ?",
+    "propositions": [
+      "Jean Gol",
+      "Fernand Cocq",
+      "Jules Bara",
+      "Jules Renkin"
+    ],
+    "réponse": "Fernand Cocq",
+    "anecdote": "Fernand Cocq est le père de la peintre Suzanne Cocq, née à Ixelles le 12 juin 1894 et décédée à Etterbeek le 12 juillet 1979."
+  },
+  {
+    "question": "Quelle radio libre subsiste toujours dans la région de Mouscron ?",
+    "propositions": [
+      "Galaxie",
+      "Radio Qui Chifel",
+      "Equinoxe",
+      "Buzz Radio"
+    ],
+    "réponse": "Radio Qui Chifel",
+    "anecdote": "Radio Qui Chifel est une radio non commerciale et associative qui existe depuis décembre 1979 grâce à une équipe de bénévoles."
+  },
+  {
+    "question": "Sous OpenBSD, quelle technique de mise en cage connue des admins permet la gestion des privilèges ?",
+    "propositions": [
+      "Bash",
+      "Rlogin",
+      "Chroot",
+      "Grep"
+    ],
+    "réponse": "Chroot",
+    "anecdote": "La séparation des privilèges est une technique, pionnière sur OpenBSD, et inspirée du principe du moindre privilège."
+  },
+  {
+    "question": "Quelle licence open source propre est utilisée par OpenBSD ?",
+    "propositions": [
+      "CeCILL",
+      "ISC",
+      "LPPL",
+      "SPDX"
+    ],
+    "réponse": "ISC",
+    "anecdote": "Cette licence propre a conduit à un audit exhaustif des licences et des remplacements, voire des suppressions de codes sous licences."
+  },
+  {
+    "question": "Que représente la mascotte régulièrement utilisée par le projet OpenBSD ?",
+    "propositions": [
+      "Cachalot",
+      "Diodon",
+      "Gnou",
+      "Chapeau"
+    ],
+    "réponse": "Diodon",
+    "anecdote": "Ces espèces sont souvent appelées poissons-hérissons, poissons porc-épic ou encore hérisson des mers."
+  },
+  {
+    "question": "Avec quelle société Theo de Raadt a-t-il sorti OpenBSD 2.3 ?",
+    "propositions": [
+      "Secure Networks inc.",
+      "Cisco",
+      "Corail Systems",
+      "Sysdream"
+    ],
+    "réponse": "Secure Networks inc.",
+    "anecdote": "SNI était une société locale de logiciels de sécurité qui développait un outil d'audit de la sécurité réseau nommé Ballista."
+  },
+  {
+    "question": "Qui a découvert en 2002 une faille dans le code d'OpenSSH ?",
+    "propositions": [
+      "Chris Cappuccio",
+      "Steven Mestdagh",
+      "Joel Knight",
+      "Mark Dow"
+    ],
+    "réponse": "Mark Dow",
+    "anecdote": "Ce fut la première vulnérabilité découverte dans l'installation par défaut d'OpenBSD permettant d'accéder au compte superutilisateur."
+  },
+  {
+    "question": "À quel endroit du code d'OpenBSD a-t-on découvert une faille en 2007 ?",
+    "propositions": [
+      "Fdisk",
+      "NFS",
+      "Packet Filter",
+      "Pile IPV6"
+    ],
+    "réponse": "Pile IPV6",
+    "anecdote": "Internet Protocol version 6 est un protocole réseau sans connexion de la couche 3 du modèle OSI (Open Systems Interconnection)."
+  },
+  {
+    "question": "Quelle technique de protection de mémoire est implémentée dans le code d'OpenBSD ?",
+    "propositions": [
+      "LinShare",
+      "ClamWin",
+      "PhotoRec",
+      "ProPolice"
+    ],
+    "réponse": "ProPolice",
+    "anecdote": "La protection Stack-Smashing Protector a originairement été écrite, et est toujours entretenue, par Hiroaki Etoh de la société IBM."
+  },
+  {
+    "question": "Sur combien de plates-formes matérielles OpenBSD a-t-il fonctionné ?",
+    "propositions": [
+      "32",
+      "42",
+      "22",
+      "12"
+    ],
+    "réponse": "32",
+    "anecdote": "OpenBSD peut également exécuter des programmes compilés pour Linux (sur les processeurs i386 uniquement)."
+  },
+  {
+    "question": "Quel projet du groupe OpenBSD permet de remplacer sendmail ?",
+    "propositions": [
+      "OpenSMTPD",
+      "OpenNTPD",
+      "OpenCVS",
+      "OpenBGPD"
+    ],
+    "réponse": "OpenSMTPD",
+    "anecdote": "Le développement d'OpenSMTPD a commencé fin 2008. Il est apparu pour la première fois dans OpenBSD 4.6."
+  },
+  {
+    "question": "Quelle version d'Apache lourdement modifiée est intégrée à OpenBSD ?",
+    "propositions": [
+      "3.3",
+      "4.3",
+      "2.3",
+      "1.3"
+    ],
+    "réponse": "1.3",
+    "anecdote": "Maintenu au sein de la fondation Apache, distribué sous la licence Apache, ce serveur HTTP est le plus populaire du web."
+  },
+  {
+    "question": "Quelle personnalité a dit : « C'est ce qui sort de ta bouche qui te maintient en vie » ?",
+    "propositions": [
+      "Bob Marley",
+      "Emile Deschanel",
+      "Confucius",
+      "Woody Allen"
+    ],
+    "réponse": "Bob Marley",
+    "anecdote": "Bob Marley est celui qui a permis à la musique jamaïcaine et au mouvement rastafari de connaître une audience planétaire."
+  },
+  {
+    "question": "Qui a dit : « Le masque est si charmant que j'ai peur du visage » ?",
+    "propositions": [
+      "Stendhal",
+      "Alfred de Musset",
+      "Montesquieu",
+      "André Malraux"
+    ],
+    "réponse": "Alfred de Musset",
+    "anecdote": "Le théâtre et la poésie lyrique d'Alfred de Musset montrent une sensibilité extrême et une interrogation sur la pureté et la débauche."
+  },
+  {
+    "question": "Qui a dit : « La beauté est dans les yeux de celui qui regarde » ?",
+    "propositions": [
+      "Stendhal",
+      "Confucius",
+      "Guy de Maupassant",
+      "Oscar Wilde"
+    ],
+    "réponse": "Oscar Wilde",
+    "anecdote": "Oscar Wilde incarne une nouvelle sensibilité qui apparaît en réaction contre le positivisme et le naturalisme."
+  },
+  {
+    "question": "Qui a dit : « Un baiser légal ne vaut jamais un baiser volé » ?",
+    "propositions": [
+      "André Malraux",
+      "Alfred de Musset",
+      "Sacha Guitry",
+      "Guy de Maupassant"
+    ],
+    "réponse": "Guy de Maupassant",
+    "anecdote": "Reconnu de son vivant, il conserve un renom de premier plan, renouvelé par les nombreuses adaptations filmées de ses oeuvres."
+  },
+  {
+    "question": "Qui a dit : « On n'emporte en mourant que ce qu'on a donné » ?",
+    "propositions": [
+      "Hector Durville",
+      "Gaston Méry",
+      "Émile Deschanel",
+      "Théodore Garnier"
+    ],
+    "réponse": "Émile Deschanel",
+    "anecdote": "Les papiers personnels de la famille Deschanel sont conservés aux Archives nationales sous la cote 151AP."
+  },
+  {
+    "question": "Qui a dit : « Plus on plaît généralement, moins on plaît profondément » ?",
+    "propositions": [
+      "Stendhal",
+      "Montesquieu",
+      "Voltaire",
+      "Lamartine"
+    ],
+    "réponse": "Stendhal",
+    "anecdote": "Stendhal aurait voulu consacrer sa vie à la rêverie, à la chasse au bonheur et à l'amour ; malgré lui, il eut une vie mouvementée."
+  },
+  {
+    "question": "Qui a dit : « Mieux vaut mourir incompris que passer sa vie à s'expliquer » ?",
+    "propositions": [
+      "Serge Gainsbourg",
+      "Eric Cantona",
+      "William Shakespeare",
+      "Oscar Wilde"
+    ],
+    "réponse": "William Shakespeare",
+    "anecdote": "Il est réputé pour sa maîtrise des formes poétiques et littéraires, ainsi que sa capacité à représenter les aspects de la nature humaine."
+  },
+  {
+    "question": "Qui a dit : « La perte d'un ennemi ne compense pas celle d'un ami » ?",
+    "propositions": [
+      "Oscar Wilde",
+      "Lamartine",
+      "Stendhal",
+      "Abraham Lincoln"
+    ],
+    "réponse": "Abraham Lincoln",
+    "anecdote": "Seizième président des États-Unis, il fut élu à deux reprises président du pays, en novembre 1860 et en novembre 1864."
+  },
+  {
+    "question": "Qui a dit : « La chance est bien souvent un hasard qui se provoque » ?",
+    "propositions": [
+      "Oscar Wilde",
+      "Bob Marley",
+      "Confucius",
+      "Guy de Maupassant"
+    ],
+    "réponse": "Confucius",
+    "anecdote": "Personnage historique ayant le plus marqué la civilisation chinoise, Confucius est considéré comme le premier éducateur de la Chine."
+  },
+  {
+    "question": "Qui a dit : « La beauté est la seule vengeance des femmes » ?",
+    "propositions": [
+      "Woody Allen",
+      "Sacha Guitry",
+      "Serge Gainsbourg",
+      "Coluche"
+    ],
+    "réponse": "Serge Gainsbourg",
+    "anecdote": "Serge Gainsbourg influencera considérablement des artistes français comme le groupe Taxi Girl, Renaud ou encore Étienne Daho."
+  },
+  {
+    "question": "De quel artiste les Pays-Bas ont-ils célébré en 2019 les 350 ans de la mort ?",
+    "propositions": [
+      "De Jongh",
+      "Van Dijck",
+      "Bosschaert",
+      "Rembrandt"
+    ],
+    "réponse": "Rembrandt",
+    "anecdote": "Rembrandt est généralement considéré comme l'un des plus grands peintres de l'histoire de la peinture, notamment de la peinture baroque."
+  },
+  {
+    "question": "En 2019, contre quelle maladie le vaccin est-il devenu obligatoire en Somalie ?",
+    "propositions": [
+      "Rougeole",
+      "Coqueluche",
+      "Rubéole",
+      "Varicelle"
+    ],
+    "réponse": "Rougeole",
+    "anecdote": "Cette vaccination fait suite à une épidémie qui a fait 63 morts, elle-même causée par une faible couverture vaccinale des Îles Samoa."
+  },
+  {
+    "question": "Quel pays a pris en janvier 2019 la présidence tournante de l'Union européenne ?",
+    "propositions": [
+      "Allemagne",
+      "Croatie",
+      "Finlande",
+      "Roumanie"
+    ],
+    "réponse": "Roumanie",
+    "anecdote": "La présidence du Conseil n'est pas détenue par un président unique mais est exercée par le gouvernement de l'État membre."
+  },
+  {
+    "question": "La rupture de quel barrage brésilien eut un impact important sur la biodiversité amazonienne ?",
+    "propositions": [
+      "Camacari",
+      "Brumadinho",
+      "Arapiraca",
+      "Sumaré"
+    ],
+    "réponse": "Brumadinho",
+    "anecdote": "La rupture du barrage de Brumadinho au Minas Gerais fit au moins 115 morts et de nombreux disparus, provoquant un désastre écologique."
+  },
+  {
+    "question": "Quel nouveau site maya d'offrandes quasi-intact fut révélé au grand public en 2019 ?",
+    "propositions": [
+      "Culuba",
+      "Chichén Itzá",
+      "Uxmal",
+      "Bonampak"
+    ],
+    "réponse": "Chichén Itzá",
+    "anecdote": "Connu par les archéologues mexicains et les populations mayas locales depuis 50 ans, le site était jusque-là caché dans une grotte murée."
+  },
+  {
+    "question": "Quel cyclone a provoqué plus de trois cents morts au Mozambique et au Zimbabwe ?",
+    "propositions": [
+      "Bingiza",
+      "Idai",
+      "Gamède",
+      "Tracy"
+    ],
+    "réponse": "Idai",
+    "anecdote": "Alors que les morts se comptent très probablement en milliers au Mozambique, Idai y a détruit à 90 % Beira, la deuxième ville du pays."
+  },
+  {
+    "question": "Quel eurodéputé italien a été élu président du Parlement européen en 2019 ?",
+    "propositions": [
+      "Paolo De Castro",
+      "David Sassoli",
+      "Franco Bonanini",
+      "Mario Mauro"
+    ],
+    "réponse": "David Sassoli",
+    "anecdote": "Ce journaliste et homme politique italien a également été présentateur de l'édition de 20 heures et vice-directeur du TG1 sur Rai 1."
+  },
+  {
+    "question": "Au Mexique, quelle famille fut massacrée dans la Sierra Madre en 2019 ?",
+    "propositions": [
+      "Sinaloa",
+      "LeBaron",
+      "Fernando",
+      "Michoacana"
+    ],
+    "réponse": "LeBaron",
+    "anecdote": "Si les assaillants de ce groupe de femmes et d'enfants sont bien des narcotrafiquants, cela en ferait un massacre de la Guerre de la drogue."
+  },
+  {
+    "question": "Quel volcan est entré en éruption le 9 décembre 2019 en Nouvelle-Zélande ?",
+    "propositions": [
+      "Home Reef",
+      "White Island",
+      "Kambalny",
+      "Mont Carlisle"
+    ],
+    "réponse": "White Island",
+    "anecdote": "L'île est constituée de deux volcans andésitiques imbriqués dont l'un est un cratère en forme de fer à cheval ouvert vers le sud-est."
+  },
+  {
+    "question": "Quelle ville a fêté en 2019 les cent ans de sa station de radio ?",
+    "propositions": [
+      "Montréal",
+      "Miami",
+      "Berlin",
+      "Londres"
+    ],
+    "réponse": "Montréal",
+    "anecdote": "Montréal, ville du Canada, a en effet été la première ville au monde à posséder une vraie station de radio en 1919."
+  },
+  {
+    "question": "Quelle ville chinoise a décrété le niveau d'alerte sanitaire maximal le 25 janvier 2020 ?",
+    "propositions": [
+      "Tianjin",
+      "Shanghai",
+      "Chongqing",
+      "Hong Kong"
+    ],
+    "réponse": "Hong Kong",
+    "anecdote": "Hong Kong se place dans le rang des grands centres financiers avec New York et Londres (cette trilogie étant appelée Nylonkong)."
+  },
+  {
+    "question": "Quel navire de croisière fut confiné dans le port de Yokohama durant quatorze jours ?",
+    "propositions": [
+      "Diamond Princess",
+      "Emerald Princess",
+      "Golden Princess",
+      "Island Princess"
+    ],
+    "réponse": "Diamond Princess",
+    "anecdote": "Deux passagers qui avaient été évacués dans un hôpital japonais les 11 et 12 février 2020 seront déclarés morts le 20 février 2020."
+  },
+  {
+    "question": "Quelle commune de Lombardie constituait en février 2020 le principal foyer d'infection en Italie ?",
+    "propositions": [
+      "Mulazzano",
+      "Maleo",
+      "Codogno",
+      "Bertonico"
+    ],
+    "réponse": "Codogno",
+    "anecdote": "Le 23 février 2020, Codogno et dix communes alentours furent placées en quarantaine (avec 52 000 personnes confinées)."
+  },
+  {
+    "question": "Quel coronavirus est à l'origine de l'épidémie qui a débuté fin 2019 dans le monde ?",
+    "propositions": [
+      "Zika",
+      "Dengue",
+      "Chikungunya",
+      "SARS-CoV-2"
+    ],
+    "réponse": "SARS-CoV-2",
+    "anecdote": "Le coronavirus du syndrome respiratoire aigu sévère 2 est apparenté au coronavirus du SRAS, appartenant au sous-genre Sarbecovirus."
+  },
+  {
+    "question": "Dans quel pays les trois premiers malades européens du COVID-19 furent-ils annoncés ?",
+    "propositions": [
+      "France",
+      "Belgique",
+      "Espagne",
+      "Italie"
+    ],
+    "réponse": "France",
+    "anecdote": "Deux personnes à Paris et une autre à Bordeaux furent ainsi détectées positives au virus, les trois patients ayant séjourné à Wuhan."
+  },
+  {
+    "question": "Quelle était la période d'incubation maximale fixée en février 2020 à l'égard du COVID-19 ?",
+    "propositions": [
+      "21 jours",
+      "35 jours",
+      "14 jours",
+      "28 jours"
+    ],
+    "réponse": "14 jours",
+    "anecdote": "La période d'incubation semble être le plus souvent comprise entre quatre et sept jours et très certainement inférieure à quatorze jours."
+  },
+  {
+    "question": "En 2020, quelle ville a reporté le Salon international des inventions suite au coronavirus ?",
+    "propositions": [
+      "Bruxelles",
+      "Genève",
+      "Berlin",
+      "Madrid"
+    ],
+    "réponse": "Genève",
+    "anecdote": "En 2009, le Salon a obtenu le patronage de l'Organisation mondiale de la propriété intellectuelle (OMPI), en plus du patronage de la Suisse."
+  },
+  {
+    "question": "Quelle est la durée de vie en milieu humide du COVID-19 hors organisme ?",
+    "propositions": [
+      "Trois jours",
+      "Six jours",
+      "Six heures",
+      "Trois heures"
+    ],
+    "réponse": "Trois jours",
+    "anecdote": "Cette durée exclue la possibilité de contamination par colis, qui dans les cas les plus rapides, parcourent la distance ChineÉtats-Unis en 4 jours."
+  },
+  {
+    "question": "Quel pays fut le théâtre d'un foyer épidémique centré sur la secte Shincheonji ?",
+    "propositions": [
+      "Corée du Nord",
+      "Japon",
+      "Chine",
+      "Corée du Sud"
+    ],
+    "réponse": "Corée du Sud",
+    "anecdote": "Le 31 janvier, la Corée du Sud a décidé de rapatrier 367 de ses ressortissants à l'aide d'un Boeing 747 de Korean Air."
+  },
+  {
+    "question": "Quel médecin a déclaré que le monde n'était pas prêt à faire face à l'épidémie de coronavirus ?",
+    "propositions": [
+      "Michel Fernex",
+      "Robert Wylie",
+      "Bruce Aylward",
+      "Hans Klug"
+    ],
+    "réponse": "Bruce Aylward",
+    "anecdote": "Le Docteur Bruce Aylward a été prêté par l'OMS au Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA)."
+  }
+]
